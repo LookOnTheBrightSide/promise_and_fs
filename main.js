@@ -4563,35 +4563,7 @@ cities =
 // ================ 	WORKING CODE 	 ================//
 // var fields = ['city', 'coordinates'];
 
-// cities.map(function(city, coords) {
-//     getCoords(city)
-//         .then((coords, cities) => {
-//             //var infoz = [];
-//             infoz = [city, coords];
-//             //infoz.push(results)
-//             //results = (city + " : " + JSON.stringify(coords));
-//             //infoz = (infoz[0])
-//             //console.log(infoz)
-//             data = {
-//                 "city": infoz[0],
-//                 "coords": infoz[1]
-//             }
-//             //console.log(data)
-//             //return data
-//             fs.writeFile("data_n_stuff.txt", JSON.stringify(data), function(err) {
-//                 if (err) {
-//                     return console.log(err);
-//                 }
-//                 console.log("The file was saved!");
-//             });
-
-//         });
-
-
-// })
-//var todo =
-
-require('async').map(cities, function(city, coords) {
+cities.map(function(city, coords) {
     getCoords(city)
         .then((coords, cities) => {
             //var infoz = [];
@@ -4605,31 +4577,26 @@ require('async').map(cities, function(city, coords) {
                 "coords": infoz[1]
             }
             //console.log(data)
-            //return data
-            fs.writeFile("data_n_stuff.txt", JSON.stringify(data), function(err) {
+            fs.appendFile("datanstuff.txt", JSON.stringify(data), function(err) {
                 if (err) {
                     return console.log(err);
                 }
+
                 console.log("The file was saved!");
             });
-
+            //return data
         });
 
 
-});
+})
+//var todo =
 
 
 
 
 
 //console.log(resultsnstuff)
-// fs.writeFile("datanstuff.txt", resultsnstuff, function(err) {
-//     if(err) {
-//         return console.log(err);
-//     }
 
-//     console.log("The file was saved!");
-// });
 // // for (var i = 0; i <= cities.length; i++) {
 // //     getCoords(cities[i])
 // //         .then((coords, cities) => {
