@@ -4563,7 +4563,35 @@ cities =
 // ================ 	WORKING CODE 	 ================//
 // var fields = ['city', 'coordinates'];
 
-cities.map(function(city, coords) {
+// cities.map(function(city, coords) {
+//     getCoords(city)
+//         .then((coords, cities) => {
+//             //var infoz = [];
+//             infoz = [city, coords];
+//             //infoz.push(results)
+//             //results = (city + " : " + JSON.stringify(coords));
+//             //infoz = (infoz[0])
+//             //console.log(infoz)
+//             data = {
+//                 "city": infoz[0],
+//                 "coords": infoz[1]
+//             }
+//             //console.log(data)
+//             //return data
+//             fs.writeFile("data_n_stuff.txt", JSON.stringify(data), function(err) {
+//                 if (err) {
+//                     return console.log(err);
+//                 }
+//                 console.log("The file was saved!");
+//             });
+
+//         });
+
+
+// })
+//var todo =
+
+require('async').map(cities, function(city, coords) {
     getCoords(city)
         .then((coords, cities) => {
             //var infoz = [];
@@ -4588,8 +4616,7 @@ cities.map(function(city, coords) {
         });
 
 
-})
-//var todo =
+});
 
 
 

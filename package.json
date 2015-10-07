@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.4.2",
     "blue-tape": "^0.1.10",
     "city-to-coords": "^1.1.0",
     "csv": "^0.4.6",
