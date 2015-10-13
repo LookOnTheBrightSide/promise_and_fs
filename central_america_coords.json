@@ -1,0 +1,799 @@
+[{
+    "city": "Nahuala, Guatemala",
+    "coords": {
+        "lat": "14.828",
+        "lng": "-91.355"
+    }
+}, {
+    "city": "Esquipulas, Guatemala",
+    "coords": {
+        "lat": "14.557",
+        "lng": "-89.298"
+    }
+}, {
+    "city": "Tegucigalpa, Honduras",
+    "coords": {
+        "lat": "14.082",
+        "lng": "-87.205"
+    }
+}, {
+    "city": "Managua , Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Esteli, Nicaragua",
+    "coords": {
+        "lat": "13.091",
+        "lng": "-86.343"
+    }
+}, {
+    "city": "El Salvador, El Salvador",
+    "coords": {
+        "lat": "13.668",
+        "lng": "-89.27"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Uruca, Costa Rica",
+    "coords": {
+        "lat": "9.937",
+        "lng": "-84.197"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San Miguel, El Salvador",
+    "coords": {
+        "lat": "13.476",
+        "lng": "-88.183"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Metapan, El Salvador",
+    "coords": {
+        "lat": "14.328",
+        "lng": "-89.443"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Santa Eulalia, Guatemala",
+    "coords": {
+        "lat": "15.816",
+        "lng": "-91.338"
+    }
+}, {
+    "city": "Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Panama City, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "San Pedro Sula, Honduras",
+    "coords": {
+        "lat": "15.475",
+        "lng": "-87.981"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Santa Elena, Costa Rica",
+    "coords": {
+        "lat": "10.862",
+        "lng": "-85.714"
+    }
+}, {
+    "city": "Panama City, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "San Pedro Sula, Honduras",
+    "coords": {
+        "lat": "15.475",
+        "lng": "-87.981"
+    }
+}, {
+    "city": "Honduras, Honduras",
+    "coords": {
+        "lat": "28.169",
+        "lng": "-17.33"
+    }
+}, {
+    "city": "San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Belize, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Los Cerros, Panama",
+    "coords": {
+        "lat": "8.567",
+        "lng": "-82.283"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Tegucigalpa, Honduras",
+    "coords": {
+        "lat": "14.082",
+        "lng": "-87.205"
+    }
+}, {
+    "city": "San Miguel, El Salvador",
+    "coords": {
+        "lat": "13.476",
+        "lng": "-88.183"
+    }
+}, {
+    "city": "Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "Panama City, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Tegucigalpa, Honduras",
+    "coords": {
+        "lat": "14.082",
+        "lng": "-87.205"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Belize City, Belize",
+    "coords": {
+        "lat": "17.699",
+        "lng": "-88.434"
+    }
+}, {
+    "city": "Panama, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Cerro Azul, Panama",
+    "coords": {
+        "lat": "9.145",
+        "lng": "-79.405"
+    }
+}, {
+    "city": "Belmopan, Belize",
+    "coords": {
+        "lat": "17.254",
+        "lng": "-88.77"
+    }
+}, {
+    "city": "San Pedro Sula, Honduras",
+    "coords": {
+        "lat": "15.475",
+        "lng": "-87.981"
+    }
+}, {
+    "city": "San José, Costa Rica",
+    "coords": {
+        "lat": "9.605",
+        "lng": "-83.992"
+    }
+}, {
+    "city": "Veraguas, Panama",
+    "coords": {
+        "lat": "8.105",
+        "lng": "-81.103"
+    }
+}, {
+    "city": "Siberia, Costa Rica",
+    "coords": {
+        "lat": "9.549",
+        "lng": "-83.712"
+    }
+}, {
+    "city": "Panama, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Masaya, Nicaragua",
+    "coords": {
+        "lat": "11.979",
+        "lng": "-86.086"
+    }
+}, {
+    "city": "Ciudad de Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Ciudad de Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Siguatepeque, Honduras",
+    "coords": {
+        "lat": "14.598",
+        "lng": "-87.831"
+    }
+}, {
+    "city": "Orange Walk, Belize",
+    "coords": {
+        "lat": "18.082",
+        "lng": "-88.566"
+    }
+}, {
+    "city": "Ciudad de Guatemala, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "Santa Barbara, Honduras",
+    "coords": {
+        "lat": "14.927",
+        "lng": "-88.236"
+    }
+}, {
+    "city": "Limón, Limon, Costa Rica",
+    "coords": {
+        "lat": "9.991",
+        "lng": "-83.029"
+    }
+}, {
+    "city": "San Jose, San Jose, Costa Rica",
+    "coords": {
+        "lat": "9.93",
+        "lng": "-84.086"
+    }
+}, {
+    "city": "Orange Walk, Belize",
+    "coords": {
+        "lat": "18.082",
+        "lng": "-88.566"
+    }
+}, {
+    "city": "Matagalpa, Nicaragua",
+    "coords": {
+        "lat": "12.946",
+        "lng": "-85.914"
+    }
+}, {
+    "city": "Jinotepe, Nicaragua",
+    "coords": {
+        "lat": "11.857",
+        "lng": "-86.196"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Guatemala City, Guatemala",
+    "coords": {
+        "lat": "14.632",
+        "lng": "-90.467"
+    }
+}, {
+    "city": "San Pedro Town, Belize",
+    "coords": {
+        "lat": "17.907",
+        "lng": "-87.982"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Puerto Cortes, Honduras",
+    "coords": {
+        "lat": "15.85",
+        "lng": "-87.931"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Olanchito, Honduras",
+    "coords": {
+        "lat": "15.479",
+        "lng": "-86.583"
+    }
+}, {
+    "city": "Olanchito, Honduras",
+    "coords": {
+        "lat": "15.479",
+        "lng": "-86.583"
+    }
+}, {
+    "city": "Dangriga, Belize",
+    "coords": {
+        "lat": "16.969",
+        "lng": "-88.23"
+    }
+}, {
+    "city": "Nicaragua, Nicaragua",
+    "coords": {
+        "lat": "11.435",
+        "lng": "-85.816"
+    }
+}, {
+    "city": "Quetzaltenango, Guatemala",
+    "coords": {
+        "lat": "14.82",
+        "lng": "-91.515"
+    }
+}, {
+    "city": "Quetzaltenango, Guatemala",
+    "coords": {
+        "lat": "14.82",
+        "lng": "-91.515"
+    }
+}, {
+    "city": "Cuesta de Piedra, Panama",
+    "coords": {
+        "lat": "8.678",
+        "lng": "-82.625"
+    }
+}, {
+    "city": "La Ceiba, Honduras",
+    "coords": {
+        "lat": "15.77",
+        "lng": "-86.739"
+    }
+}, {
+    "city": "Ahuachapan, El Salvador",
+    "coords": {
+        "lat": "13.92",
+        "lng": "-89.847"
+    }
+}, {
+    "city": "San Pedro Sula, Honduras",
+    "coords": {
+        "lat": "15.475",
+        "lng": "-87.981"
+    }
+}, {
+    "city": "Zunca, El Salvador",
+    "coords": {
+        "lat": "14.011",
+        "lng": "-89.76"
+    }
+}, {
+    "city": "Chimaltenango, Guatemala",
+    "coords": {
+        "lat": "14.662",
+        "lng": "-90.821"
+    }
+}, {
+    "city": "Tacana, Guatemala",
+    "coords": {
+        "lat": "15.233",
+        "lng": "-92.072"
+    }
+}, {
+    "city": "Chiantla, Guatemala",
+    "coords": {
+        "lat": "15.356",
+        "lng": "-91.458"
+    }
+}, {
+    "city": "Barillas, Guatemala",
+    "coords": {
+        "lat": "15.808",
+        "lng": "-91.309"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Villanueva, Honduras",
+    "coords": {
+        "lat": "15.32",
+        "lng": "-87.99"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Panama, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Comayagua, Honduras",
+    "coords": {
+        "lat": "14.423",
+        "lng": "-87.628"
+    }
+}, {
+    "city": "Samalaco, Honduras",
+    "coords": {
+        "lat": "13.852",
+        "lng": "-87.219"
+    }
+}, {
+    "city": "Lord's Bank, Belize",
+    "coords": {
+        "lat": "17.55",
+        "lng": "-88.32"
+    }
+}, {
+    "city": "Cayo, Belize",
+    "coords": {
+        "lat": "17.07",
+        "lng": "-89.136"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Panama City, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "David, Panama",
+    "coords": {
+        "lat": "8.43",
+        "lng": "-82.423"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "Leon, Nicaragua",
+    "coords": {
+        "lat": "12.436",
+        "lng": "-86.899"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Tegucigalpa, Honduras",
+    "coords": {
+        "lat": "14.082",
+        "lng": "-87.205"
+    }
+}, {
+    "city": "Panama City, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "Panama, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "San Pedro Sula, Honduras",
+    "coords": {
+        "lat": "15.475",
+        "lng": "-87.981"
+    }
+}, {
+    "city": "San Marcos, Guatemala",
+    "coords": {
+        "lat": "15.048",
+        "lng": "-91.812"
+    }
+}, {
+    "city": "Ciudad de Panamá, Panama",
+    "coords": {
+        "lat": "8.952",
+        "lng": "-79.535"
+    }
+}, {
+    "city": "La Uruca, Costa Rica",
+    "coords": {
+        "lat": "9.933",
+        "lng": "-84.2"
+    }
+}, {
+    "city": "Managua, Nicaragua",
+    "coords": {
+        "lat": "12.117",
+        "lng": "-86.241"
+    }
+}, {
+    "city": "location",
+    "coords": {
+        "lat": "39.214",
+        "lng": "-79.637"
+    }
+}, {
+    "city": "Los Plancitos, Honduras",
+    "coords": {
+        "lat": "14.75",
+        "lng": "-88.767"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "San Salvador, El Salvador",
+    "coords": {
+        "lat": "13.7",
+        "lng": "-89.207"
+    }
+}, {
+    "city": "el salvador, El Salvador",
+    "coords": {
+        "lat": "13.668",
+        "lng": "-89.27"
+    }
+}, {
+    "city": "El Salvador, El Salvador",
+    "coords": {
+        "lat": "13.668",
+        "lng": "-89.27"
+    }
+}, {
+    "city": "Orange Walk, Belize",
+    "coords": {
+        "lat": "18.082",
+        "lng": "-88.566"
+    }
+}]

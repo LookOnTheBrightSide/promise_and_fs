@@ -1,0 +1,4013 @@
+[
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Tunis, Tunisia",
+        "coords": {
+            "lat": "36.8",
+            "lng": "10.183"
+        }
+    },
+    {
+        "city": "Pretoria, South Africa",
+        "coords": {
+            "lat": "-25.746",
+            "lng": "28.188"
+        }
+    },
+    {
+        "city": "Ngara, Tanzania",
+        "coords": {
+            "lat": "-2.525",
+            "lng": "30.763"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Viana, Angola",
+        "coords": {
+            "lat": "-8.922",
+            "lng": "13.288"
+        }
+    },
+    {
+        "city": "Tunis, Tunisia",
+        "coords": {
+            "lat": "36.8",
+            "lng": "10.183"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Monze, Zambia",
+        "coords": {
+            "lat": "-16.208",
+            "lng": "27.511"
+        }
+    },
+    {
+        "city": "Tunis, Tunisia",
+        "coords": {
+            "lat": "36.8",
+            "lng": "10.183"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Tripoli, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Tripolis, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Sumbe, Angola",
+        "coords": {
+            "lat": "-11.175",
+            "lng": "13.875"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Saint-Pierre, Reunion",
+        "coords": {
+            "lat": "-21.342",
+            "lng": "55.478"
+        }
+    },
+    {
+        "city": "Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Bonto, Gambia",
+        "coords": {
+            "lat": "13.29",
+            "lng": "-16.556"
+        }
+    },
+    {
+        "city": "Dzaoudzi, Mayotte",
+        "coords": {
+            "lat": "-12.782",
+            "lng": "45.256"
+        }
+    },
+    {
+        "city": "Abidjan, Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Wad Madani, Sudan",
+        "coords": {
+            "lat": "14.409",
+            "lng": "33.509"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Parakou, Borgou, Benin",
+        "coords": {
+            "lat": "9.75",
+            "lng": "2.75"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Nador, Morocco",
+        "coords": {
+            "lat": "35.18",
+            "lng": "-2.926"
+        }
+    },
+    {
+        "city": "Kara, Togo",
+        "coords": {
+            "lat": "9.5",
+            "lng": "1.204"
+        }
+    },
+    {
+        "city": "Ziguinchor, Senegal",
+        "coords": {
+            "lat": "12.565",
+            "lng": "-16.285"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Ilorin, Nigeria",
+        "coords": {
+            "lat": "8.474",
+            "lng": "4.501"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Saint-Louis, Reunion",
+        "coords": {
+            "lat": "-21.287",
+            "lng": "55.409"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Jamestown, St. Helena",
+        "coords": {
+            "lat": "-15.92",
+            "lng": "-5.726"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Moutsamoudou, Comoros",
+        "coords": {
+            "lat": "-12.167",
+            "lng": "44.399"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Mongu, Zambia",
+        "coords": {
+            "lat": "-15.27",
+            "lng": "23.14"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Achada Baleia, Cape Verde",
+        "coords": {
+            "lat": "15.05",
+            "lng": "-23.483"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Praia, Cape Verde",
+        "coords": {
+            "lat": "14.929",
+            "lng": "-23.535"
+        }
+    },
+    {
+        "city": "Moroni, Comoros",
+        "coords": {
+            "lat": "-11.674",
+            "lng": "43.264"
+        }
+    },
+    {
+        "city": "Tripolis, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Abidjan, Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Harare, Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Tripoli, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Tiaret, Algeria",
+        "coords": {
+            "lat": "35.378",
+            "lng": "1.326"
+        }
+    },
+    {
+        "city": "Benghazi, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.109",
+            "lng": "20.076"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Rabat, Morocco",
+        "coords": {
+            "lat": "34.021",
+            "lng": "-6.842"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Harare, Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Ziguinchor, Senegal",
+        "coords": {
+            "lat": "12.565",
+            "lng": "-16.285"
+        }
+    },
+    {
+        "city": "Bangui, Central African Republic",
+        "coords": {
+            "lat": "4.357",
+            "lng": "18.565"
+        }
+    },
+    {
+        "city": "Harar, Ethiopia",
+        "coords": {
+            "lat": "9.301",
+            "lng": "42.129"
+        }
+    },
+    {
+        "city": "Cape Town, South Africa",
+        "coords": {
+            "lat": "-33.921",
+            "lng": "18.421"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Ondjiva, Angola",
+        "coords": {
+            "lat": "-17.07",
+            "lng": "15.726"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Matola, Mozambique",
+        "coords": {
+            "lat": "-25.96",
+            "lng": "32.446"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Masr, Egypt",
+        "coords": {
+            "lat": "30.05",
+            "lng": "31.249"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Rabat, Morocco",
+        "coords": {
+            "lat": "34.021",
+            "lng": "-6.842"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Gabès, Tunisia",
+        "coords": {
+            "lat": "33.893",
+            "lng": "10.103"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Nakuru, Kenya",
+        "coords": {
+            "lat": "-0.291",
+            "lng": "36.07"
+        }
+    },
+    {
+        "city": "Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Asmara, Eritrea",
+        "coords": {
+            "lat": "15.333",
+            "lng": "38.92"
+        }
+    },
+    {
+        "city": "Libreville, Gabon",
+        "coords": {
+            "lat": "0.393",
+            "lng": "9.457"
+        }
+    },
+    {
+        "city": "Tabora, Tanzania",
+        "coords": {
+            "lat": "-5.031",
+            "lng": "32.82"
+        }
+    },
+    {
+        "city": "Ikosi, Nigeria",
+        "coords": {
+            "lat": "6.612",
+            "lng": "3.706"
+        }
+    },
+    {
+        "city": "Mangochi, Malawi",
+        "coords": {
+            "lat": "-14.479",
+            "lng": "35.273"
+        }
+    },
+    {
+        "city": "Katima Mulilo, Namibia",
+        "coords": {
+            "lat": "-17.496",
+            "lng": "24.269"
+        }
+    },
+    {
+        "city": "Sousse, Tunisia",
+        "coords": {
+            "lat": "35.829",
+            "lng": "10.638"
+        }
+    },
+    {
+        "city": "Bloemfontein, South Africa",
+        "coords": {
+            "lat": "-29.113",
+            "lng": "26.225"
+        }
+    },
+    {
+        "city": "Franceville, Gabon",
+        "coords": {
+            "lat": "-1.629",
+            "lng": "13.605"
+        }
+    },
+    {
+        "city": "Koulikoro, Mali",
+        "coords": {
+            "lat": "12.865",
+            "lng": "-7.571"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Lusaka, Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Tlemcen, Algeria",
+        "coords": {
+            "lat": "34.886",
+            "lng": "-1.311"
+        }
+    },
+    {
+        "city": "Bordj El Bahri, Algeria",
+        "coords": {
+            "lat": "36.766",
+            "lng": "3.261"
+        }
+    },
+    {
+        "city": "Kolda, Senegal",
+        "coords": {
+            "lat": "12.889",
+            "lng": "-14.948"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Arua, Uganda",
+        "coords": {
+            "lat": "3.023",
+            "lng": "30.91"
+        }
+    },
+    {
+        "city": "Port Elizabeth, South Africa",
+        "coords": {
+            "lat": "-33.962",
+            "lng": "25.623"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Banjul, Gambia",
+        "coords": {
+            "lat": "13.452",
+            "lng": "-16.594"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Ouled Fayet, Algeria",
+        "coords": {
+            "lat": "36.694",
+            "lng": "2.954"
+        }
+    },
+    {
+        "city": "Kibera, Kenya",
+        "coords": {
+            "lat": "-1.317",
+            "lng": "36.783"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Mombasa, Kenya",
+        "coords": {
+            "lat": "-4.057",
+            "lng": "39.663"
+        }
+    },
+    {
+        "city": "São Tomé, Sao Tome and Principe",
+        "coords": {
+            "lat": "0.334",
+            "lng": "6.734"
+        }
+    },
+    {
+        "city": "Port-Gentil, Gabon",
+        "coords": {
+            "lat": "-0.727",
+            "lng": "8.787"
+        }
+    },
+    {
+        "city": "Saint-Denis, Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Douala, Cameroon",
+        "coords": {
+            "lat": "4.065",
+            "lng": "9.701"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Bujumbura, Burundi",
+        "coords": {
+            "lat": "-3.36",
+            "lng": "29.369"
+        }
+    },
+    {
+        "city": "Bujumbura, Burundi",
+        "coords": {
+            "lat": "-3.36",
+            "lng": "29.369"
+        }
+    },
+    {
+        "city": "Bujumbura, Burundi",
+        "coords": {
+            "lat": "-3.36",
+            "lng": "29.369"
+        }
+    },
+    {
+        "city": "Dar Es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Morogoro, Tanzania",
+        "coords": {
+            "lat": "-6.786",
+            "lng": "37.665"
+        }
+    },
+    {
+        "city": "Toamasina, Madagascar",
+        "coords": {
+            "lat": "-18.142",
+            "lng": "49.381"
+        }
+    },
+    {
+        "city": "Asmara, Eritrea",
+        "coords": {
+            "lat": "15.333",
+            "lng": "38.92"
+        }
+    },
+    {
+        "city": "Ndzouani, Comoros",
+        "coords": {
+            "lat": "-11.901",
+            "lng": "43.477"
+        }
+    },
+    {
+        "city": "Banikoara, Benin",
+        "coords": {
+            "lat": "11.298",
+            "lng": "2.438"
+        }
+    },
+    {
+        "city": "Kabwe, Zambia",
+        "coords": {
+            "lat": "-14.436",
+            "lng": "28.433"
+        }
+    },
+    {
+        "city": "Bizerte, Tunisia",
+        "coords": {
+            "lat": "37.271",
+            "lng": "9.873"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Bujumbura, Burundi",
+        "coords": {
+            "lat": "-3.36",
+            "lng": "29.369"
+        }
+    },
+    {
+        "city": "Banjul, Gambia",
+        "coords": {
+            "lat": "13.452",
+            "lng": "-16.594"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Aba, Nigeria",
+        "coords": {
+            "lat": "5.109",
+            "lng": "7.364"
+        }
+    },
+    {
+        "city": "Monrovia, Liberia",
+        "coords": {
+            "lat": "6.303",
+            "lng": "-10.796"
+        }
+    },
+    {
+        "city": "Lobito, Angola",
+        "coords": {
+            "lat": "-12.377",
+            "lng": "13.55"
+        }
+    },
+    {
+        "city": "Tripolis, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Bangui, Central African Republic",
+        "coords": {
+            "lat": "4.357",
+            "lng": "18.565"
+        }
+    },
+    {
+        "city": "Combani, Mayotte",
+        "coords": {
+            "lat": "-12.8",
+            "lng": "45.167"
+        }
+    },
+    {
+        "city": "Dar Es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Malherbes, Mauritius",
+        "coords": {
+            "lat": "-20.309",
+            "lng": "57.525"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Monze, Zambia",
+        "coords": {
+            "lat": "-16.208",
+            "lng": "27.511"
+        }
+    },
+    {
+        "city": "Bamako, Bamako, Mali",
+        "coords": {
+            "lat": "12.65",
+            "lng": "-8"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Benghazi, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.109",
+            "lng": "20.076"
+        }
+    },
+    {
+        "city": "Omdurman, Sudan",
+        "coords": {
+            "lat": "15.666",
+            "lng": "32.491"
+        }
+    },
+    {
+        "city": "Omdurman, Sudan",
+        "coords": {
+            "lat": "15.666",
+            "lng": "32.491"
+        }
+    },
+    {
+        "city": "Serrekunda, Gambia",
+        "coords": {
+            "lat": "13.45",
+            "lng": "-16.684"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Uige, Angola",
+        "coords": {
+            "lat": "-7.627",
+            "lng": "15.047"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Fianarantsoa, Madagascar",
+        "coords": {
+            "lat": "-21.46",
+            "lng": "47.078"
+        }
+    },
+    {
+        "city": "Kigali, Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.974",
+            "lng": "30.115"
+        }
+    },
+    {
+        "city": "Nouakchott, Mauritania",
+        "coords": {
+            "lat": "18.08",
+            "lng": "-15.985"
+        }
+    },
+    {
+        "city": "Chrea, Algeria",
+        "coords": {
+            "lat": "36.437",
+            "lng": "2.853"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Bloemfontein, South Africa",
+        "coords": {
+            "lat": "-29.113",
+            "lng": "26.225"
+        }
+    },
+    {
+        "city": "Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Farafenni, Gambia",
+        "coords": {
+            "lat": "13.572",
+            "lng": "-15.597"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Banjul, Gambia",
+        "coords": {
+            "lat": "13.452",
+            "lng": "-16.594"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Sikasso, Mali",
+        "coords": {
+            "lat": "11.312",
+            "lng": "-5.679"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Lusaka, Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Tripolis, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Aflou, Algeria",
+        "coords": {
+            "lat": "34.12",
+            "lng": "2.096"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Saint-Denis, Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Poie, DR Congo",
+        "coords": {
+            "lat": "-2.837",
+            "lng": "23.299"
+        }
+    },
+    {
+        "city": "Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Tunis, Tunisia",
+        "coords": {
+            "lat": "36.8",
+            "lng": "10.183"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Ibadan, Nigeria",
+        "coords": {
+            "lat": "7.383",
+            "lng": "3.938"
+        }
+    },
+    {
+        "city": "Gafsa, Tunisia",
+        "coords": {
+            "lat": "34.422",
+            "lng": "8.787"
+        }
+    },
+    {
+        "city": "Trois-Bassins, Les Trois Bassins, Reunion",
+        "coords": {
+            "lat": "-21.115",
+            "lng": "55.533"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "El Aaiún, Western Sahara",
+        "coords": {
+            "lat": "27.135",
+            "lng": "-13.185"
+        }
+    },
+    {
+        "city": "Iringa, Tanzania",
+        "coords": {
+            "lat": "-7.763",
+            "lng": "35.687"
+        }
+    },
+    {
+        "city": "Porto-Novo, Benin",
+        "coords": {
+            "lat": "6.512",
+            "lng": "2.601"
+        }
+    },
+    {
+        "city": "Kaduna, Nigeria",
+        "coords": {
+            "lat": "10.542",
+            "lng": "7.436"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Saint-Leu, Saint-Leu, Reunion",
+        "coords": {
+            "lat": "-21.115",
+            "lng": "55.533"
+        }
+    },
+    {
+        "city": "Dzoumogne, Mayotte",
+        "coords": {
+            "lat": "-12.717",
+            "lng": "45.113"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Monrovia, Liberia",
+        "coords": {
+            "lat": "6.303",
+            "lng": "-10.796"
+        }
+    },
+    {
+        "city": "Banjul, Gambia",
+        "coords": {
+            "lat": "13.452",
+            "lng": "-16.594"
+        }
+    },
+    {
+        "city": "Tripoli, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Ibadan, Nigeria",
+        "coords": {
+            "lat": "7.383",
+            "lng": "3.938"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Touba, Mali",
+        "coords": {
+            "lat": "12.852",
+            "lng": "-4.54"
+        }
+    },
+    {
+        "city": "Banjul, Gambia",
+        "coords": {
+            "lat": "13.452",
+            "lng": "-16.594"
+        }
+    },
+    {
+        "city": "Asmara, Eritrea",
+        "coords": {
+            "lat": "15.333",
+            "lng": "38.92"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Antsiranana, Madagascar",
+        "coords": {
+            "lat": "-12.281",
+            "lng": "49.291"
+        }
+    },
+    {
+        "city": "Bujumbura, Burundi",
+        "coords": {
+            "lat": "-3.36",
+            "lng": "29.369"
+        }
+    },
+    {
+        "city": "Allada, Benin",
+        "coords": {
+            "lat": "6.648",
+            "lng": "2.161"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Tripolis, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Juba, Sudan",
+        "coords": {
+            "lat": "12.15",
+            "lng": "24.45"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Vicente Dias, Cape Verde",
+        "coords": {
+            "lat": "14.883",
+            "lng": "-24.467"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Boukrim, Tunisia",
+        "coords": {
+            "lat": "36.922",
+            "lng": "10.934"
+        }
+    },
+    {
+        "city": "Kigali, Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.974",
+            "lng": "30.115"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Bamako, Bamako, Mali",
+        "coords": {
+            "lat": "12.65",
+            "lng": "-8"
+        }
+    },
+    {
+        "city": "Arusha, Tanzania",
+        "coords": {
+            "lat": "-3.351",
+            "lng": "36.67"
+        }
+    },
+    {
+        "city": "Benguela, Angola",
+        "coords": {
+            "lat": "-12.585",
+            "lng": "13.4"
+        }
+    },
+    {
+        "city": "Addis Ababa, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Antalaha, Madagascar",
+        "coords": {
+            "lat": "-14.901",
+            "lng": "50.276"
+        }
+    },
+    {
+        "city": "Banghazi, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.109",
+            "lng": "20.076"
+        }
+    },
+    {
+        "city": "Sere Kunda, Gambia",
+        "coords": {
+            "lat": "13.45",
+            "lng": "-16.684"
+        }
+    },
+    {
+        "city": "Algiers, Algiers, Algeria",
+        "coords": {
+            "lat": "36.741",
+            "lng": "3.01"
+        }
+    },
+    {
+        "city": "Sfax, Tunisia",
+        "coords": {
+            "lat": "34.748",
+            "lng": "10.745"
+        }
+    },
+    {
+        "city": "Avoca, Zimbabwe",
+        "coords": {
+            "lat": "-20.808",
+            "lng": "29.517"
+        }
+    },
+    {
+        "city": "Kayes, Mali",
+        "coords": {
+            "lat": "14.45",
+            "lng": "-11.432"
+        }
+    },
+    {
+        "city": "N'Djamena, Chad",
+        "coords": {
+            "lat": "12.108",
+            "lng": "15.048"
+        }
+    },
+    {
+        "city": "Bambilor, Senegal",
+        "coords": {
+            "lat": "14.801",
+            "lng": "-17.184"
+        }
+    },
+    {
+        "city": "Mansa, Zambia",
+        "coords": {
+            "lat": "-11.182",
+            "lng": "28.884"
+        }
+    },
+    {
+        "city": "Mbalmayo, Cameroon",
+        "coords": {
+            "lat": "3.522",
+            "lng": "11.485"
+        }
+    },
+    {
+        "city": "Mogadishu, Somalia",
+        "coords": {
+            "lat": "2.038",
+            "lng": "45.349"
+        }
+    },
+    {
+        "city": "Nairobi, Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Dundo, Angola",
+        "coords": {
+            "lat": "-7.364",
+            "lng": "20.822"
+        }
+    },
+    {
+        "city": "Port Harcourt, Nigeria",
+        "coords": {
+            "lat": "4.802",
+            "lng": "7.025"
+        }
+    },
+    {
+        "city": "Magnambougou, Mali",
+        "coords": {
+            "lat": "12.811",
+            "lng": "-8.206"
+        }
+    },
+    {
+        "city": "Hurghada, Egypt",
+        "coords": {
+            "lat": "27.251",
+            "lng": "33.818"
+        }
+    },
+    {
+        "city": "Kano, Nigeria",
+        "coords": {
+            "lat": "11.988",
+            "lng": "8.496"
+        }
+    },
+    {
+        "city": "Bangui, Central African Republic",
+        "coords": {
+            "lat": "4.357",
+            "lng": "18.565"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Moroni, Comoros",
+        "coords": {
+            "lat": "-11.674",
+            "lng": "43.264"
+        }
+    },
+    {
+        "city": "La Riviere, Reunion",
+        "coords": {
+            "lat": "-21.277",
+            "lng": "55.442"
+        }
+    },
+    {
+        "city": "Tema, Ghana",
+        "coords": {
+            "lat": "5.661",
+            "lng": "-0.001"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Lilongwe, Malawi",
+        "coords": {
+            "lat": "-13.881",
+            "lng": "33.773"
+        }
+    },
+    {
+        "city": "Kinshassa, Congo",
+        "coords": {
+            "lat": "1.977",
+            "lng": "14.776"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Omdurman, Sudan",
+        "coords": {
+            "lat": "15.666",
+            "lng": "32.491"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Nairobi, Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Conakry, Guinea",
+        "coords": {
+            "lat": "9.537",
+            "lng": "-13.671"
+        }
+    },
+    {
+        "city": "Omdurman, Sudan",
+        "coords": {
+            "lat": "15.666",
+            "lng": "32.491"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Conakry, Guinea",
+        "coords": {
+            "lat": "9.537",
+            "lng": "-13.671"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Metu, Ethiopia",
+        "coords": {
+            "lat": "8.289",
+            "lng": "35.583"
+        }
+    },
+    {
+        "city": "Bouake, Ivory Coast",
+        "coords": {
+            "lat": "7.681",
+            "lng": "-5.034"
+        }
+    },
+    {
+        "city": "Lavumisa, Swaziland",
+        "coords": {
+            "lat": "-27.31",
+            "lng": "31.882"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Kano, Nigeria",
+        "coords": {
+            "lat": "11.988",
+            "lng": "8.496"
+        }
+    },
+    {
+        "city": "Djibouti, Djibouti",
+        "coords": {
+            "lat": "11.578",
+            "lng": "43.135"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Waterloo, Sierra Leone",
+        "coords": {
+            "lat": "8.329",
+            "lng": "-13.067"
+        }
+    },
+    {
+        "city": "Abuja, Nigeria",
+        "coords": {
+            "lat": "9.063",
+            "lng": "7.462"
+        }
+    },
+    {
+        "city": "Yamoussoukro, Ivory Coast",
+        "coords": {
+            "lat": "6.79",
+            "lng": "-5.263"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Diebougou, Burkina Faso",
+        "coords": {
+            "lat": "10.952",
+            "lng": "-3.248"
+        }
+    },
+    {
+        "city": "Korhogo, Côte d'Ivoire",
+        "coords": {
+            "lat": "9.46",
+            "lng": "-5.639"
+        }
+    },
+    {
+        "city": "Serrekunda, Gambia",
+        "coords": {
+            "lat": "13.45",
+            "lng": "-16.684"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Jijel, Algeria",
+        "coords": {
+            "lat": "36.817",
+            "lng": "5.767"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Algiers, Algeria",
+        "coords": {
+            "lat": "36.781",
+            "lng": "3.039"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Santa Isabel, Equatorial Guinea",
+        "coords": {
+            "lat": "3.75",
+            "lng": "8.778"
+        }
+    },
+    {
+        "city": "Faravohitra, Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.9",
+            "lng": "47.535"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Abuja, Nigeria",
+        "coords": {
+            "lat": "9.063",
+            "lng": "7.462"
+        }
+    },
+    {
+        "city": "Kitwe, Zambia",
+        "coords": {
+            "lat": "-12.817",
+            "lng": "28.21"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Kitwe, Zambia",
+        "coords": {
+            "lat": "-12.817",
+            "lng": "28.21"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Bata, Equatorial Guinea",
+        "coords": {
+            "lat": "1.857",
+            "lng": "9.764"
+        }
+    },
+    {
+        "city": "Alger, Algeria",
+        "coords": {
+            "lat": "36.781",
+            "lng": "3.039"
+        }
+    },
+    {
+        "city": "Tipaza, Algeria",
+        "coords": {
+            "lat": "36.583",
+            "lng": "2.417"
+        }
+    },
+    {
+        "city": "N'Dalatando, Angola",
+        "coords": {
+            "lat": "-9.306",
+            "lng": "14.904"
+        }
+    },
+    {
+        "city": "Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.572",
+            "lng": "17.091"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Jamestown, St. Helena",
+        "coords": {
+            "lat": "-15.92",
+            "lng": "-5.726"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Maseru, Lesotho",
+        "coords": {
+            "lat": "-29.339",
+            "lng": "27.5"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Lusaka, Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Toamasina, Madagascar",
+        "coords": {
+            "lat": "-18.142",
+            "lng": "49.381"
+        }
+    },
+    {
+        "city": "Nouakchott, Mauritania",
+        "coords": {
+            "lat": "18.08",
+            "lng": "-15.985"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Djibouti, Djibouti",
+        "coords": {
+            "lat": "11.578",
+            "lng": "43.135"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Rabat, Morocco",
+        "coords": {
+            "lat": "34.021",
+            "lng": "-6.842"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Cabinda, Angola",
+        "coords": {
+            "lat": "-5.561",
+            "lng": "12.194"
+        }
+    },
+    {
+        "city": "Luanda, Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Bakau, Gambia",
+        "coords": {
+            "lat": "13.469",
+            "lng": "-16.676"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Ibadan, Nigeria",
+        "coords": {
+            "lat": "7.383",
+            "lng": "3.938"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Gafsa, Tunisia",
+        "coords": {
+            "lat": "34.422",
+            "lng": "8.787"
+        }
+    },
+    {
+        "city": "Dar es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Paris, Gabon",
+        "coords": {
+            "lat": "-1.307",
+            "lng": "12.419"
+        }
+    },
+    {
+        "city": "Arusha, Arusha Region, Tanzania",
+        "coords": {
+            "lat": "-3.351",
+            "lng": "36.67"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Cotonou, Benin",
+        "coords": {
+            "lat": "6.357",
+            "lng": "2.44"
+        }
+    },
+    {
+        "city": "Tripoli, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.872",
+            "lng": "13.192"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Yaounde, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Huambo, Angola",
+        "coords": {
+            "lat": "-12.774",
+            "lng": "15.733"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Asmara, Eritrea",
+        "coords": {
+            "lat": "15.333",
+            "lng": "38.92"
+        }
+    },
+    {
+        "city": "Mahdia, Tunisia",
+        "coords": {
+            "lat": "35.505",
+            "lng": "11.051"
+        }
+    },
+    {
+        "city": "Addis Ababa, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Kinshasa, DR Congo",
+        "coords": {
+            "lat": "-4.312",
+            "lng": "15.29"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Dar Es Salaam, Tanzania",
+        "coords": {
+            "lat": "-6.783",
+            "lng": "39.268"
+        }
+    },
+    {
+        "city": "Addis Abeba, Ethiopia",
+        "coords": {
+            "lat": "9.034",
+            "lng": "38.744"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Sétif, Algeria",
+        "coords": {
+            "lat": "36.186",
+            "lng": "5.412"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Port Louis, Port Louis, Mauritius",
+        "coords": {
+            "lat": "6.79",
+            "lng": "-5.263"
+        }
+    },
+    {
+        "city": "Yamoussoukro, Côte d'Ivoire",
+        "coords": {
+            "lat": "6.79",
+            "lng": "-5.263"
+        }
+    },
+    {
+        "city": "Yaounde, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "El Haouaria, Tunisia",
+        "coords": {
+            "lat": "37.052",
+            "lng": "11.012"
+        }
+    },
+    {
+        "city": "Sainte-Rose, Reunion",
+        "coords": {
+            "lat": "-21.127",
+            "lng": "55.792"
+        }
+    },
+    {
+        "city": "Le Tampon, Reunion",
+        "coords": {
+            "lat": "-21.278",
+            "lng": "55.515"
+        }
+    },
+    {
+        "city": "Rehobot, Namibia",
+        "coords": {
+            "lat": "-23.313",
+            "lng": "17.083"
+        }
+    },
+    {
+        "city": "Monastir, Tunisia",
+        "coords": {
+            "lat": "35.771",
+            "lng": "10.823"
+        }
+    },
+    {
+        "city": "N'Djamena, Chad",
+        "coords": {
+            "lat": "12.108",
+            "lng": "15.048"
+        }
+    },
+    {
+        "city": "Lusaka, Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Mindelo, Cape Verde",
+        "coords": {
+            "lat": "16.884",
+            "lng": "-24.99"
+        }
+    },
+    {
+        "city": "Saint-Pierre, Saint-Pierre, Reunion",
+        "coords": {
+            "lat": "-21.115",
+            "lng": "55.533"
+        }
+    },
+    {
+        "city": "Kabale, Uganda",
+        "coords": {
+            "lat": "-1.206",
+            "lng": "30.037"
+        }
+    },
+    {
+        "city": "Bangui, Central African Republic",
+        "coords": {
+            "lat": "4.357",
+            "lng": "18.565"
+        }
+    },
+    {
+        "city": "Katutura, Namibia",
+        "coords": {
+            "lat": "-22.521",
+            "lng": "17.06"
+        }
+    },
+    {
+        "city": "Nampula, Mozambique",
+        "coords": {
+            "lat": "-15.12",
+            "lng": "39.278"
+        }
+    },
+    {
+        "city": "Giza, Egypt",
+        "coords": {
+            "lat": "30.01",
+            "lng": "31.214"
+        }
+    },
+    {
+        "city": "Zaghouan, Tunisia",
+        "coords": {
+            "lat": "36.403",
+            "lng": "10.142"
+        }
+    },
+    {
+        "city": "Kaloko, Zambia",
+        "coords": {
+            "lat": "-13.933",
+            "lng": "31.083"
+        }
+    },
+    {
+        "city": "Mayotte, Mayotte",
+        "coords": {
+            "lat": "-12.833",
+            "lng": "45.167"
+        }
+    },
+    {
+        "city": "Kampala, Entebbe, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Mbabane, Swaziland",
+        "coords": {
+            "lat": "-26.323",
+            "lng": "31.131"
+        }
+    },
+    {
+        "city": "Lagos, Nigeria",
+        "coords": {
+            "lat": "6.602",
+            "lng": "3.397"
+        }
+    },
+    {
+        "city": "Ouagadougou, Burkina Faso",
+        "coords": {
+            "lat": "12.37",
+            "lng": "-1.52"
+        }
+    },
+    {
+        "city": "Harare, Harare, Zimbabwe",
+        "coords": {
+            "lat": "-17.824",
+            "lng": "31.05"
+        }
+    },
+    {
+        "city": "Malherbes, Mauritius",
+        "coords": {
+            "lat": "-20.309",
+            "lng": "57.525"
+        }
+    },
+    {
+        "city": "Libreville, Gabon",
+        "coords": {
+            "lat": "0.393",
+            "lng": "9.457"
+        }
+    },
+    {
+        "city": "Tangier, Morocco",
+        "coords": {
+            "lat": "35.749",
+            "lng": "-5.811"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Casablanca, Morocco",
+        "coords": {
+            "lat": "33.588",
+            "lng": "-7.677"
+        }
+    },
+    {
+        "city": "Moyamba, Sierra Leone",
+        "coords": {
+            "lat": "8.157",
+            "lng": "-12.461"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Zomba, Malawi",
+        "coords": {
+            "lat": "-15.397",
+            "lng": "35.305"
+        }
+    },
+    {
+        "city": "Bissau, Guinea-Bissau",
+        "coords": {
+            "lat": "11.867",
+            "lng": "-15.628"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Agadir, Morocco",
+        "coords": {
+            "lat": "30.411",
+            "lng": "-9.558"
+        }
+    },
+    {
+        "city": "Carthage, Tunisia",
+        "coords": {
+            "lat": "36.856",
+            "lng": "10.325"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Accra, Ghana",
+        "coords": {
+            "lat": "5.581",
+            "lng": "-0.199"
+        }
+    },
+    {
+        "city": "Port Louis, Mauritius",
+        "coords": {
+            "lat": "-20.157",
+            "lng": "57.502"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Iringa, Tanzania",
+        "coords": {
+            "lat": "-7.763",
+            "lng": "35.687"
+        }
+    },
+    {
+        "city": "Kayes, Mali",
+        "coords": {
+            "lat": "14.45",
+            "lng": "-11.432"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Saint-Denis, Saint-Denis, Reunion",
+        "coords": {
+            "lat": "-20.879",
+            "lng": "55.448"
+        }
+    },
+    {
+        "city": "Luanda, Angola",
+        "coords": {
+            "lat": "-8.887",
+            "lng": "13.354"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Khartoum, Sudan",
+        "coords": {
+            "lat": "15.628",
+            "lng": "32.538"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Bamako, Mali",
+        "coords": {
+            "lat": "12.658",
+            "lng": "-7.98"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Arua, Uganda",
+        "coords": {
+            "lat": "3.023",
+            "lng": "30.91"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Cape Town, South Africa",
+        "coords": {
+            "lat": "-33.921",
+            "lng": "18.421"
+        }
+    },
+    {
+        "city": "Klein Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.565",
+            "lng": "17.098"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Omdurman, Sudan",
+        "coords": {
+            "lat": "15.666",
+            "lng": "32.491"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Windhoek, Namibia",
+        "coords": {
+            "lat": "-22.572",
+            "lng": "17.091"
+        }
+    },
+    {
+        "city": "Gafsa, Tunisia",
+        "coords": {
+            "lat": "34.422",
+            "lng": "8.787"
+        }
+    },
+    {
+        "city": "Skikda, Algeria",
+        "coords": {
+            "lat": "36.876",
+            "lng": "6.91"
+        }
+    },
+    {
+        "city": "Misratah, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.374",
+            "lng": "15.095"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Beira, Mozambique",
+        "coords": {
+            "lat": "-19.8",
+            "lng": "34.842"
+        }
+    },
+    {
+        "city": "Livingstone, Zambia",
+        "coords": {
+            "lat": "-17.854",
+            "lng": "25.838"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Antananarivo, Madagascar",
+        "coords": {
+            "lat": "-18.913",
+            "lng": "47.529"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Abuja, Nigeria",
+        "coords": {
+            "lat": "9.063",
+            "lng": "7.462"
+        }
+    },
+    {
+        "city": "Kuito, Angola",
+        "coords": {
+            "lat": "-12.38",
+            "lng": "16.939"
+        }
+    },
+    {
+        "city": "Ouahigouya, Burkina Faso",
+        "coords": {
+            "lat": "13.563",
+            "lng": "-2.418"
+        }
+    },
+    {
+        "city": "Le Port, Reunion",
+        "coords": {
+            "lat": "-20.939",
+            "lng": "55.287"
+        }
+    },
+    {
+        "city": "Freetown, Sierra Leone",
+        "coords": {
+            "lat": "8.478",
+            "lng": "-13.233"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Monrovia, Liberia",
+        "coords": {
+            "lat": "6.303",
+            "lng": "-10.796"
+        }
+    },
+    {
+        "city": "Benghazi, Libyan Arab Jamahiriya",
+        "coords": {
+            "lat": "32.109",
+            "lng": "20.076"
+        }
+    },
+    {
+        "city": "Namibe, Angola",
+        "coords": {
+            "lat": "-15.023",
+            "lng": "12.351"
+        }
+    },
+    {
+        "city": "Gaborone, Botswana",
+        "coords": {
+            "lat": "-24.655",
+            "lng": "25.919"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Kaolack, Senegal",
+        "coords": {
+            "lat": "14.139",
+            "lng": "-16.073"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Johannesburg, South Africa",
+        "coords": {
+            "lat": "-26.212",
+            "lng": "28.03"
+        }
+    },
+    {
+        "city": "Durban, South Africa",
+        "coords": {
+            "lat": "-29.849",
+            "lng": "30.987"
+        }
+    },
+    {
+        "city": "Lubango, Angola",
+        "coords": {
+            "lat": "-14.901",
+            "lng": "13.514"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Mbabane, Swaziland",
+        "coords": {
+            "lat": "-26.323",
+            "lng": "31.131"
+        }
+    },
+    {
+        "city": "Chrea, Algeria",
+        "coords": {
+            "lat": "36.437",
+            "lng": "2.853"
+        }
+    },
+    {
+        "city": "Lomé, Togo",
+        "coords": {
+            "lat": "6.13",
+            "lng": "1.227"
+        }
+    },
+    {
+        "city": "Cairo, Egypt",
+        "coords": {
+            "lat": "30.045",
+            "lng": "31.242"
+        }
+    },
+    {
+        "city": "Blantyre, Malawi",
+        "coords": {
+            "lat": "-15.836",
+            "lng": "35.088"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Douala, Cameroon",
+        "coords": {
+            "lat": "4.065",
+            "lng": "9.701"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Victoria, Seychelles",
+        "coords": {
+            "lat": "-4.599",
+            "lng": "55.453"
+        }
+    },
+    {
+        "city": "Nairobi, Kenya",
+        "coords": {
+            "lat": "-1.274",
+            "lng": "36.875"
+        }
+    },
+    {
+        "city": "Fizi, DR Congo",
+        "coords": {
+            "lat": "-4.306",
+            "lng": "28.949"
+        }
+    },
+    {
+        "city": "Rabat, Morocco",
+        "coords": {
+            "lat": "34.021",
+            "lng": "-6.842"
+        }
+    },
+    {
+        "city": "Kigali, Rwanda",
+        "coords": {
+            "lat": "-1.959",
+            "lng": "30.038"
+        }
+    },
+    {
+        "city": "Lilongwe, Malawi",
+        "coords": {
+            "lat": "-13.881",
+            "lng": "33.773"
+        }
+    },
+    {
+        "city": "Maputo, Mozambique",
+        "coords": {
+            "lat": "-25.868",
+            "lng": "32.61"
+        }
+    },
+    {
+        "city": "Kinshassa, Congo",
+        "coords": {
+            "lat": "1.977",
+            "lng": "14.776"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Moroni, Comoros",
+        "coords": {
+            "lat": "-11.674",
+            "lng": "43.264"
+        }
+    },
+    {
+        "city": "Tunis, Tunisia",
+        "coords": {
+            "lat": "36.8",
+            "lng": "10.183"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Kumasi, Ghana",
+        "coords": {
+            "lat": "6.697",
+            "lng": "-1.63"
+        }
+    },
+    {
+        "city": "Kampala, Uganda",
+        "coords": {
+            "lat": "0.325",
+            "lng": "32.587"
+        }
+    },
+    {
+        "city": "Nouakchott, Mauritania",
+        "coords": {
+            "lat": "18.08",
+            "lng": "-15.985"
+        }
+    },
+    {
+        "city": "Santiago, Cape Verde",
+        "coords": {
+            "lat": "15.107",
+            "lng": "-23.616"
+        }
+    },
+    {
+        "city": "Malange, Angola",
+        "coords": {
+            "lat": "-9.542",
+            "lng": "16.341"
+        }
+    },
+    {
+        "city": "Soroti, Uganda",
+        "coords": {
+            "lat": "1.715",
+            "lng": "33.614"
+        }
+    },
+    {
+        "city": "Mtwara, Tanzania",
+        "coords": {
+            "lat": "-10.304",
+            "lng": "40.172"
+        }
+    },
+    {
+        "city": "Edinburgh of the Seven Seas, St. Helena",
+        "coords": {
+            "lat": "-37.067",
+            "lng": "-12.317"
+        }
+    },
+    {
+        "city": "Hammamet, Tunisia",
+        "coords": {
+            "lat": "36.403",
+            "lng": "10.618"
+        }
+    },
+    {
+        "city": "Zanzibar, Tanzania",
+        "coords": {
+            "lat": "-6.184",
+            "lng": "39.228"
+        }
+    },
+    {
+        "city": "Ourossogui, Senegal",
+        "coords": {
+            "lat": "15.606",
+            "lng": "-13.32"
+        }
+    },
+    {
+        "city": "Bel Ombre, Mauritius",
+        "coords": {
+            "lat": "-20.502",
+            "lng": "57.406"
+        }
+    },
+    {
+        "city": "Parakou, Benin",
+        "coords": {
+            "lat": "9.326",
+            "lng": "2.62"
+        }
+    },
+    {
+        "city": "Abidjan, Côte d'Ivoire",
+        "coords": {
+            "lat": "5.357",
+            "lng": "-4.016"
+        }
+    },
+    {
+        "city": "Dakar, Senegal",
+        "coords": {
+            "lat": "14.669",
+            "lng": "-17.437"
+        }
+    },
+    {
+        "city": "Yaoundé, Cameroon",
+        "coords": {
+            "lat": "3.873",
+            "lng": "11.522"
+        }
+    },
+    {
+        "city": "Bellville, South Africa",
+        "coords": {
+            "lat": "-33.889",
+            "lng": "18.638"
+        }
+    },
+    {
+        "city": "Rabat, Morocco",
+        "coords": {
+            "lat": "34.021",
+            "lng": "-6.842"
+        }
+    },
+    {
+        "city": "Lusaka, Zambia",
+        "coords": {
+            "lat": "-15.415",
+            "lng": "28.281"
+        }
+    }
+]
