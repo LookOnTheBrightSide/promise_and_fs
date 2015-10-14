@@ -1,0 +1,7795 @@
+[{
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Surakarta",
+    "coords": {
+        "lat": "-7.572",
+        "lng": "110.823"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Yamanashi",
+    "coords": {
+        "lat": "35.613",
+        "lng": "138.611"
+    }
+}, {
+    "city": "Chittagong",
+    "coords": {
+        "lat": "22.387",
+        "lng": "91.867"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Vijayawada",
+    "coords": {
+        "lat": "16.503",
+        "lng": "80.641"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Thiruvananthapuram",
+    "coords": {
+        "lat": "8.505",
+        "lng": "76.951"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Xinjiang",
+    "coords": {
+        "lat": "41.211",
+        "lng": "85.329"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Malang",
+    "coords": {
+        "lat": "-7.982",
+        "lng": "112.627"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Tokushima",
+    "coords": {
+        "lat": "33.922",
+        "lng": "134.327"
+    }
+}, {
+    "city": "Xinjiang",
+    "coords": {
+        "lat": "41.211",
+        "lng": "85.329"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Taoyuan",
+    "coords": {
+        "lat": "24.993",
+        "lng": "121.308"
+    }
+}, {
+    "city": "Kaohsiung",
+    "coords": {
+        "lat": "22.62",
+        "lng": "120.312"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Basrah",
+    "coords": {
+        "lat": "30.519",
+        "lng": "47.82"
+    }
+}, {
+    "city": "Kumamoto",
+    "coords": {
+        "lat": "32.789",
+        "lng": "130.715"
+    }
+}, {
+    "city": "Kaohsiung",
+    "coords": {
+        "lat": "22.62",
+        "lng": "120.312"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Pondicherry",
+    "coords": {
+        "lat": "11.923",
+        "lng": "79.773"
+    }
+}, {
+    "city": "Lucknow",
+    "coords": {
+        "lat": "26.867",
+        "lng": "80.779"
+    }
+}, {
+    "city": "Kaohsiung",
+    "coords": {
+        "lat": "22.62",
+        "lng": "120.312"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Ludhiana",
+    "coords": {
+        "lat": "30.909",
+        "lng": "75.851"
+    }
+}, {
+    "city": "Yunlin County",
+    "coords": {
+        "lat": "53.392",
+        "lng": "-6.282"
+    }
+}, {
+    "city": "Taoyuan",
+    "coords": {
+        "lat": "24.993",
+        "lng": "121.308"
+    }
+}, {
+    "city": "Pune",
+    "coords": {
+        "lat": "18.504",
+        "lng": "73.853"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Almati",
+    "coords": {
+        "lat": "43.251",
+        "lng": "76.888"
+    }
+}, {
+    "city": "Shiga",
+    "coords": {
+        "lat": "35.218",
+        "lng": "136.139"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Yilan County",
+    "coords": {
+        "lat": "35.547",
+        "lng": "118.453"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Tokushima",
+    "coords": {
+        "lat": "33.922",
+        "lng": "134.327"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Rajshahi",
+    "coords": {
+        "lat": "24.379",
+        "lng": "88.609"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Phnom Penh",
+    "coords": {
+        "lat": "11.562",
+        "lng": "104.919"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Miaoli County",
+    "coords": {
+        "lat": "19.185",
+        "lng": "-155.907"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Agra",
+    "coords": {
+        "lat": "27.103",
+        "lng": "78.004"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Taoyuan",
+    "coords": {
+        "lat": "24.993",
+        "lng": "121.308"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Rajkot",
+    "coords": {
+        "lat": "22.227",
+        "lng": "70.912"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Surat",
+    "coords": {
+        "lat": "21.185",
+        "lng": "72.836"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Keelung",
+    "coords": {
+        "lat": "25.121",
+        "lng": "121.726"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Xinjiang",
+    "coords": {
+        "lat": "41.211",
+        "lng": "85.329"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Semarang",
+    "coords": {
+        "lat": "-6.971",
+        "lng": "110.425"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Ahmadabad",
+    "coords": {
+        "lat": "23.019",
+        "lng": "72.582"
+    }
+}, {
+    "city": "Semarang",
+    "coords": {
+        "lat": "-6.971",
+        "lng": "110.425"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Kagawa",
+    "coords": {
+        "lat": "34.298",
+        "lng": "133.995"
+    }
+}, {
+    "city": "Bengaluru",
+    "coords": {
+        "lat": "12.967",
+        "lng": "77.587"
+    }
+}, {
+    "city": "Raurkela",
+    "coords": {
+        "lat": "22.233",
+        "lng": "84.872"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Ningxia Hui",
+    "coords": {
+        "lat": "37.243",
+        "lng": "106.173"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Ajmer",
+    "coords": {
+        "lat": "26.374",
+        "lng": "74.6"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Taipei",
+    "coords": {
+        "lat": "25.037",
+        "lng": "121.564"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Dubai",
+    "coords": {
+        "lat": "25.287",
+        "lng": "55.321"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Ningxia Hui",
+    "coords": {
+        "lat": "37.243",
+        "lng": "106.173"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Chennai",
+    "coords": {
+        "lat": "13.05",
+        "lng": "80.189"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Sholapur",
+    "coords": {
+        "lat": "17.67",
+        "lng": "75.903"
+    }
+}, {
+    "city": "Kwangju",
+    "coords": {
+        "lat": "35.153",
+        "lng": "126.905"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Semarang",
+    "coords": {
+        "lat": "-6.971",
+        "lng": "110.425"
+    }
+}, {
+    "city": "Taegu",
+    "coords": {
+        "lat": "35.854",
+        "lng": "128.61"
+    }
+}, {
+    "city": "Quetta",
+    "coords": {
+        "lat": "30.221",
+        "lng": "67.009"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Bengaluru",
+    "coords": {
+        "lat": "12.967",
+        "lng": "77.587"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Gifu",
+    "coords": {
+        "lat": "35.41",
+        "lng": "136.768"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "Tehran",
+    "coords": {
+        "lat": "35.69",
+        "lng": "51.415"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Vijayawada",
+    "coords": {
+        "lat": "16.503",
+        "lng": "80.641"
+    }
+}, {
+    "city": "Keelung",
+    "coords": {
+        "lat": "25.121",
+        "lng": "121.726"
+    }
+}, {
+    "city": "Mangaluru",
+    "coords": {
+        "lat": "13.071",
+        "lng": "74.999"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Agra",
+    "coords": {
+        "lat": "27.103",
+        "lng": "78.004"
+    }
+}, {
+    "city": "Shimane",
+    "coords": {
+        "lat": "35.049",
+        "lng": "132.529"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Yunlin County",
+    "coords": {
+        "lat": "53.392",
+        "lng": "-6.282"
+    }
+}, {
+    "city": "Yangon",
+    "coords": {
+        "lat": "16.845",
+        "lng": "96.133"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Amritsar",
+    "coords": {
+        "lat": "31.575",
+        "lng": "74.836"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Patna",
+    "coords": {
+        "lat": "25.606",
+        "lng": "85.141"
+    }
+}, {
+    "city": "Shiga",
+    "coords": {
+        "lat": "35.218",
+        "lng": "136.139"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Allahabad",
+    "coords": {
+        "lat": "25.468",
+        "lng": "81.691"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Kagawa",
+    "coords": {
+        "lat": "34.298",
+        "lng": "133.995"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Halab",
+    "coords": {
+        "lat": "36.222",
+        "lng": "37.132"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Ludhiana",
+    "coords": {
+        "lat": "30.909",
+        "lng": "75.851"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Madurai",
+    "coords": {
+        "lat": "9.924",
+        "lng": "78.124"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Rajkot",
+    "coords": {
+        "lat": "22.227",
+        "lng": "70.912"
+    }
+}, {
+    "city": "Amritsar",
+    "coords": {
+        "lat": "31.575",
+        "lng": "74.836"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Visakhapatnam",
+    "coords": {
+        "lat": "17.723",
+        "lng": "83.317"
+    }
+}, {
+    "city": "Mirat",
+    "coords": {
+        "lat": "29.045",
+        "lng": "77.71"
+    }
+}, {
+    "city": "Kwangju",
+    "coords": {
+        "lat": "35.153",
+        "lng": "126.905"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Taegu",
+    "coords": {
+        "lat": "35.854",
+        "lng": "128.61"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "location",
+    "coords": {
+        "lat": "39.214",
+        "lng": "-79.637"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Taegu",
+    "coords": {
+        "lat": "35.854",
+        "lng": "128.61"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Saga",
+    "coords": {
+        "lat": "33.301",
+        "lng": "130.097"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Yangon",
+    "coords": {
+        "lat": "16.845",
+        "lng": "96.133"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Aurangabad",
+    "coords": {
+        "lat": "19.867",
+        "lng": "75.409"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Makkah",
+    "coords": {
+        "lat": "21.43",
+        "lng": "39.828"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Jodhpur",
+    "coords": {
+        "lat": "26.405",
+        "lng": "73.078"
+    }
+}, {
+    "city": "ad-Dammam",
+    "coords": {
+        "lat": "26.434",
+        "lng": "50.103"
+    }
+}, {
+    "city": "Raipur",
+    "coords": {
+        "lat": "21.247",
+        "lng": "81.641"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Ahmadabad",
+    "coords": {
+        "lat": "23.019",
+        "lng": "72.582"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Allahabad",
+    "coords": {
+        "lat": "25.468",
+        "lng": "81.691"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Kaohsiung",
+    "coords": {
+        "lat": "22.62",
+        "lng": "120.312"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Ludhiana",
+    "coords": {
+        "lat": "30.909",
+        "lng": "75.851"
+    }
+}, {
+    "city": "Malang",
+    "coords": {
+        "lat": "-7.982",
+        "lng": "112.627"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Tehran",
+    "coords": {
+        "lat": "35.69",
+        "lng": "51.415"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Ahmadabad",
+    "coords": {
+        "lat": "23.019",
+        "lng": "72.582"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Kagawa",
+    "coords": {
+        "lat": "34.298",
+        "lng": "133.995"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Chennai",
+    "coords": {
+        "lat": "13.05",
+        "lng": "80.189"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Raurkela",
+    "coords": {
+        "lat": "22.233",
+        "lng": "84.872"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Pondicherry",
+    "coords": {
+        "lat": "11.923",
+        "lng": "79.773"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Chittagong",
+    "coords": {
+        "lat": "22.387",
+        "lng": "91.867"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Raipur",
+    "coords": {
+        "lat": "21.247",
+        "lng": "81.641"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Yunlin County",
+    "coords": {
+        "lat": "53.392",
+        "lng": "-6.282"
+    }
+}, {
+    "city": "Lucknow",
+    "coords": {
+        "lat": "26.867",
+        "lng": "80.779"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Raipur",
+    "coords": {
+        "lat": "21.247",
+        "lng": "81.641"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Gifu",
+    "coords": {
+        "lat": "35.41",
+        "lng": "136.768"
+    }
+}, {
+    "city": "Semarang",
+    "coords": {
+        "lat": "-6.971",
+        "lng": "110.425"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Varanasi",
+    "coords": {
+        "lat": "25.333",
+        "lng": "82.996"
+    }
+}, {
+    "city": "an-Nasiriyah",
+    "coords": {
+        "lat": "31.037",
+        "lng": "46.24"
+    }
+}, {
+    "city": "Kolhapur",
+    "coords": {
+        "lat": "16.695",
+        "lng": "74.236"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Hamheung",
+    "coords": {
+        "lat": "39.914",
+        "lng": "127.536"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Shiga",
+    "coords": {
+        "lat": "35.218",
+        "lng": "136.139"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Kwangju",
+    "coords": {
+        "lat": "35.153",
+        "lng": "126.905"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Phnom Penh",
+    "coords": {
+        "lat": "11.562",
+        "lng": "104.919"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Pyeongyang",
+    "coords": {
+        "lat": "39.012",
+        "lng": "125.787"
+    }
+}, {
+    "city": "Tiruppur",
+    "coords": {
+        "lat": "11.092",
+        "lng": "77.356"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Ibaraki",
+    "coords": {
+        "lat": "36.307",
+        "lng": "140.392"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Haifa",
+    "coords": {
+        "lat": "32.785",
+        "lng": "34.964"
+    }
+}, {
+    "city": "Chandigarh",
+    "coords": {
+        "lat": "30.703",
+        "lng": "76.789"
+    }
+}, {
+    "city": "Mangaluru",
+    "coords": {
+        "lat": "13.071",
+        "lng": "74.999"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Quetta",
+    "coords": {
+        "lat": "30.221",
+        "lng": "67.009"
+    }
+}, {
+    "city": "Halab",
+    "coords": {
+        "lat": "36.222",
+        "lng": "37.132"
+    }
+}, {
+    "city": "Oita",
+    "coords": {
+        "lat": "33.231",
+        "lng": "131.608"
+    }
+}, {
+    "city": "Kinmen County",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Okayama",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Bhubaneswar",
+    "coords": {
+        "lat": "20.295",
+        "lng": "85.826"
+    }
+}, {
+    "city": "Cheonju",
+    "coords": {
+        "lat": "36.638",
+        "lng": "127.493"
+    }
+}, {
+    "city": "Indore",
+    "coords": {
+        "lat": "22.688",
+        "lng": "76.027"
+    }
+}, {
+    "city": "Oita",
+    "coords": {
+        "lat": "33.231",
+        "lng": "131.608"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Bhubaneswar",
+    "coords": {
+        "lat": "20.295",
+        "lng": "85.826"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Tottori",
+    "coords": {
+        "lat": "35.383",
+        "lng": "133.841"
+    }
+}, {
+    "city": "Mie",
+    "coords": {
+        "lat": "34.48",
+        "lng": "136.454"
+    }
+}, {
+    "city": "Chandigarh",
+    "coords": {
+        "lat": "30.703",
+        "lng": "76.789"
+    }
+}, {
+    "city": "Haifa",
+    "coords": {
+        "lat": "32.785",
+        "lng": "34.964"
+    }
+}, {
+    "city": "as-Sulaymaniyah",
+    "coords": {
+        "lat": "35.56",
+        "lng": "45.434"
+    }
+}, {
+    "city": "Jammu",
+    "coords": {
+        "lat": "32.819",
+        "lng": "74.927"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "Aligarh",
+    "coords": {
+        "lat": "27.886",
+        "lng": "78.074"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Oita",
+    "coords": {
+        "lat": "33.231",
+        "lng": "131.608"
+    }
+}, {
+    "city": "Kanpur",
+    "coords": {
+        "lat": "26.272",
+        "lng": "80.416"
+    }
+}, {
+    "city": "Da Nang",
+    "coords": {
+        "lat": "16.071",
+        "lng": "108.221"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Qom",
+    "coords": {
+        "lat": "34.644",
+        "lng": "50.891"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Baghdad",
+    "coords": {
+        "lat": "33.342",
+        "lng": "44.394"
+    }
+}, {
+    "city": "Jabalpur",
+    "coords": {
+        "lat": "23.096",
+        "lng": "80.05"
+    }
+}, {
+    "city": "Qinghai",
+    "coords": {
+        "lat": "35.74",
+        "lng": "96.01"
+    }
+}, {
+    "city": "Masqat",
+    "coords": {
+        "lat": "23.615",
+        "lng": "58.591"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Chiayi",
+    "coords": {
+        "lat": "23.478",
+        "lng": "120.44"
+    }
+}, {
+    "city": "Qinghai",
+    "coords": {
+        "lat": "35.74",
+        "lng": "96.01"
+    }
+}, {
+    "city": "Dehra Dun",
+    "coords": {
+        "lat": "30.181",
+        "lng": "78.122"
+    }
+}, {
+    "city": "Ha Noi",
+    "coords": {
+        "lat": "21.029",
+        "lng": "105.855"
+    }
+}, {
+    "city": "Ha Noi",
+    "coords": {
+        "lat": "21.029",
+        "lng": "105.855"
+    }
+}, {
+    "city": "Tottori",
+    "coords": {
+        "lat": "35.383",
+        "lng": "133.841"
+    }
+}, {
+    "city": "Masqat",
+    "coords": {
+        "lat": "23.615",
+        "lng": "58.591"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "Dubai",
+    "coords": {
+        "lat": "25.287",
+        "lng": "55.321"
+    }
+}, {
+    "city": "Kanpur",
+    "coords": {
+        "lat": "26.272",
+        "lng": "80.416"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Ludhiana",
+    "coords": {
+        "lat": "30.909",
+        "lng": "75.851"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Malang",
+    "coords": {
+        "lat": "-7.982",
+        "lng": "112.627"
+    }
+}, {
+    "city": "Makkah",
+    "coords": {
+        "lat": "21.43",
+        "lng": "39.828"
+    }
+}, {
+    "city": "Almati",
+    "coords": {
+        "lat": "43.251",
+        "lng": "76.888"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Pune",
+    "coords": {
+        "lat": "18.504",
+        "lng": "73.853"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Taegu",
+    "coords": {
+        "lat": "35.854",
+        "lng": "128.61"
+    }
+}, {
+    "city": "Kumamoto",
+    "coords": {
+        "lat": "32.789",
+        "lng": "130.715"
+    }
+}, {
+    "city": "Yilan County",
+    "coords": {
+        "lat": "35.547",
+        "lng": "118.453"
+    }
+}, {
+    "city": "Jammu",
+    "coords": {
+        "lat": "32.819",
+        "lng": "74.927"
+    }
+}, {
+    "city": "Tiruppur",
+    "coords": {
+        "lat": "11.092",
+        "lng": "77.356"
+    }
+}, {
+    "city": "Chiayi",
+    "coords": {
+        "lat": "23.478",
+        "lng": "120.44"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Chiayi",
+    "coords": {
+        "lat": "23.478",
+        "lng": "120.44"
+    }
+}, {
+    "city": "Lahore",
+    "coords": {
+        "lat": "31.539",
+        "lng": "74.303"
+    }
+}, {
+    "city": "Salem",
+    "coords": {
+        "lat": "42.522",
+        "lng": "-70.896"
+    }
+}, {
+    "city": "Mashhad",
+    "coords": {
+        "lat": "36.316",
+        "lng": "59.568"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "Shiraz",
+    "coords": {
+        "lat": "29.591",
+        "lng": "52.531"
+    }
+}, {
+    "city": "Gangneung",
+    "coords": {
+        "lat": "37.772",
+        "lng": "128.881"
+    }
+}, {
+    "city": "Ranchi",
+    "coords": {
+        "lat": "23.349",
+        "lng": "85.314"
+    }
+}, {
+    "city": "Jamshedpur",
+    "coords": {
+        "lat": "22.813",
+        "lng": "86.21"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Tochigi",
+    "coords": {
+        "lat": "36.69",
+        "lng": "139.819"
+    }
+}, {
+    "city": "Quetta",
+    "coords": {
+        "lat": "30.221",
+        "lng": "67.009"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Ahvaz",
+    "coords": {
+        "lat": "31.317",
+        "lng": "48.684"
+    }
+}, {
+    "city": "Kuala Lumpur",
+    "coords": {
+        "lat": "3.105",
+        "lng": "101.692"
+    }
+}, {
+    "city": "Bhubaneswar",
+    "coords": {
+        "lat": "20.295",
+        "lng": "85.826"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Vadodara",
+    "coords": {
+        "lat": "22.229",
+        "lng": "73.203"
+    }
+}, {
+    "city": "Vadodara",
+    "coords": {
+        "lat": "22.229",
+        "lng": "73.203"
+    }
+}, {
+    "city": "Jabalpur",
+    "coords": {
+        "lat": "23.096",
+        "lng": "80.05"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Kirkuk",
+    "coords": {
+        "lat": "35.422",
+        "lng": "44.417"
+    }
+}, {
+    "city": "Mie",
+    "coords": {
+        "lat": "34.48",
+        "lng": "136.454"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Tibet",
+    "coords": {
+        "lat": "31.679",
+        "lng": "88.17"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Tiruppur",
+    "coords": {
+        "lat": "11.092",
+        "lng": "77.356"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Pyeongyang",
+    "coords": {
+        "lat": "39.012",
+        "lng": "125.787"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Okayama",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Dubai",
+    "coords": {
+        "lat": "25.287",
+        "lng": "55.321"
+    }
+}, {
+    "city": "Varanasi",
+    "coords": {
+        "lat": "25.333",
+        "lng": "82.996"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Jamshedpur",
+    "coords": {
+        "lat": "22.813",
+        "lng": "86.21"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Tiruchchirappalli",
+    "coords": {
+        "lat": "10.806",
+        "lng": "78.695"
+    }
+}, {
+    "city": "Gujranwala",
+    "coords": {
+        "lat": "32.156",
+        "lng": "74.175"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "Aurangabad",
+    "coords": {
+        "lat": "19.867",
+        "lng": "75.409"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Surakarta",
+    "coords": {
+        "lat": "-7.572",
+        "lng": "110.823"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Kabul",
+    "coords": {
+        "lat": "34.532",
+        "lng": "69.125"
+    }
+}, {
+    "city": "Jeju",
+    "coords": {
+        "lat": "33.363",
+        "lng": "126.542"
+    }
+}, {
+    "city": "as-Sulaymaniyah",
+    "coords": {
+        "lat": "35.56",
+        "lng": "45.434"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Raipur",
+    "coords": {
+        "lat": "21.247",
+        "lng": "81.641"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Cheonju",
+    "coords": {
+        "lat": "36.638",
+        "lng": "127.493"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Pune",
+    "coords": {
+        "lat": "18.504",
+        "lng": "73.853"
+    }
+}, {
+    "city": "Pinang",
+    "coords": {
+        "lat": "5.363",
+        "lng": "100.459"
+    }
+}, {
+    "city": "Almati",
+    "coords": {
+        "lat": "43.251",
+        "lng": "76.888"
+    }
+}, {
+    "city": "Patna",
+    "coords": {
+        "lat": "25.606",
+        "lng": "85.141"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Quetta",
+    "coords": {
+        "lat": "30.221",
+        "lng": "67.009"
+    }
+}, {
+    "city": "Fukui",
+    "coords": {
+        "lat": "36.067",
+        "lng": "136.224"
+    }
+}, {
+    "city": "ad-Dammam",
+    "coords": {
+        "lat": "26.434",
+        "lng": "50.103"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Visakhapatnam",
+    "coords": {
+        "lat": "17.723",
+        "lng": "83.317"
+    }
+}, {
+    "city": "Yangon",
+    "coords": {
+        "lat": "16.845",
+        "lng": "96.133"
+    }
+}, {
+    "city": "Chittagong",
+    "coords": {
+        "lat": "22.387",
+        "lng": "91.867"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Ha Noi",
+    "coords": {
+        "lat": "21.029",
+        "lng": "105.855"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Mangaluru",
+    "coords": {
+        "lat": "13.071",
+        "lng": "74.999"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Tokushima",
+    "coords": {
+        "lat": "33.922",
+        "lng": "134.327"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Almati",
+    "coords": {
+        "lat": "43.251",
+        "lng": "76.888"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Tiruppur",
+    "coords": {
+        "lat": "11.092",
+        "lng": "77.356"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Cheonju",
+    "coords": {
+        "lat": "36.638",
+        "lng": "127.493"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Ahmadabad",
+    "coords": {
+        "lat": "23.019",
+        "lng": "72.582"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Chiayi",
+    "coords": {
+        "lat": "23.478",
+        "lng": "120.44"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Taegu",
+    "coords": {
+        "lat": "35.854",
+        "lng": "128.61"
+    }
+}, {
+    "city": "Madurai",
+    "coords": {
+        "lat": "9.924",
+        "lng": "78.124"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Chandigarh",
+    "coords": {
+        "lat": "30.703",
+        "lng": "76.789"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Jabalpur",
+    "coords": {
+        "lat": "23.096",
+        "lng": "80.05"
+    }
+}, {
+    "city": "Bikaner",
+    "coords": {
+        "lat": "27.798",
+        "lng": "73.335"
+    }
+}, {
+    "city": "Rajkot",
+    "coords": {
+        "lat": "22.227",
+        "lng": "70.912"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Gangneung",
+    "coords": {
+        "lat": "37.772",
+        "lng": "128.881"
+    }
+}, {
+    "city": "Thiruvananthapuram",
+    "coords": {
+        "lat": "8.505",
+        "lng": "76.951"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Keelung",
+    "coords": {
+        "lat": "25.121",
+        "lng": "121.726"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Ajmer",
+    "coords": {
+        "lat": "26.374",
+        "lng": "74.6"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Kolhapur",
+    "coords": {
+        "lat": "16.695",
+        "lng": "74.236"
+    }
+}, {
+    "city": "Tottori",
+    "coords": {
+        "lat": "35.383",
+        "lng": "133.841"
+    }
+}, {
+    "city": "Davao",
+    "coords": {
+        "lat": "7.066",
+        "lng": "125.611"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Gangneung",
+    "coords": {
+        "lat": "37.772",
+        "lng": "128.881"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Irbil",
+    "coords": {
+        "lat": "36.194",
+        "lng": "44.033"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Taipei",
+    "coords": {
+        "lat": "25.037",
+        "lng": "121.564"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Ningxia Hui",
+    "coords": {
+        "lat": "37.243",
+        "lng": "106.173"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Yilan County",
+    "coords": {
+        "lat": "35.547",
+        "lng": "118.453"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Ibaraki",
+    "coords": {
+        "lat": "36.307",
+        "lng": "140.392"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Gujranwala",
+    "coords": {
+        "lat": "32.156",
+        "lng": "74.175"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Miaoli County",
+    "coords": {
+        "lat": "19.185",
+        "lng": "-155.907"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Kuala Lumpur",
+    "coords": {
+        "lat": "3.105",
+        "lng": "101.692"
+    }
+}, {
+    "city": "Patna",
+    "coords": {
+        "lat": "25.606",
+        "lng": "85.141"
+    }
+}, {
+    "city": "Fukui",
+    "coords": {
+        "lat": "36.067",
+        "lng": "136.224"
+    }
+}, {
+    "city": "Kolkata",
+    "coords": {
+        "lat": "22.571",
+        "lng": "88.371"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Gorakhpur",
+    "coords": {
+        "lat": "26.754",
+        "lng": "83.376"
+    }
+}, {
+    "city": "Kozhikkod",
+    "coords": {
+        "lat": "11.265",
+        "lng": "75.95"
+    }
+}, {
+    "city": "Durgapur",
+    "coords": {
+        "lat": "23.504",
+        "lng": "87.353"
+    }
+}, {
+    "city": "Khulna",
+    "coords": {
+        "lat": "22.846",
+        "lng": "89.538"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Gwalior",
+    "coords": {
+        "lat": "26.22",
+        "lng": "78.176"
+    }
+}, {
+    "city": "Gifu",
+    "coords": {
+        "lat": "35.41",
+        "lng": "136.768"
+    }
+}, {
+    "city": "Hubli",
+    "coords": {
+        "lat": "15.293",
+        "lng": "75.146"
+    }
+}, {
+    "city": "Salem",
+    "coords": {
+        "lat": "42.522",
+        "lng": "-70.896"
+    }
+}, {
+    "city": "Chittagong",
+    "coords": {
+        "lat": "22.387",
+        "lng": "91.867"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Tainan",
+    "coords": {
+        "lat": "22.992",
+        "lng": "120.197"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Faisalabad",
+    "coords": {
+        "lat": "31.404",
+        "lng": "73.09"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Madurai",
+    "coords": {
+        "lat": "9.924",
+        "lng": "78.124"
+    }
+}, {
+    "city": "Srinagar",
+    "coords": {
+        "lat": "34.092",
+        "lng": "74.82"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Hsinchu County",
+    "coords": {
+        "lat": "38.082",
+        "lng": "-91.153"
+    }
+}, {
+    "city": "Gujranwala",
+    "coords": {
+        "lat": "32.156",
+        "lng": "74.175"
+    }
+}, {
+    "city": "San´a",
+    "coords": {
+        "lat": "15.367",
+        "lng": "44.211"
+    }
+}, {
+    "city": "Hsinchu County",
+    "coords": {
+        "lat": "38.082",
+        "lng": "-91.153"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Indore",
+    "coords": {
+        "lat": "22.688",
+        "lng": "76.027"
+    }
+}, {
+    "city": "Hsinchu County",
+    "coords": {
+        "lat": "38.082",
+        "lng": "-91.153"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Mie",
+    "coords": {
+        "lat": "34.48",
+        "lng": "136.454"
+    }
+}, {
+    "city": "Ahmadabad",
+    "coords": {
+        "lat": "23.019",
+        "lng": "72.582"
+    }
+}, {
+    "city": "Semarang",
+    "coords": {
+        "lat": "-6.971",
+        "lng": "110.425"
+    }
+}, {
+    "city": "Tainan",
+    "coords": {
+        "lat": "22.992",
+        "lng": "120.197"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "an-Nasiriyah",
+    "coords": {
+        "lat": "31.037",
+        "lng": "46.24"
+    }
+}, {
+    "city": "Tainan",
+    "coords": {
+        "lat": "22.992",
+        "lng": "120.197"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Allahabad",
+    "coords": {
+        "lat": "25.468",
+        "lng": "81.691"
+    }
+}, {
+    "city": "Ibaraki",
+    "coords": {
+        "lat": "36.307",
+        "lng": "140.392"
+    }
+}, {
+    "city": "Tainan",
+    "coords": {
+        "lat": "22.992",
+        "lng": "120.197"
+    }
+}, {
+    "city": "Pingtung County",
+    "coords": {
+        "lat": "25.826",
+        "lng": "107.034"
+    }
+}, {
+    "city": "Kuala Lumpur",
+    "coords": {
+        "lat": "3.105",
+        "lng": "101.692"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Yamanashi",
+    "coords": {
+        "lat": "35.613",
+        "lng": "138.611"
+    }
+}, {
+    "city": "Taipei",
+    "coords": {
+        "lat": "25.037",
+        "lng": "121.564"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Bengaluru",
+    "coords": {
+        "lat": "12.967",
+        "lng": "77.587"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Kota",
+    "coords": {
+        "lat": "25.173",
+        "lng": "75.855"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Dhanbad",
+    "coords": {
+        "lat": "23.793",
+        "lng": "86.429"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Miyazaki",
+    "coords": {
+        "lat": "31.912",
+        "lng": "131.421"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Chandigarh",
+    "coords": {
+        "lat": "30.703",
+        "lng": "76.789"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "as-Sulaymaniyah",
+    "coords": {
+        "lat": "35.56",
+        "lng": "45.434"
+    }
+}, {
+    "city": "Saga",
+    "coords": {
+        "lat": "33.301",
+        "lng": "130.097"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Baghdad",
+    "coords": {
+        "lat": "33.342",
+        "lng": "44.394"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Malang",
+    "coords": {
+        "lat": "-7.982",
+        "lng": "112.627"
+    }
+}, {
+    "city": "Ha Noi",
+    "coords": {
+        "lat": "21.029",
+        "lng": "105.855"
+    }
+}, {
+    "city": "Gwalior",
+    "coords": {
+        "lat": "26.22",
+        "lng": "78.176"
+    }
+}, {
+    "city": "Mie",
+    "coords": {
+        "lat": "34.48",
+        "lng": "136.454"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Agra",
+    "coords": {
+        "lat": "27.103",
+        "lng": "78.004"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Surat",
+    "coords": {
+        "lat": "21.185",
+        "lng": "72.836"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Baghdad",
+    "coords": {
+        "lat": "33.342",
+        "lng": "44.394"
+    }
+}, {
+    "city": "Ibaraki",
+    "coords": {
+        "lat": "36.307",
+        "lng": "140.392"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Gifu",
+    "coords": {
+        "lat": "35.41",
+        "lng": "136.768"
+    }
+}, {
+    "city": "Taipei",
+    "coords": {
+        "lat": "25.037",
+        "lng": "121.564"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Faisalabad",
+    "coords": {
+        "lat": "31.404",
+        "lng": "73.09"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "ad-Dawhah",
+    "coords": {
+        "lat": "25.275",
+        "lng": "51.531"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Lucknow",
+    "coords": {
+        "lat": "26.867",
+        "lng": "80.779"
+    }
+}, {
+    "city": "Liaoning",
+    "coords": {
+        "lat": "41.176",
+        "lng": "122.553"
+    }
+}, {
+    "city": "Chennai",
+    "coords": {
+        "lat": "13.05",
+        "lng": "80.189"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Hubei",
+    "coords": {
+        "lat": "30.949",
+        "lng": "112.271"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Yamanashi",
+    "coords": {
+        "lat": "35.613",
+        "lng": "138.611"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Bhubaneswar",
+    "coords": {
+        "lat": "20.295",
+        "lng": "85.826"
+    }
+}, {
+    "city": "Raurkela",
+    "coords": {
+        "lat": "22.233",
+        "lng": "84.872"
+    }
+}, {
+    "city": "Saga",
+    "coords": {
+        "lat": "33.301",
+        "lng": "130.097"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Kagawa",
+    "coords": {
+        "lat": "34.298",
+        "lng": "133.995"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Lahore",
+    "coords": {
+        "lat": "31.539",
+        "lng": "74.303"
+    }
+}, {
+    "city": "Kanpur",
+    "coords": {
+        "lat": "26.272",
+        "lng": "80.416"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Raipur",
+    "coords": {
+        "lat": "21.247",
+        "lng": "81.641"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Tehran",
+    "coords": {
+        "lat": "35.69",
+        "lng": "51.415"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Nagpur",
+    "coords": {
+        "lat": "21.157",
+        "lng": "79.082"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Kuala Lumpur",
+    "coords": {
+        "lat": "3.105",
+        "lng": "101.692"
+    }
+}, {
+    "city": "Madi Kalyanpur",
+    "coords": {
+        "lat": "27.43",
+        "lng": "84.34"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Tainan",
+    "coords": {
+        "lat": "22.992",
+        "lng": "120.197"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Aichi",
+    "coords": {
+        "lat": "34.971",
+        "lng": "137.182"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Gwalior",
+    "coords": {
+        "lat": "26.22",
+        "lng": "78.176"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Adan",
+    "coords": {
+        "lat": "12.805",
+        "lng": "45.038"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Shiga",
+    "coords": {
+        "lat": "35.218",
+        "lng": "136.139"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Padang",
+    "coords": {
+        "lat": "-0.954",
+        "lng": "100.352"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "Ludhiana",
+    "coords": {
+        "lat": "30.909",
+        "lng": "75.851"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Chandigarh",
+    "coords": {
+        "lat": "30.703",
+        "lng": "76.789"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Akita",
+    "coords": {
+        "lat": "39.763",
+        "lng": "140.319"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Madurai",
+    "coords": {
+        "lat": "9.924",
+        "lng": "78.124"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Nara",
+    "coords": {
+        "lat": "34.676",
+        "lng": "135.833"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Bengaluru",
+    "coords": {
+        "lat": "12.967",
+        "lng": "77.587"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Thiruvananthapuram",
+    "coords": {
+        "lat": "8.505",
+        "lng": "76.951"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Malang",
+    "coords": {
+        "lat": "-7.982",
+        "lng": "112.627"
+    }
+}, {
+    "city": "Warangal",
+    "coords": {
+        "lat": "17.976",
+        "lng": "79.601"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Kagoshima",
+    "coords": {
+        "lat": "31.586",
+        "lng": "130.558"
+    }
+}, {
+    "city": "Surat",
+    "coords": {
+        "lat": "21.185",
+        "lng": "72.836"
+    }
+}, {
+    "city": "Kaohsiung",
+    "coords": {
+        "lat": "22.62",
+        "lng": "120.312"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Hamheung",
+    "coords": {
+        "lat": "39.914",
+        "lng": "127.536"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Chennai",
+    "coords": {
+        "lat": "13.05",
+        "lng": "80.189"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Oita",
+    "coords": {
+        "lat": "33.231",
+        "lng": "131.608"
+    }
+}, {
+    "city": "Ehime",
+    "coords": {
+        "lat": "33.623",
+        "lng": "132.736"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Visakhapatnam",
+    "coords": {
+        "lat": "17.723",
+        "lng": "83.317"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Zahedan",
+    "coords": {
+        "lat": "29.496",
+        "lng": "60.864"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Dushanbe",
+    "coords": {
+        "lat": "38.552",
+        "lng": "68.769"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Hyogo",
+    "coords": {
+        "lat": "34.925",
+        "lng": "134.816"
+    }
+}, {
+    "city": "Fukushima",
+    "coords": {
+        "lat": "37.377",
+        "lng": "140.281"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Esfahan",
+    "coords": {
+        "lat": "32.651",
+        "lng": "51.684"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Tehran",
+    "coords": {
+        "lat": "35.69",
+        "lng": "51.415"
+    }
+}, {
+    "city": "Indore",
+    "coords": {
+        "lat": "22.688",
+        "lng": "76.027"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Shanxi",
+    "coords": {
+        "lat": "37.568",
+        "lng": "112.279"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Kathmandu",
+    "coords": {
+        "lat": "27.693",
+        "lng": "85.323"
+    }
+}, {
+    "city": "Indore",
+    "coords": {
+        "lat": "22.688",
+        "lng": "76.027"
+    }
+}, {
+    "city": "Thiruvananthapuram",
+    "coords": {
+        "lat": "8.505",
+        "lng": "76.951"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Qinghai",
+    "coords": {
+        "lat": "35.74",
+        "lng": "96.01"
+    }
+}, {
+    "city": "Qinghai",
+    "coords": {
+        "lat": "35.74",
+        "lng": "96.01"
+    }
+}, {
+    "city": "Yilan County",
+    "coords": {
+        "lat": "35.547",
+        "lng": "118.453"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Pekan Baru",
+    "coords": {
+        "lat": "0.51",
+        "lng": "101.45"
+    }
+}, {
+    "city": "Gujranwala",
+    "coords": {
+        "lat": "32.156",
+        "lng": "74.175"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Okayama",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Dubai",
+    "coords": {
+        "lat": "25.287",
+        "lng": "55.321"
+    }
+}, {
+    "city": "Chittagong",
+    "coords": {
+        "lat": "22.387",
+        "lng": "91.867"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Kwangju",
+    "coords": {
+        "lat": "35.153",
+        "lng": "126.905"
+    }
+}, {
+    "city": "Gorakhpur",
+    "coords": {
+        "lat": "26.754",
+        "lng": "83.376"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Nantou County",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Nantou County",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Phnom Penh",
+    "coords": {
+        "lat": "11.562",
+        "lng": "104.919"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "Visakhapatnam",
+    "coords": {
+        "lat": "17.723",
+        "lng": "83.317"
+    }
+}, {
+    "city": "Allahabad",
+    "coords": {
+        "lat": "25.468",
+        "lng": "81.691"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "at-Ta´if",
+    "coords": {
+        "lat": "21.295",
+        "lng": "40.425"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Phnom Penh",
+    "coords": {
+        "lat": "11.562",
+        "lng": "104.919"
+    }
+}, {
+    "city": "Faisalabad",
+    "coords": {
+        "lat": "31.404",
+        "lng": "73.09"
+    }
+}, {
+    "city": "Hims",
+    "coords": {
+        "lat": "34.732",
+        "lng": "36.718"
+    }
+}, {
+    "city": "Qinghai",
+    "coords": {
+        "lat": "35.74",
+        "lng": "96.01"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Basrah",
+    "coords": {
+        "lat": "30.519",
+        "lng": "47.82"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Tiruppur",
+    "coords": {
+        "lat": "11.092",
+        "lng": "77.356"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Baghdad",
+    "coords": {
+        "lat": "33.342",
+        "lng": "44.394"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Shimane",
+    "coords": {
+        "lat": "35.049",
+        "lng": "132.529"
+    }
+}, {
+    "city": "Masqat",
+    "coords": {
+        "lat": "23.615",
+        "lng": "58.591"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Saitama",
+    "coords": {
+        "lat": "35.866",
+        "lng": "139.645"
+    }
+}, {
+    "city": "Tegal",
+    "coords": {
+        "lat": "-6.864",
+        "lng": "109.137"
+    }
+}, {
+    "city": "Ranchi",
+    "coords": {
+        "lat": "23.349",
+        "lng": "85.314"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "Nashik",
+    "coords": {
+        "lat": "20.065",
+        "lng": "73.818"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Ajmer",
+    "coords": {
+        "lat": "26.374",
+        "lng": "74.6"
+    }
+}, {
+    "city": "Nashik",
+    "coords": {
+        "lat": "20.065",
+        "lng": "73.818"
+    }
+}, {
+    "city": "Kolhapur",
+    "coords": {
+        "lat": "16.695",
+        "lng": "74.236"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Rajshahi",
+    "coords": {
+        "lat": "24.379",
+        "lng": "88.609"
+    }
+}, {
+    "city": "Kumamoto",
+    "coords": {
+        "lat": "32.789",
+        "lng": "130.715"
+    }
+}, {
+    "city": "Chennai",
+    "coords": {
+        "lat": "13.05",
+        "lng": "80.189"
+    }
+}, {
+    "city": "Yunnan",
+    "coords": {
+        "lat": "24.976",
+        "lng": "101.485"
+    }
+}, {
+    "city": "Yunlin County",
+    "coords": {
+        "lat": "53.392",
+        "lng": "-6.282"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Pyeongyang",
+    "coords": {
+        "lat": "39.012",
+        "lng": "125.787"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Madurai",
+    "coords": {
+        "lat": "9.924",
+        "lng": "78.124"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "Yamagata",
+    "coords": {
+        "lat": "38.47",
+        "lng": "140.078"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Thanh Pho Ho Chi Minh",
+    "coords": {
+        "lat": "10.778",
+        "lng": "106.703"
+    }
+}, {
+    "city": "Okayama",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Haifa",
+    "coords": {
+        "lat": "32.785",
+        "lng": "34.964"
+    }
+}, {
+    "city": "San´a",
+    "coords": {
+        "lat": "15.367",
+        "lng": "44.211"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Haifa",
+    "coords": {
+        "lat": "32.785",
+        "lng": "34.964"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Shanghai",
+    "coords": {
+        "lat": "31.224",
+        "lng": "121.516"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Jabalpur",
+    "coords": {
+        "lat": "23.096",
+        "lng": "80.05"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "al-Kuwayt",
+    "coords": {
+        "lat": "29.373",
+        "lng": "47.971"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Kwangju",
+    "coords": {
+        "lat": "35.153",
+        "lng": "126.905"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Cirebon",
+    "coords": {
+        "lat": "-6.716",
+        "lng": "108.564"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "ar-Riyad",
+    "coords": {
+        "lat": "24.647",
+        "lng": "46.715"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Kirkuk",
+    "coords": {
+        "lat": "35.422",
+        "lng": "44.417"
+    }
+}, {
+    "city": "Tibet",
+    "coords": {
+        "lat": "31.679",
+        "lng": "88.17"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Hainan",
+    "coords": {
+        "lat": "19.207",
+        "lng": "109.769"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Halab",
+    "coords": {
+        "lat": "36.222",
+        "lng": "37.132"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Gangneung",
+    "coords": {
+        "lat": "37.772",
+        "lng": "128.881"
+    }
+}, {
+    "city": "Bayrut",
+    "coords": {
+        "lat": "33.896",
+        "lng": "35.507"
+    }
+}, {
+    "city": "Jeju",
+    "coords": {
+        "lat": "33.363",
+        "lng": "126.542"
+    }
+}, {
+    "city": "Aligarh",
+    "coords": {
+        "lat": "27.886",
+        "lng": "78.074"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Kota",
+    "coords": {
+        "lat": "25.173",
+        "lng": "75.855"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Shaanxi",
+    "coords": {
+        "lat": "35.165",
+        "lng": "108.865"
+    }
+}, {
+    "city": "Chiba",
+    "coords": {
+        "lat": "35.456",
+        "lng": "140.204"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Hiroshima",
+    "coords": {
+        "lat": "34.384",
+        "lng": "132.448"
+    }
+}, {
+    "city": "Vijayawada",
+    "coords": {
+        "lat": "16.503",
+        "lng": "80.641"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Niigata",
+    "coords": {
+        "lat": "37.923",
+        "lng": "139.046"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Taipei",
+    "coords": {
+        "lat": "25.037",
+        "lng": "121.564"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Ha Noi",
+    "coords": {
+        "lat": "21.029",
+        "lng": "105.855"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Yunlin County",
+    "coords": {
+        "lat": "53.392",
+        "lng": "-6.282"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Kanpur",
+    "coords": {
+        "lat": "26.272",
+        "lng": "80.416"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Keelung",
+    "coords": {
+        "lat": "25.121",
+        "lng": "121.726"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "San´a",
+    "coords": {
+        "lat": "15.367",
+        "lng": "44.211"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Hims",
+    "coords": {
+        "lat": "34.732",
+        "lng": "36.718"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Jaipur",
+    "coords": {
+        "lat": "26.914",
+        "lng": "75.793"
+    }
+}, {
+    "city": "Guwahati",
+    "coords": {
+        "lat": "26.184",
+        "lng": "91.752"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "ad-Dammam",
+    "coords": {
+        "lat": "26.434",
+        "lng": "50.103"
+    }
+}, {
+    "city": "Ulaanbaatar",
+    "coords": {
+        "lat": "47.922",
+        "lng": "106.917"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Shizuoka",
+    "coords": {
+        "lat": "34.974",
+        "lng": "138.389"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Pontianak",
+    "coords": {
+        "lat": "-0.024",
+        "lng": "109.338"
+    }
+}, {
+    "city": "Ulsan",
+    "coords": {
+        "lat": "35.538",
+        "lng": "129.313"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Tianjin",
+    "coords": {
+        "lat": "39.145",
+        "lng": "117.201"
+    }
+}, {
+    "city": "Guangxi",
+    "coords": {
+        "lat": "23.788",
+        "lng": "108.775"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Hunan",
+    "coords": {
+        "lat": "27.584",
+        "lng": "111.7"
+    }
+}, {
+    "city": "Makasar",
+    "coords": {
+        "lat": "-5.142",
+        "lng": "119.407"
+    }
+}, {
+    "city": "Fukui",
+    "coords": {
+        "lat": "36.067",
+        "lng": "136.224"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Yamanashi",
+    "coords": {
+        "lat": "35.613",
+        "lng": "138.611"
+    }
+}, {
+    "city": "Taoyuan",
+    "coords": {
+        "lat": "24.993",
+        "lng": "121.308"
+    }
+}, {
+    "city": "Iwate",
+    "coords": {
+        "lat": "39.591",
+        "lng": "141.437"
+    }
+}, {
+    "city": "Yilan County",
+    "coords": {
+        "lat": "35.547",
+        "lng": "118.453"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Faisalabad",
+    "coords": {
+        "lat": "31.404",
+        "lng": "73.09"
+    }
+}, {
+    "city": "Cebu",
+    "coords": {
+        "lat": "10.311",
+        "lng": "123.892"
+    }
+}, {
+    "city": "Ehime",
+    "coords": {
+        "lat": "33.623",
+        "lng": "132.736"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Nara",
+    "coords": {
+        "lat": "34.676",
+        "lng": "135.833"
+    }
+}, {
+    "city": "Amman",
+    "coords": {
+        "lat": "31.952",
+        "lng": "35.94"
+    }
+}, {
+    "city": "Gansu",
+    "coords": {
+        "lat": "37.937",
+        "lng": "101.004"
+    }
+}, {
+    "city": "Indore",
+    "coords": {
+        "lat": "22.688",
+        "lng": "76.027"
+    }
+}, {
+    "city": "Yamaguchi",
+    "coords": {
+        "lat": "34.102",
+        "lng": "131.524"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Chongqing",
+    "coords": {
+        "lat": "29.551",
+        "lng": "106.519"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Heilongjiang",
+    "coords": {
+        "lat": "47.861",
+        "lng": "127.733"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Jakarta",
+    "coords": {
+        "lat": "-6.171",
+        "lng": "106.828"
+    }
+}, {
+    "city": "Tel Aviv-Yafo",
+    "coords": {
+        "lat": "32.085",
+        "lng": "34.79"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Faisalabad",
+    "coords": {
+        "lat": "31.404",
+        "lng": "73.09"
+    }
+}, {
+    "city": "Ranchi",
+    "coords": {
+        "lat": "23.349",
+        "lng": "85.314"
+    }
+}, {
+    "city": "Tochigi",
+    "coords": {
+        "lat": "36.69",
+        "lng": "139.819"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Surabaya",
+    "coords": {
+        "lat": "-7.243",
+        "lng": "112.741"
+    }
+}, {
+    "city": "Bandar Lampung",
+    "coords": {
+        "lat": "-5.441",
+        "lng": "105.271"
+    }
+}, {
+    "city": "Miyagi",
+    "coords": {
+        "lat": "38.427",
+        "lng": "141.036"
+    }
+}, {
+    "city": "Osaka",
+    "coords": {
+        "lat": "34.678",
+        "lng": "135.513"
+    }
+}, {
+    "city": "Peshawar",
+    "coords": {
+        "lat": "34.01",
+        "lng": "71.558"
+    }
+}, {
+    "city": "Jilin",
+    "coords": {
+        "lat": "43.657",
+        "lng": "126.148"
+    }
+}, {
+    "city": "Lahore",
+    "coords": {
+        "lat": "31.539",
+        "lng": "74.303"
+    }
+}, {
+    "city": "Abu Dhabi",
+    "coords": {
+        "lat": "24.469",
+        "lng": "54.372"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Jiangxi",
+    "coords": {
+        "lat": "27.604",
+        "lng": "115.699"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Taichung",
+    "coords": {
+        "lat": "24.164",
+        "lng": "120.647"
+    }
+}, {
+    "city": "Varanasi",
+    "coords": {
+        "lat": "25.333",
+        "lng": "82.996"
+    }
+}, {
+    "city": "Keelung",
+    "coords": {
+        "lat": "25.121",
+        "lng": "121.726"
+    }
+}, {
+    "city": "Quetta",
+    "coords": {
+        "lat": "30.221",
+        "lng": "67.009"
+    }
+}, {
+    "city": "Miyazaki",
+    "coords": {
+        "lat": "31.912",
+        "lng": "131.421"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Rawalpindi",
+    "coords": {
+        "lat": "33.589",
+        "lng": "73.045"
+    }
+}, {
+    "city": "Denpasar",
+    "coords": {
+        "lat": "-8.657",
+        "lng": "115.222"
+    }
+}, {
+    "city": "Hokkaido",
+    "coords": {
+        "lat": "43.539",
+        "lng": "142.438"
+    }
+}, {
+    "city": "Kermanshah",
+    "coords": {
+        "lat": "34.309",
+        "lng": "47.055"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Bengaluru",
+    "coords": {
+        "lat": "12.967",
+        "lng": "77.587"
+    }
+}, {
+    "city": "Kannur",
+    "coords": {
+        "lat": "11.855",
+        "lng": "75.362"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Kirkuk",
+    "coords": {
+        "lat": "35.422",
+        "lng": "44.417"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Taoyuan",
+    "coords": {
+        "lat": "24.993",
+        "lng": "121.308"
+    }
+}, {
+    "city": "Miyazaki",
+    "coords": {
+        "lat": "31.912",
+        "lng": "131.421"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Kabul",
+    "coords": {
+        "lat": "34.532",
+        "lng": "69.125"
+    }
+}, {
+    "city": "Palembang",
+    "coords": {
+        "lat": "-2.991",
+        "lng": "104.757"
+    }
+}, {
+    "city": "West Bank",
+    "coords": {
+        "lat": "31.667",
+        "lng": "35.25"
+    }
+}, {
+    "city": "Nagasaki",
+    "coords": {
+        "lat": "32.743",
+        "lng": "129.882"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Yangon",
+    "coords": {
+        "lat": "16.845",
+        "lng": "96.133"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Ningxia Hui",
+    "coords": {
+        "lat": "37.243",
+        "lng": "106.173"
+    }
+}, {
+    "city": "Zhejiang",
+    "coords": {
+        "lat": "29.2",
+        "lng": "120.445"
+    }
+}, {
+    "city": "Shimane",
+    "coords": {
+        "lat": "35.049",
+        "lng": "132.529"
+    }
+}, {
+    "city": "Kanagawa",
+    "coords": {
+        "lat": "35.38",
+        "lng": "139.39"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Anhui",
+    "coords": {
+        "lat": "31.81",
+        "lng": "117.218"
+    }
+}, {
+    "city": "Surat",
+    "coords": {
+        "lat": "21.185",
+        "lng": "72.836"
+    }
+}, {
+    "city": "Toyama",
+    "coords": {
+        "lat": "36.675",
+        "lng": "137.273"
+    }
+}, {
+    "city": "Krung Thep (Bangkok)",
+    "coords": {
+        "lat": "13.753",
+        "lng": "100.505"
+    }
+}, {
+    "city": "Henan",
+    "coords": {
+        "lat": "33.865",
+        "lng": "113.587"
+    }
+}, {
+    "city": "Lucknow",
+    "coords": {
+        "lat": "26.867",
+        "lng": "80.779"
+    }
+}, {
+    "city": "Bhopal",
+    "coords": {
+        "lat": "23.253",
+        "lng": "77.431"
+    }
+}, {
+    "city": "Beijing",
+    "coords": {
+        "lat": "39.907",
+        "lng": "116.388"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Haifa",
+    "coords": {
+        "lat": "32.785",
+        "lng": "34.964"
+    }
+}, {
+    "city": "San´a",
+    "coords": {
+        "lat": "15.367",
+        "lng": "44.211"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Guangdong",
+    "coords": {
+        "lat": "23.203",
+        "lng": "113.374"
+    }
+}, {
+    "city": "Bishkek",
+    "coords": {
+        "lat": "42.852",
+        "lng": "74.567"
+    }
+}, {
+    "city": "Miyazaki",
+    "coords": {
+        "lat": "31.912",
+        "lng": "131.421"
+    }
+}, {
+    "city": "Delhi",
+    "coords": {
+        "lat": "28.645",
+        "lng": "77.216"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Aurangabad",
+    "coords": {
+        "lat": "19.867",
+        "lng": "75.409"
+    }
+}, {
+    "city": "Makkah",
+    "coords": {
+        "lat": "21.43",
+        "lng": "39.828"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Ishikawa",
+    "coords": {
+        "lat": "36.872",
+        "lng": "136.799"
+    }
+}, {
+    "city": "Dimashq",
+    "coords": {
+        "lat": "33.517",
+        "lng": "36.317"
+    }
+}, {
+    "city": "Irbid",
+    "coords": {
+        "lat": "32.549",
+        "lng": "35.851"
+    }
+}, {
+    "city": "Hebei",
+    "coords": {
+        "lat": "39.511",
+        "lng": "116.126"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Kumamoto",
+    "coords": {
+        "lat": "32.789",
+        "lng": "130.715"
+    }
+}, {
+    "city": "Makkah",
+    "coords": {
+        "lat": "21.43",
+        "lng": "39.828"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Bandung",
+    "coords": {
+        "lat": "-6.921",
+        "lng": "107.62"
+    }
+}, {
+    "city": "Kochi",
+    "coords": {
+        "lat": "9.936",
+        "lng": "76.261"
+    }
+}, {
+    "city": "Sichuan",
+    "coords": {
+        "lat": "30.609",
+        "lng": "102.704"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Karachi",
+    "coords": {
+        "lat": "24.927",
+        "lng": "67.034"
+    }
+}, {
+    "city": "Jiangsu",
+    "coords": {
+        "lat": "33.019",
+        "lng": "119.491"
+    }
+}, {
+    "city": "Yogyakarta",
+    "coords": {
+        "lat": "-7.802",
+        "lng": "110.372"
+    }
+}, {
+    "city": "Taejeon",
+    "coords": {
+        "lat": "36.334",
+        "lng": "127.437"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Mumbai",
+    "coords": {
+        "lat": "18.93",
+        "lng": "72.83"
+    }
+}, {
+    "city": "Lucknow",
+    "coords": {
+        "lat": "26.867",
+        "lng": "80.779"
+    }
+}, {
+    "city": "Fujian",
+    "coords": {
+        "lat": "26.001",
+        "lng": "118.083"
+    }
+}, {
+    "city": "Pune",
+    "coords": {
+        "lat": "18.504",
+        "lng": "73.853"
+    }
+}, {
+    "city": "Banjarmasin",
+    "coords": {
+        "lat": "-3.327",
+        "lng": "114.585"
+    }
+}, {
+    "city": "Pyeongyang",
+    "coords": {
+        "lat": "39.012",
+        "lng": "125.787"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Patna",
+    "coords": {
+        "lat": "25.606",
+        "lng": "85.141"
+    }
+}, {
+    "city": "Kozhikkod",
+    "coords": {
+        "lat": "11.265",
+        "lng": "75.95"
+    }
+}, {
+    "city": "Bikaner",
+    "coords": {
+        "lat": "27.798",
+        "lng": "73.335"
+    }
+}, {
+    "city": "Shandong",
+    "coords": {
+        "lat": "36.376",
+        "lng": "118.316"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "Guizhou",
+    "coords": {
+        "lat": "26.801",
+        "lng": "106.877"
+    }
+}, {
+    "city": "Seoul",
+    "coords": {
+        "lat": "37.515",
+        "lng": "127.016"
+    }
+}, {
+    "city": "Okayama",
+    "coords": {
+        "lat": "34.665",
+        "lng": "133.923"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}, {
+    "city": "Nagano",
+    "coords": {
+        "lat": "36.649",
+        "lng": "138.192"
+    }
+}, {
+    "city": "Tokyo",
+    "coords": {
+        "lat": "35.683",
+        "lng": "139.809"
+    }
+}, {
+    "city": "Miaoli County",
+    "coords": {
+        "lat": "19.185",
+        "lng": "-155.907"
+    }
+}, {
+    "city": "Multan",
+    "coords": {
+        "lat": "30.186",
+        "lng": "71.448"
+    }
+}, {
+    "city": "Miaoli County",
+    "coords": {
+        "lat": "19.185",
+        "lng": "-155.907"
+    }
+}, {
+    "city": "Dhaka",
+    "coords": {
+        "lat": "23.713",
+        "lng": "90.4"
+    }
+}, {
+    "city": "Varanasi",
+    "coords": {
+        "lat": "25.333",
+        "lng": "82.996"
+    }
+}, {
+    "city": "Srinagar",
+    "coords": {
+        "lat": "34.092",
+        "lng": "74.82"
+    }
+}, {
+    "city": "Samarinda",
+    "coords": {
+        "lat": "-0.502",
+        "lng": "117.154"
+    }
+}, {
+    "city": "Changhua County",
+    "coords": {
+        "lat": "26.029",
+        "lng": "106.441"
+    }
+}, {
+    "city": "Almati",
+    "coords": {
+        "lat": "43.251",
+        "lng": "76.888"
+    }
+}, {
+    "city": "Gunma",
+    "coords": {
+        "lat": "36.504",
+        "lng": "138.984"
+    }
+}, {
+    "city": "Inner Mongolia",
+    "coords": {
+        "lat": "44.053",
+        "lng": "113.871"
+    }
+}, {
+    "city": "Bacolod",
+    "coords": {
+        "lat": "10.668",
+        "lng": "122.95"
+    }
+}, {
+    "city": "Medan",
+    "coords": {
+        "lat": "3.585",
+        "lng": "98.676"
+    }
+}, {
+    "city": "Aomori",
+    "coords": {
+        "lat": "40.825",
+        "lng": "140.755"
+    }
+}, {
+    "city": "Mataram",
+    "coords": {
+        "lat": "-8.595",
+        "lng": "116.105"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Jamnagar",
+    "coords": {
+        "lat": "22.413",
+        "lng": "69.864"
+    }
+}, {
+    "city": "Wakayama",
+    "coords": {
+        "lat": "34.218",
+        "lng": "135.172"
+    }
+}, {
+    "city": "Jodhpur",
+    "coords": {
+        "lat": "26.405",
+        "lng": "73.078"
+    }
+}, {
+    "city": "Manila",
+    "coords": {
+        "lat": "14.587",
+        "lng": "120.984"
+    }
+}, {
+    "city": "Moradabad",
+    "coords": {
+        "lat": "29.131",
+        "lng": "78.946"
+    }
+}, {
+    "city": "Ipoh",
+    "coords": {
+        "lat": "4.591",
+        "lng": "101.076"
+    }
+}, {
+    "city": "Kyoto",
+    "coords": {
+        "lat": "35.323",
+        "lng": "135.416"
+    }
+}, {
+    "city": "Lahore",
+    "coords": {
+        "lat": "31.539",
+        "lng": "74.303"
+    }
+}, {
+    "city": "Kanpur",
+    "coords": {
+        "lat": "26.272",
+        "lng": "80.416"
+    }
+}, {
+    "city": "Fukuoka",
+    "coords": {
+        "lat": "33.584",
+        "lng": "130.413"
+    }
+}, {
+    "city": "Jodhpur",
+    "coords": {
+        "lat": "26.405",
+        "lng": "73.078"
+    }
+}, {
+    "city": "Gazzah",
+    "coords": {
+        "lat": "31.5",
+        "lng": "34.467"
+    }
+}, {
+    "city": "Okinawa",
+    "coords": {
+        "lat": "25.661",
+        "lng": "125.725"
+    }
+}, {
+    "city": "Tibet",
+    "coords": {
+        "lat": "31.679",
+        "lng": "88.17"
+    }
+}, {
+    "city": "Hyderabad",
+    "coords": {
+        "lat": "17.411",
+        "lng": "78.485"
+    }
+}, {
+    "city": "Colombo",
+    "coords": {
+        "lat": "39.962",
+        "lng": "-83.003"
+    }
+}]
