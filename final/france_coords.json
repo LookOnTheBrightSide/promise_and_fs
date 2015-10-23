@@ -1,0 +1,3013 @@
+[{
+    "city": "Montlucon, France",
+    "coords": {
+        "lat": "46.344",
+        "lng": "2.574"
+    }
+}, {
+    "city": "Valence, France",
+    "coords": {
+        "lat": "44.113",
+        "lng": "0.887"
+    }
+}, {
+    "city": "Villebon, France",
+    "coords": {
+        "lat": "48.7",
+        "lng": "2.215"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Agen, France",
+    "coords": {
+        "lat": "44.203",
+        "lng": "0.624"
+    }
+}, {
+    "city": "Bourgoin, France",
+    "coords": {
+        "lat": "45.59",
+        "lng": "5.276"
+    }
+}, {
+    "city": "Conteville, France",
+    "coords": {
+        "lat": "49.09",
+        "lng": "-0.237"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Caen, France",
+    "coords": {
+        "lat": "49.188",
+        "lng": "-0.354"
+    }
+}, {
+    "city": "Bayonne, France",
+    "coords": {
+        "lat": "43.485",
+        "lng": "-1.476"
+    }
+}, {
+    "city": "Bayonne, France",
+    "coords": {
+        "lat": "43.485",
+        "lng": "-1.476"
+    }
+}, {
+    "city": "Nancy, France",
+    "coords": {
+        "lat": "48.696",
+        "lng": "6.18"
+    }
+}, {
+    "city": "Pau, France",
+    "coords": {
+        "lat": "43.311",
+        "lng": "-0.366"
+    }
+}, {
+    "city": "Maromme, France",
+    "coords": {
+        "lat": "49.483",
+        "lng": "1.048"
+    }
+}, {
+    "city": "Perpignan, France",
+    "coords": {
+        "lat": "42.677",
+        "lng": "2.906"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Pau, France",
+    "coords": {
+        "lat": "43.311",
+        "lng": "-0.366"
+    }
+}, {
+    "city": "Aytre, France",
+    "coords": {
+        "lat": "46.129",
+        "lng": "-1.102"
+    }
+}, {
+    "city": "Perpignan, France",
+    "coords": {
+        "lat": "42.677",
+        "lng": "2.906"
+    }
+}, {
+    "city": "Nancy, France",
+    "coords": {
+        "lat": "48.696",
+        "lng": "6.18"
+    }
+}, {
+    "city": "Cavaillon, France",
+    "coords": {
+        "lat": "43.832",
+        "lng": "5.038"
+    }
+}, {
+    "city": "Pleneuf-Val-Andre, France",
+    "coords": {
+        "lat": "48.585",
+        "lng": "-2.557"
+    }
+}, {
+    "city": "La Rochelle, France",
+    "coords": {
+        "lat": "46.154",
+        "lng": "-1.193"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Mas-des-Cours, France",
+    "coords": {
+        "lat": "43.129",
+        "lng": "2.424"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Castres, France",
+    "coords": {
+        "lat": "43.601",
+        "lng": "2.246"
+    }
+}, {
+    "city": "Corbieres, Languedoc Roussillon , France",
+    "coords": {
+        "lat": "43.041",
+        "lng": "1.991"
+    }
+}, {
+    "city": "Fontainebleau, France",
+    "coords": {
+        "lat": "48.403",
+        "lng": "2.699"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Sedan, France",
+    "coords": {
+        "lat": "49.7",
+        "lng": "4.945"
+    }
+}, {
+    "city": "Orleans, France",
+    "coords": {
+        "lat": "47.898",
+        "lng": "1.906"
+    }
+}, {
+    "city": "Chambéry, France",
+    "coords": {
+        "lat": "45.566",
+        "lng": "5.924"
+    }
+}, {
+    "city": "Nancy, France",
+    "coords": {
+        "lat": "48.696",
+        "lng": "6.18"
+    }
+}, {
+    "city": "Nice, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "43.701",
+        "lng": "7.272"
+    }
+}, {
+    "city": "Dijon, France",
+    "coords": {
+        "lat": "47.344",
+        "lng": "5.065"
+    }
+}, {
+    "city": "Nice, France",
+    "coords": {
+        "lat": "43.701",
+        "lng": "7.272"
+    }
+}, {
+    "city": "Draguignan, France",
+    "coords": {
+        "lat": "43.539",
+        "lng": "6.465"
+    }
+}, {
+    "city": "Dijon, France",
+    "coords": {
+        "lat": "47.344",
+        "lng": "5.065"
+    }
+}, {
+    "city": "Bagnolet, France",
+    "coords": {
+        "lat": "48.866",
+        "lng": "2.418"
+    }
+}, {
+    "city": "Poitiers, France",
+    "coords": {
+        "lat": "46.576",
+        "lng": "0.381"
+    }
+}, {
+    "city": "Gérardmer, France",
+    "coords": {
+        "lat": "48.083",
+        "lng": "6.901"
+    }
+}, {
+    "city": "Nay, France",
+    "coords": {
+        "lat": "43.18",
+        "lng": "-0.263"
+    }
+}, {
+    "city": "Toulon, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "43.128",
+        "lng": "5.916"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Narbonne, France",
+    "coords": {
+        "lat": "43.185",
+        "lng": "2.987"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Domerat, France",
+    "coords": {
+        "lat": "46.352",
+        "lng": "2.516"
+    }
+}, {
+    "city": "Arcachon, France",
+    "coords": {
+        "lat": "44.661",
+        "lng": "-1.166"
+    }
+}, {
+    "city": "Bourg-en-Bresse, France",
+    "coords": {
+        "lat": "46.212",
+        "lng": "5.256"
+    }
+}, {
+    "city": "Chalon-sur-Saône, Bourgogne   , France",
+    "coords": {
+        "lat": "46.785",
+        "lng": "4.851"
+    }
+}, {
+    "city": "Saint-Martin-Boulogne, France",
+    "coords": {
+        "lat": "50.738",
+        "lng": "1.623"
+    }
+}, {
+    "city": "Périgueux, France",
+    "coords": {
+        "lat": "45.183",
+        "lng": "0.721"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Pierrelatte, France",
+    "coords": {
+        "lat": "44.364",
+        "lng": "4.709"
+    }
+}, {
+    "city": "Clermont-Ferrand, Auvergne, France",
+    "coords": {
+        "lat": "45.781",
+        "lng": "3.137"
+    }
+}, {
+    "city": "Beauvais, France",
+    "coords": {
+        "lat": "49.416",
+        "lng": "2.123"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Nice, France",
+    "coords": {
+        "lat": "43.701",
+        "lng": "7.272"
+    }
+}, {
+    "city": "Labastide-Saint-Pierre, France",
+    "coords": {
+        "lat": "43.917",
+        "lng": "1.367"
+    }
+}, {
+    "city": "Sommières, France",
+    "coords": {
+        "lat": "43.786",
+        "lng": "4.078"
+    }
+}, {
+    "city": "Tours, France",
+    "coords": {
+        "lat": "47.426",
+        "lng": "0.705"
+    }
+}, {
+    "city": "Gray, France",
+    "coords": {
+        "lat": "47.441",
+        "lng": "5.591"
+    }
+}, {
+    "city": "Corbeil-Essonnes, France",
+    "coords": {
+        "lat": "48.611",
+        "lng": "2.461"
+    }
+}, {
+    "city": "Vesoul, France",
+    "coords": {
+        "lat": "47.634",
+        "lng": "6.166"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Béziers, France",
+    "coords": {
+        "lat": "43.338",
+        "lng": "3.197"
+    }
+}, {
+    "city": "Montélimar, France",
+    "coords": {
+        "lat": "44.558",
+        "lng": "4.744"
+    }
+}, {
+    "city": "Dinan, France",
+    "coords": {
+        "lat": "48.456",
+        "lng": "-2.064"
+    }
+}, {
+    "city": "Évreux, France",
+    "coords": {
+        "lat": "49.012",
+        "lng": "1.17"
+    }
+}, {
+    "city": "La Ferte-sous-Jouarre, France",
+    "coords": {
+        "lat": "48.95",
+        "lng": "3.129"
+    }
+}, {
+    "city": "Chemin, France",
+    "coords": {
+        "lat": "46.982",
+        "lng": "5.313"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Mulhouse, France",
+    "coords": {
+        "lat": "47.751",
+        "lng": "7.331"
+    }
+}, {
+    "city": "Capbreton, France",
+    "coords": {
+        "lat": "43.649",
+        "lng": "-1.405"
+    }
+}, {
+    "city": "Dunkerque, France",
+    "coords": {
+        "lat": "51.015",
+        "lng": "2.353"
+    }
+}, {
+    "city": "Landerneau, France",
+    "coords": {
+        "lat": "48.454",
+        "lng": "-4.258"
+    }
+}, {
+    "city": "Calais, France",
+    "coords": {
+        "lat": "50.947",
+        "lng": "1.898"
+    }
+}, {
+    "city": "Saint-Étienne, France",
+    "coords": {
+        "lat": "45.44",
+        "lng": "4.392"
+    }
+}, {
+    "city": "Boulogne-sur-Mer, Nord-Pas-de-Calais, France",
+    "coords": {
+        "lat": "50.731",
+        "lng": "1.601"
+    }
+}, {
+    "city": "Grenoble, Rhône Alpes, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "La Roche-sur-Yon, France",
+    "coords": {
+        "lat": "46.654",
+        "lng": "-1.412"
+    }
+}, {
+    "city": "Annonay, France",
+    "coords": {
+        "lat": "45.242",
+        "lng": "4.672"
+    }
+}, {
+    "city": "Gerzat, France",
+    "coords": {
+        "lat": "45.834",
+        "lng": "3.132"
+    }
+}, {
+    "city": "Colagnies-des-Fenets, France",
+    "coords": {
+        "lat": "49.629",
+        "lng": "1.793"
+    }
+}, {
+    "city": "Cambrai, Nord-Pas-de-Calais, France",
+    "coords": {
+        "lat": "50.174",
+        "lng": "3.216"
+    }
+}, {
+    "city": "Cherbourg-Octeville, Basse Normandie, France",
+    "coords": {
+        "lat": "49.64",
+        "lng": "-1.616"
+    }
+}, {
+    "city": "Fréjus, France",
+    "coords": {
+        "lat": "43.433",
+        "lng": "6.732"
+    }
+}, {
+    "city": "Concarneau, France",
+    "coords": {
+        "lat": "47.885",
+        "lng": "-3.926"
+    }
+}, {
+    "city": "Châteaubriant, France",
+    "coords": {
+        "lat": "47.719",
+        "lng": "-1.377"
+    }
+}, {
+    "city": "Nancy, Lorraine , France",
+    "coords": {
+        "lat": "48.696",
+        "lng": "6.18"
+    }
+}, {
+    "city": "Chalon-sur-Saône, France",
+    "coords": {
+        "lat": "46.785",
+        "lng": "4.851"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Bitche, France",
+    "coords": {
+        "lat": "49.047",
+        "lng": "7.447"
+    }
+}, {
+    "city": "Albi, France",
+    "coords": {
+        "lat": "43.935",
+        "lng": "2.168"
+    }
+}, {
+    "city": "Chateaubriant, France",
+    "coords": {
+        "lat": "47.719",
+        "lng": "-1.377"
+    }
+}, {
+    "city": "Lisieux, Basse Normandie, France",
+    "coords": {
+        "lat": "49.143",
+        "lng": "0.217"
+    }
+}, {
+    "city": "Thionville, France",
+    "coords": {
+        "lat": "49.356",
+        "lng": "6.154"
+    }
+}, {
+    "city": "Torcy, France",
+    "coords": {
+        "lat": "48.845",
+        "lng": "2.648"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Saint-Brieuc, France",
+    "coords": {
+        "lat": "48.514",
+        "lng": "-2.744"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Dunkirk, France",
+    "coords": {
+        "lat": "51.015",
+        "lng": "2.353"
+    }
+}, {
+    "city": "Étampes, France",
+    "coords": {
+        "lat": "48.442",
+        "lng": "2.146"
+    }
+}, {
+    "city": "Vichy, France",
+    "coords": {
+        "lat": "46.125",
+        "lng": "3.435"
+    }
+}, {
+    "city": "Oullins, France",
+    "coords": {
+        "lat": "45.717",
+        "lng": "4.797"
+    }
+}, {
+    "city": "Tours, France",
+    "coords": {
+        "lat": "47.426",
+        "lng": "0.705"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Tours, France",
+    "coords": {
+        "lat": "47.426",
+        "lng": "0.705"
+    }
+}, {
+    "city": "Albi, France",
+    "coords": {
+        "lat": "43.935",
+        "lng": "2.168"
+    }
+}, {
+    "city": "Narbonne, France",
+    "coords": {
+        "lat": "43.185",
+        "lng": "2.987"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Dinan, Bretagne, France",
+    "coords": {
+        "lat": "48.456",
+        "lng": "-2.064"
+    }
+}, {
+    "city": "Saint-Florent-le-Vieil, France",
+    "coords": {
+        "lat": "47.361",
+        "lng": "-1.016"
+    }
+}, {
+    "city": "Toulon, France",
+    "coords": {
+        "lat": "43.128",
+        "lng": "5.916"
+    }
+}, {
+    "city": "Gap, France",
+    "coords": {
+        "lat": "44.564",
+        "lng": "6.094"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Fleurance, France",
+    "coords": {
+        "lat": "43.862",
+        "lng": "0.65"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Rennes, France",
+    "coords": {
+        "lat": "48.11",
+        "lng": "-1.676"
+    }
+}, {
+    "city": "Craponne-sur-Arzon, France",
+    "coords": {
+        "lat": "45.33",
+        "lng": "3.844"
+    }
+}, {
+    "city": "Caen, France",
+    "coords": {
+        "lat": "49.188",
+        "lng": "-0.354"
+    }
+}, {
+    "city": "Manosque, France",
+    "coords": {
+        "lat": "43.831",
+        "lng": "5.78"
+    }
+}, {
+    "city": "Agen, Aquitaine , France",
+    "coords": {
+        "lat": "44.203",
+        "lng": "0.624"
+    }
+}, {
+    "city": "Poitiers, France",
+    "coords": {
+        "lat": "46.576",
+        "lng": "0.381"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Epernay, Champagne, France",
+    "coords": {
+        "lat": "48.596",
+        "lng": "1.684"
+    }
+}, {
+    "city": "Villeneuve-d'Ascq, France",
+    "coords": {
+        "lat": "50.639",
+        "lng": "3.141"
+    }
+}, {
+    "city": "Remiremont, France",
+    "coords": {
+        "lat": "48.014",
+        "lng": "6.597"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Mareuil-sur-Lay-Dissais, France",
+    "coords": {
+        "lat": "46.538",
+        "lng": "-1.23"
+    }
+}, {
+    "city": "Le Havre, France",
+    "coords": {
+        "lat": "49.5",
+        "lng": "0.13"
+    }
+}, {
+    "city": "La Plagne, France",
+    "coords": {
+        "lat": "44.636",
+        "lng": "2.567"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Orange, France",
+    "coords": {
+        "lat": "44.119",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Lorient, France",
+    "coords": {
+        "lat": "47.767",
+        "lng": "-3.39"
+    }
+}, {
+    "city": "Strasbourg, Alsace, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Oloron-Sainte-Marie, Aquitaine, France",
+    "coords": {
+        "lat": "43.194",
+        "lng": "-0.605"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Gervais, France",
+    "coords": {
+        "lat": "4.69",
+        "lng": "-53.91"
+    }
+}, {
+    "city": "Oloron-Sainte-Marie, France",
+    "coords": {
+        "lat": "43.194",
+        "lng": "-0.605"
+    }
+}, {
+    "city": "Saint Denis, France",
+    "coords": {
+        "lat": "48.943",
+        "lng": "2.383"
+    }
+}, {
+    "city": "Macon, France",
+    "coords": {
+        "lat": "46.306",
+        "lng": "4.827"
+    }
+}, {
+    "city": "Boulogne-sur-Mer, France",
+    "coords": {
+        "lat": "50.731",
+        "lng": "1.601"
+    }
+}, {
+    "city": "Hyères, France",
+    "coords": {
+        "lat": "43.12",
+        "lng": "6.131"
+    }
+}, {
+    "city": "Valenciennes, France",
+    "coords": {
+        "lat": "50.362",
+        "lng": "3.5"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Brest, Bretagne, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Carcassonne, France",
+    "coords": {
+        "lat": "43.209",
+        "lng": "2.374"
+    }
+}, {
+    "city": "Lorient, Bretagne, France",
+    "coords": {
+        "lat": "47.767",
+        "lng": "-3.39"
+    }
+}, {
+    "city": "Tulle, France",
+    "coords": {
+        "lat": "45.285",
+        "lng": "1.765"
+    }
+}, {
+    "city": "Montbéliard, France",
+    "coords": {
+        "lat": "47.52",
+        "lng": "6.78"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Arvert, France",
+    "coords": {
+        "lat": "45.743",
+        "lng": "-1.124"
+    }
+}, {
+    "city": "Angers, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Pontcharra, France",
+    "coords": {
+        "lat": "45.424",
+        "lng": "6.005"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Plouguerneau, France",
+    "coords": {
+        "lat": "48.607",
+        "lng": "-4.506"
+    }
+}, {
+    "city": "Villeurbanne, France",
+    "coords": {
+        "lat": "45.785",
+        "lng": "4.9"
+    }
+}, {
+    "city": "Fos-sur-Mer, France",
+    "coords": {
+        "lat": "43.434",
+        "lng": "4.946"
+    }
+}, {
+    "city": "La Couyere, France",
+    "coords": {
+        "lat": "47.889",
+        "lng": "-1.505"
+    }
+}, {
+    "city": "Bourges, Centre , France",
+    "coords": {
+        "lat": "47.054",
+        "lng": "2.412"
+    }
+}, {
+    "city": "Brive-la-Gaillarde, Limousin, France",
+    "coords": {
+        "lat": "45.165",
+        "lng": "1.503"
+    }
+}, {
+    "city": "Trappes, France",
+    "coords": {
+        "lat": "48.776",
+        "lng": "1.987"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Châteaulin, Bretagne, France",
+    "coords": {
+        "lat": "48.195",
+        "lng": "-4.098"
+    }
+}, {
+    "city": "Longwy, France",
+    "coords": {
+        "lat": "49.524",
+        "lng": "5.765"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Castres, France",
+    "coords": {
+        "lat": "43.601",
+        "lng": "2.246"
+    }
+}, {
+    "city": "Vieille-Eglise, France",
+    "coords": {
+        "lat": "50.928",
+        "lng": "2.076"
+    }
+}, {
+    "city": "Tours, France",
+    "coords": {
+        "lat": "47.426",
+        "lng": "0.705"
+    }
+}, {
+    "city": "Brest, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Sille-le-Guillaume, France",
+    "coords": {
+        "lat": "48.185",
+        "lng": "-0.128"
+    }
+}, {
+    "city": "Hérouville-Saint-Clair, France",
+    "coords": {
+        "lat": "49.209",
+        "lng": "-0.352"
+    }
+}, {
+    "city": "Bourg-en-Bresse, France",
+    "coords": {
+        "lat": "46.212",
+        "lng": "5.256"
+    }
+}, {
+    "city": "Avignon, France",
+    "coords": {
+        "lat": "43.953",
+        "lng": "4.806"
+    }
+}, {
+    "city": "Lozere, France",
+    "coords": {
+        "lat": "48.706",
+        "lng": "2.217"
+    }
+}, {
+    "city": "Apt, France",
+    "coords": {
+        "lat": "43.886",
+        "lng": "5.372"
+    }
+}, {
+    "city": "Carcassonne, France",
+    "coords": {
+        "lat": "43.209",
+        "lng": "2.374"
+    }
+}, {
+    "city": "Saint-Affrique, France",
+    "coords": {
+        "lat": "43.959",
+        "lng": "2.888"
+    }
+}, {
+    "city": "Perpignan, Languedoc-Roussillon, France",
+    "coords": {
+        "lat": "42.677",
+        "lng": "2.906"
+    }
+}, {
+    "city": "Montélimar, France",
+    "coords": {
+        "lat": "44.558",
+        "lng": "4.744"
+    }
+}, {
+    "city": "Poitiers, France",
+    "coords": {
+        "lat": "46.576",
+        "lng": "0.381"
+    }
+}, {
+    "city": "Lorient, France",
+    "coords": {
+        "lat": "47.767",
+        "lng": "-3.39"
+    }
+}, {
+    "city": "Fresnay-sur-Sarthe, France",
+    "coords": {
+        "lat": "48.281",
+        "lng": "0.02"
+    }
+}, {
+    "city": "Le Mans, Pays de la Loire, France",
+    "coords": {
+        "lat": "48.004",
+        "lng": "0.202"
+    }
+}, {
+    "city": "Béziers, France",
+    "coords": {
+        "lat": "43.338",
+        "lng": "3.197"
+    }
+}, {
+    "city": "Saint-Julien-en-Genevois, France",
+    "coords": {
+        "lat": "46.141",
+        "lng": "6.085"
+    }
+}, {
+    "city": "Saint-Jean-Pied-de-Port, France",
+    "coords": {
+        "lat": "43.16",
+        "lng": "-1.237"
+    }
+}, {
+    "city": "Reims, France",
+    "coords": {
+        "lat": "49.292",
+        "lng": "4.024"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Saint-Quentin, France",
+    "coords": {
+        "lat": "49.858",
+        "lng": "3.304"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Sens, France",
+    "coords": {
+        "lat": "48.195",
+        "lng": "3.321"
+    }
+}, {
+    "city": "Bourg-les-Valence, France",
+    "coords": {
+        "lat": "44.96",
+        "lng": "4.9"
+    }
+}, {
+    "city": "Albertville, France",
+    "coords": {
+        "lat": "45.677",
+        "lng": "6.385"
+    }
+}, {
+    "city": "Puy-Guillaume, France",
+    "coords": {
+        "lat": "45.95",
+        "lng": "3.477"
+    }
+}, {
+    "city": "Macon, France",
+    "coords": {
+        "lat": "46.306",
+        "lng": "4.827"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Quimper, France",
+    "coords": {
+        "lat": "47.996",
+        "lng": "-4.079"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Orleans, France",
+    "coords": {
+        "lat": "47.898",
+        "lng": "1.906"
+    }
+}, {
+    "city": "Privas, France",
+    "coords": {
+        "lat": "44.722",
+        "lng": "4.61"
+    }
+}, {
+    "city": "Montauban, France",
+    "coords": {
+        "lat": "44.017",
+        "lng": "1.352"
+    }
+}, {
+    "city": "Chambéry, France",
+    "coords": {
+        "lat": "45.566",
+        "lng": "5.924"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Lille, Nord-Pas-de-Calais, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Beauvais, France",
+    "coords": {
+        "lat": "49.416",
+        "lng": "2.123"
+    }
+}, {
+    "city": "Chartres, Centre, France",
+    "coords": {
+        "lat": "48.445",
+        "lng": "1.516"
+    }
+}, {
+    "city": "Caen, France",
+    "coords": {
+        "lat": "49.188",
+        "lng": "-0.354"
+    }
+}, {
+    "city": "Hyères, France",
+    "coords": {
+        "lat": "43.12",
+        "lng": "6.131"
+    }
+}, {
+    "city": "L'Ile-d'Yeu, France",
+    "coords": {
+        "lat": "46.724",
+        "lng": "-2.348"
+    }
+}, {
+    "city": "Draguignan, France",
+    "coords": {
+        "lat": "43.539",
+        "lng": "6.465"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Angers, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Nice, France",
+    "coords": {
+        "lat": "43.701",
+        "lng": "7.272"
+    }
+}, {
+    "city": "Annecy, France",
+    "coords": {
+        "lat": "45.927",
+        "lng": "6.125"
+    }
+}, {
+    "city": "Saint-Herblain, France",
+    "coords": {
+        "lat": "47.229",
+        "lng": "-1.639"
+    }
+}, {
+    "city": "Béziers, France",
+    "coords": {
+        "lat": "43.338",
+        "lng": "3.197"
+    }
+}, {
+    "city": "Six-Fours-les-Plages, France",
+    "coords": {
+        "lat": "43.115",
+        "lng": "5.842"
+    }
+}, {
+    "city": "Montpon-Menesterol, Aquitaine , France",
+    "coords": {
+        "lat": "45.009",
+        "lng": "0.168"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Fouras, France",
+    "coords": {
+        "lat": "45.988",
+        "lng": "-1.093"
+    }
+}, {
+    "city": "Besançon, France",
+    "coords": {
+        "lat": "47.254",
+        "lng": "6.016"
+    }
+}, {
+    "city": "Saint-Brieuc, France",
+    "coords": {
+        "lat": "48.514",
+        "lng": "-2.744"
+    }
+}, {
+    "city": "Lannemezan, France",
+    "coords": {
+        "lat": "43.126",
+        "lng": "0.383"
+    }
+}, {
+    "city": "Angers, Pays de la Loire, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Besançon, France",
+    "coords": {
+        "lat": "47.254",
+        "lng": "6.016"
+    }
+}, {
+    "city": "Lyon, France",
+    "coords": {
+        "lat": "45.759",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Gueret, France",
+    "coords": {
+        "lat": "46.171",
+        "lng": "1.866"
+    }
+}, {
+    "city": "Lyon, France",
+    "coords": {
+        "lat": "45.759",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Épinal, France",
+    "coords": {
+        "lat": "48.182",
+        "lng": "6.458"
+    }
+}, {
+    "city": "Puget-Theniers, France",
+    "coords": {
+        "lat": "43.956",
+        "lng": "6.893"
+    }
+}, {
+    "city": "Artenay, France",
+    "coords": {
+        "lat": "48.082",
+        "lng": "1.878"
+    }
+}, {
+    "city": "Neuville-de-Poitou, France",
+    "coords": {
+        "lat": "46.685",
+        "lng": "0.237"
+    }
+}, {
+    "city": "Agen, France",
+    "coords": {
+        "lat": "44.203",
+        "lng": "0.624"
+    }
+}, {
+    "city": "Quimperlé, France",
+    "coords": {
+        "lat": "47.873",
+        "lng": "-3.551"
+    }
+}, {
+    "city": "Clermont-Ferrand, France",
+    "coords": {
+        "lat": "45.781",
+        "lng": "3.137"
+    }
+}, {
+    "city": "Montluçon, Allier, France",
+    "coords": {
+        "lat": "46.344",
+        "lng": "2.574"
+    }
+}, {
+    "city": "Joyeuse, France",
+    "coords": {
+        "lat": "44.481",
+        "lng": "4.23"
+    }
+}, {
+    "city": "Ballan-Mire, France",
+    "coords": {
+        "lat": "47.327",
+        "lng": "0.604"
+    }
+}, {
+    "city": "Givet, France",
+    "coords": {
+        "lat": "50.137",
+        "lng": "4.819"
+    }
+}, {
+    "city": "Dijon, France",
+    "coords": {
+        "lat": "47.344",
+        "lng": "5.065"
+    }
+}, {
+    "city": "Remiremont, France",
+    "coords": {
+        "lat": "48.014",
+        "lng": "6.597"
+    }
+}, {
+    "city": "Poitiers, France",
+    "coords": {
+        "lat": "46.576",
+        "lng": "0.381"
+    }
+}, {
+    "city": "Bourbon-l'Archambault, France",
+    "coords": {
+        "lat": "46.58",
+        "lng": "3.051"
+    }
+}, {
+    "city": "Le Mans, France",
+    "coords": {
+        "lat": "48.004",
+        "lng": "0.202"
+    }
+}, {
+    "city": "Bayonne, Aquitaine , France",
+    "coords": {
+        "lat": "43.485",
+        "lng": "-1.476"
+    }
+}, {
+    "city": "Pont-a-Mousson, France",
+    "coords": {
+        "lat": "48.901",
+        "lng": "6.054"
+    }
+}, {
+    "city": "Sable-sur-Sarthe, France",
+    "coords": {
+        "lat": "47.836",
+        "lng": "-0.321"
+    }
+}, {
+    "city": "Chauvigny, France",
+    "coords": {
+        "lat": "46.571",
+        "lng": "0.648"
+    }
+}, {
+    "city": "Alençon, France",
+    "coords": {
+        "lat": "48.43",
+        "lng": "0.083"
+    }
+}, {
+    "city": "Narbonne, France",
+    "coords": {
+        "lat": "43.185",
+        "lng": "2.987"
+    }
+}, {
+    "city": "Saint-Coulomb, France",
+    "coords": {
+        "lat": "48.675",
+        "lng": "-1.919"
+    }
+}, {
+    "city": "Clamecy, France",
+    "coords": {
+        "lat": "47.46",
+        "lng": "3.512"
+    }
+}, {
+    "city": "Remiremont, Lorraine , France",
+    "coords": {
+        "lat": "48.014",
+        "lng": "6.597"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Bourgoin-Jallieu, France",
+    "coords": {
+        "lat": "45.59",
+        "lng": "5.276"
+    }
+}, {
+    "city": "Brive-la-Gaillarde, France",
+    "coords": {
+        "lat": "45.165",
+        "lng": "1.503"
+    }
+}, {
+    "city": "Bourges, France",
+    "coords": {
+        "lat": "47.054",
+        "lng": "2.412"
+    }
+}, {
+    "city": "Mantes-la-Jolie, France",
+    "coords": {
+        "lat": "48.995",
+        "lng": "1.709"
+    }
+}, {
+    "city": "Gueret, Limousin, France",
+    "coords": {
+        "lat": "46.171",
+        "lng": "1.866"
+    }
+}, {
+    "city": "Brest, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Toulouse, Midi-Pyrénées, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Compiegne, France",
+    "coords": {
+        "lat": "49.397",
+        "lng": "2.791"
+    }
+}, {
+    "city": "Rosnoen, France",
+    "coords": {
+        "lat": "48.264",
+        "lng": "-4.195"
+    }
+}, {
+    "city": "Auxerre, France",
+    "coords": {
+        "lat": "47.793",
+        "lng": "3.582"
+    }
+}, {
+    "city": "Besançon, Franche-Comté, France",
+    "coords": {
+        "lat": "47.254",
+        "lng": "6.016"
+    }
+}, {
+    "city": "Barentin, Haute-Normandie, France",
+    "coords": {
+        "lat": "49.532",
+        "lng": "0.969"
+    }
+}, {
+    "city": "Avignon, France",
+    "coords": {
+        "lat": "43.953",
+        "lng": "4.806"
+    }
+}, {
+    "city": "Villeneuve-sur-Lot, France",
+    "coords": {
+        "lat": "44.391",
+        "lng": "0.729"
+    }
+}, {
+    "city": "Borville, France",
+    "coords": {
+        "lat": "48.449",
+        "lng": "6.395"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Pons, France",
+    "coords": {
+        "lat": "45.574",
+        "lng": "-0.556"
+    }
+}, {
+    "city": "Troyes, France",
+    "coords": {
+        "lat": "48.304",
+        "lng": "4.059"
+    }
+}, {
+    "city": "Annecy, France",
+    "coords": {
+        "lat": "45.927",
+        "lng": "6.125"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Angers, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Douvrin, France",
+    "coords": {
+        "lat": "50.508",
+        "lng": "2.836"
+    }
+}, {
+    "city": "Saint-Étienne, France",
+    "coords": {
+        "lat": "45.44",
+        "lng": "4.392"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Charleville-Mezieres, France",
+    "coords": {
+        "lat": "49.76",
+        "lng": "4.718"
+    }
+}, {
+    "city": "Rennes, France",
+    "coords": {
+        "lat": "48.11",
+        "lng": "-1.676"
+    }
+}, {
+    "city": "Ebreuil, France",
+    "coords": {
+        "lat": "46.117",
+        "lng": "3.088"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Chatel-Saint-Germain, France",
+    "coords": {
+        "lat": "49.117",
+        "lng": "6.086"
+    }
+}, {
+    "city": "Luz-Saint-Sauveur, France",
+    "coords": {
+        "lat": "42.871",
+        "lng": "-0.004"
+    }
+}, {
+    "city": "Agde, France",
+    "coords": {
+        "lat": "43.307",
+        "lng": "3.492"
+    }
+}, {
+    "city": "Brest, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Angers, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Gueret, France",
+    "coords": {
+        "lat": "46.171",
+        "lng": "1.866"
+    }
+}, {
+    "city": "Gap, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "44.564",
+        "lng": "6.094"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Gap, France",
+    "coords": {
+        "lat": "44.564",
+        "lng": "6.094"
+    }
+}, {
+    "city": "Charleville-Mezieres, France",
+    "coords": {
+        "lat": "49.76",
+        "lng": "4.718"
+    }
+}, {
+    "city": "Bandol, France",
+    "coords": {
+        "lat": "43.144",
+        "lng": "5.743"
+    }
+}, {
+    "city": "Clermont-Ferrand, France",
+    "coords": {
+        "lat": "45.781",
+        "lng": "3.137"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Hyères, France",
+    "coords": {
+        "lat": "43.12",
+        "lng": "6.131"
+    }
+}, {
+    "city": "Pontcharra, France",
+    "coords": {
+        "lat": "45.424",
+        "lng": "6.005"
+    }
+}, {
+    "city": "Brest, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Troyes, France",
+    "coords": {
+        "lat": "48.304",
+        "lng": "4.059"
+    }
+}, {
+    "city": "Airvault, France",
+    "coords": {
+        "lat": "46.819",
+        "lng": "-0.141"
+    }
+}, {
+    "city": "Mulhouse, France",
+    "coords": {
+        "lat": "47.751",
+        "lng": "7.331"
+    }
+}, {
+    "city": "Brest, France",
+    "coords": {
+        "lat": "48.413",
+        "lng": "-4.498"
+    }
+}, {
+    "city": "Surgeres, France",
+    "coords": {
+        "lat": "46.11",
+        "lng": "-0.743"
+    }
+}, {
+    "city": "Chalon-sur-Saône, France",
+    "coords": {
+        "lat": "46.785",
+        "lng": "4.851"
+    }
+}, {
+    "city": "Sète, France",
+    "coords": {
+        "lat": "43.399",
+        "lng": "3.662"
+    }
+}, {
+    "city": "Mauleon-Licharre, France",
+    "coords": {
+        "lat": "43.221",
+        "lng": "-0.888"
+    }
+}, {
+    "city": "Troyes, France",
+    "coords": {
+        "lat": "48.304",
+        "lng": "4.059"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Pontcharra, France",
+    "coords": {
+        "lat": "45.424",
+        "lng": "6.005"
+    }
+}, {
+    "city": "Reims, France",
+    "coords": {
+        "lat": "49.292",
+        "lng": "4.024"
+    }
+}, {
+    "city": "Thiaville-sur-Meurthe, France",
+    "coords": {
+        "lat": "48.41",
+        "lng": "6.809"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Le Havre, France",
+    "coords": {
+        "lat": "49.5",
+        "lng": "0.13"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Perpignan, France",
+    "coords": {
+        "lat": "42.677",
+        "lng": "2.906"
+    }
+}, {
+    "city": "Arras, France",
+    "coords": {
+        "lat": "50.291",
+        "lng": "2.786"
+    }
+}, {
+    "city": "Châtellerault, Poitou-Charentes, France",
+    "coords": {
+        "lat": "46.818",
+        "lng": "0.534"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Albertville, France",
+    "coords": {
+        "lat": "45.677",
+        "lng": "6.385"
+    }
+}, {
+    "city": "Béziers, Languedoc-Roussillon, France",
+    "coords": {
+        "lat": "43.338",
+        "lng": "3.197"
+    }
+}, {
+    "city": "Toulon, France",
+    "coords": {
+        "lat": "43.128",
+        "lng": "5.916"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Mantes-la-Jolie, France",
+    "coords": {
+        "lat": "48.995",
+        "lng": "1.709"
+    }
+}, {
+    "city": "Saint-Étienne, France",
+    "coords": {
+        "lat": "45.44",
+        "lng": "4.392"
+    }
+}, {
+    "city": "Nozay, France",
+    "coords": {
+        "lat": "48.662",
+        "lng": "2.236"
+    }
+}, {
+    "city": "Agen, France",
+    "coords": {
+        "lat": "44.203",
+        "lng": "0.624"
+    }
+}, {
+    "city": "Avignon, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "43.953",
+        "lng": "4.806"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Les Arcs, France",
+    "coords": {
+        "lat": "43.463",
+        "lng": "6.477"
+    }
+}, {
+    "city": "Taverny, France",
+    "coords": {
+        "lat": "49.027",
+        "lng": "2.215"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Dunkirk, France",
+    "coords": {
+        "lat": "51.015",
+        "lng": "2.353"
+    }
+}, {
+    "city": "Charleville-Mézières, France",
+    "coords": {
+        "lat": "49.76",
+        "lng": "4.718"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Saint-Fargeau, France",
+    "coords": {
+        "lat": "47.641",
+        "lng": "3.071"
+    }
+}, {
+    "city": "Aulnoye-Aymeries, France",
+    "coords": {
+        "lat": "50.207",
+        "lng": "3.833"
+    }
+}, {
+    "city": "Angoulême, France",
+    "coords": {
+        "lat": "45.653",
+        "lng": "0.16"
+    }
+}, {
+    "city": "Vannes, France",
+    "coords": {
+        "lat": "47.64",
+        "lng": "-2.776"
+    }
+}, {
+    "city": "Toulon, France",
+    "coords": {
+        "lat": "43.128",
+        "lng": "5.916"
+    }
+}, {
+    "city": "Quimperlé, France",
+    "coords": {
+        "lat": "47.873",
+        "lng": "-3.551"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Tarbes, France",
+    "coords": {
+        "lat": "43.233",
+        "lng": "0.059"
+    }
+}, {
+    "city": "Montereau, France",
+    "coords": {
+        "lat": "48.386",
+        "lng": "2.956"
+    }
+}, {
+    "city": "Pau, France",
+    "coords": {
+        "lat": "43.311",
+        "lng": "-0.366"
+    }
+}, {
+    "city": "Louviers, France",
+    "coords": {
+        "lat": "49.231",
+        "lng": "1.166"
+    }
+}, {
+    "city": "Orleans, France",
+    "coords": {
+        "lat": "47.898",
+        "lng": "1.906"
+    }
+}, {
+    "city": "Gap, France",
+    "coords": {
+        "lat": "44.564",
+        "lng": "6.094"
+    }
+}, {
+    "city": "Loches, France",
+    "coords": {
+        "lat": "47.139",
+        "lng": "0.996"
+    }
+}, {
+    "city": "Châteaudun, France",
+    "coords": {
+        "lat": "48.072",
+        "lng": "1.357"
+    }
+}, {
+    "city": "Abbeville, Picardie, France",
+    "coords": {
+        "lat": "50.109",
+        "lng": "1.867"
+    }
+}, {
+    "city": "Morteau, France",
+    "coords": {
+        "lat": "47.056",
+        "lng": "6.596"
+    }
+}, {
+    "city": "Amiens, France",
+    "coords": {
+        "lat": "49.912",
+        "lng": "2.305"
+    }
+}, {
+    "city": "Beaumont-Hague, France",
+    "coords": {
+        "lat": "49.665",
+        "lng": "-1.839"
+    }
+}, {
+    "city": "Crest, France",
+    "coords": {
+        "lat": "44.729",
+        "lng": "5.024"
+    }
+}, {
+    "city": "Mazamet, Midi-Pyrénées, France",
+    "coords": {
+        "lat": "43.491",
+        "lng": "2.377"
+    }
+}, {
+    "city": "Clermont-Ferrand, France",
+    "coords": {
+        "lat": "45.781",
+        "lng": "3.137"
+    }
+}, {
+    "city": "Lorient, France",
+    "coords": {
+        "lat": "47.767",
+        "lng": "-3.39"
+    }
+}, {
+    "city": "Saint-Philbert-de-Grand-Lieu, France",
+    "coords": {
+        "lat": "47.035",
+        "lng": "-1.639"
+    }
+}, {
+    "city": "Nevers, France",
+    "coords": {
+        "lat": "46.989",
+        "lng": "3.155"
+    }
+}, {
+    "city": "Lyon, France",
+    "coords": {
+        "lat": "45.759",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Marseille, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Nevers, France",
+    "coords": {
+        "lat": "46.989",
+        "lng": "3.155"
+    }
+}, {
+    "city": "Lure, France",
+    "coords": {
+        "lat": "47.686",
+        "lng": "6.496"
+    }
+}, {
+    "city": "Nantes, Pays de la Loire, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Dunkerque, Nord-Pas-de-Calais, France",
+    "coords": {
+        "lat": "51.015",
+        "lng": "2.353"
+    }
+}, {
+    "city": "Dreux, France",
+    "coords": {
+        "lat": "48.737",
+        "lng": "1.387"
+    }
+}, {
+    "city": "Argenton-sur-Creuse, Centre, France",
+    "coords": {
+        "lat": "46.577",
+        "lng": "1.514"
+    }
+}, {
+    "city": "Saint-Leu-la-Foret, France",
+    "coords": {
+        "lat": "49.007",
+        "lng": "2.25"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Angers, France",
+    "coords": {
+        "lat": "47.474",
+        "lng": "-0.568"
+    }
+}, {
+    "city": "Alès, France",
+    "coords": {
+        "lat": "44.121",
+        "lng": "4.091"
+    }
+}, {
+    "city": "Millau, France",
+    "coords": {
+        "lat": "44.094",
+        "lng": "3.082"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Le Vigen, France",
+    "coords": {
+        "lat": "45.752",
+        "lng": "1.29"
+    }
+}, {
+    "city": "Cassel, France",
+    "coords": {
+        "lat": "50.799",
+        "lng": "2.497"
+    }
+}, {
+    "city": "Nîmes, France",
+    "coords": {
+        "lat": "43.84",
+        "lng": "4.358"
+    }
+}, {
+    "city": "Saint-Étienne, France",
+    "coords": {
+        "lat": "45.44",
+        "lng": "4.392"
+    }
+}, {
+    "city": "Aix-en-Provence, France",
+    "coords": {
+        "lat": "43.516",
+        "lng": "5.467"
+    }
+}, {
+    "city": "Graulhet, France",
+    "coords": {
+        "lat": "43.76",
+        "lng": "1.99"
+    }
+}, {
+    "city": "Rennes, France",
+    "coords": {
+        "lat": "48.11",
+        "lng": "-1.676"
+    }
+}, {
+    "city": "Lyon, France",
+    "coords": {
+        "lat": "45.759",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Egletons, France",
+    "coords": {
+        "lat": "45.408",
+        "lng": "2.048"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Montreuil, France",
+    "coords": {
+        "lat": "48.863",
+        "lng": "2.468"
+    }
+}, {
+    "city": "Grasse, France",
+    "coords": {
+        "lat": "43.658",
+        "lng": "6.933"
+    }
+}, {
+    "city": "Périgueux, France",
+    "coords": {
+        "lat": "45.183",
+        "lng": "0.721"
+    }
+}, {
+    "city": "Nérac, France",
+    "coords": {
+        "lat": "44.137",
+        "lng": "0.341"
+    }
+}, {
+    "city": "Alencon, France",
+    "coords": {
+        "lat": "48.43",
+        "lng": "0.083"
+    }
+}, {
+    "city": "Chaumont, France",
+    "coords": {
+        "lat": "48.113",
+        "lng": "5.149"
+    }
+}, {
+    "city": "Nevers, France",
+    "coords": {
+        "lat": "46.989",
+        "lng": "3.155"
+    }
+}, {
+    "city": "Lezignan, France",
+    "coords": {
+        "lat": "43.186",
+        "lng": "2.761"
+    }
+}, {
+    "city": "Épinal, France",
+    "coords": {
+        "lat": "48.182",
+        "lng": "6.458"
+    }
+}, {
+    "city": "Langon, France",
+    "coords": {
+        "lat": "44.543",
+        "lng": "-0.24"
+    }
+}, {
+    "city": "Chateau-Gontier, France",
+    "coords": {
+        "lat": "47.824",
+        "lng": "-0.705"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Mirande, France",
+    "coords": {
+        "lat": "43.514",
+        "lng": "0.399"
+    }
+}, {
+    "city": "Charleville-Mézières, France",
+    "coords": {
+        "lat": "49.76",
+        "lng": "4.718"
+    }
+}, {
+    "city": "Creil, France",
+    "coords": {
+        "lat": "49.253",
+        "lng": "2.465"
+    }
+}, {
+    "city": "Valence, France",
+    "coords": {
+        "lat": "44.113",
+        "lng": "0.887"
+    }
+}, {
+    "city": "Fismes, France",
+    "coords": {
+        "lat": "49.31",
+        "lng": "3.67"
+    }
+}, {
+    "city": "Biarritz, France",
+    "coords": {
+        "lat": "43.482",
+        "lng": "-1.554"
+    }
+}, {
+    "city": "Manosque, France",
+    "coords": {
+        "lat": "43.831",
+        "lng": "5.78"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Yssingeaux, France",
+    "coords": {
+        "lat": "45.144",
+        "lng": "4.123"
+    }
+}, {
+    "city": "Melle, France",
+    "coords": {
+        "lat": "46.222",
+        "lng": "-0.138"
+    }
+}, {
+    "city": "Perpignan, France",
+    "coords": {
+        "lat": "42.677",
+        "lng": "2.906"
+    }
+}, {
+    "city": "Beaumont-sur-Oise, France",
+    "coords": {
+        "lat": "49.138",
+        "lng": "2.272"
+    }
+}, {
+    "city": "Strasbourg, France",
+    "coords": {
+        "lat": "48.591",
+        "lng": "7.7"
+    }
+}, {
+    "city": "Manosque, France",
+    "coords": {
+        "lat": "43.831",
+        "lng": "5.78"
+    }
+}, {
+    "city": "Lille, France",
+    "coords": {
+        "lat": "50.619",
+        "lng": "3.061"
+    }
+}, {
+    "city": "Metz, Lorraine , France",
+    "coords": {
+        "lat": "49.11",
+        "lng": "6.166"
+    }
+}, {
+    "city": "Alès, France",
+    "coords": {
+        "lat": "44.121",
+        "lng": "4.091"
+    }
+}, {
+    "city": "Limoges, France",
+    "coords": {
+        "lat": "45.845",
+        "lng": "1.249"
+    }
+}, {
+    "city": "Flamanville, France",
+    "coords": {
+        "lat": "49.541",
+        "lng": "-1.868"
+    }
+}, {
+    "city": "Colmar, France",
+    "coords": {
+        "lat": "48.105",
+        "lng": "7.372"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Albi, France",
+    "coords": {
+        "lat": "43.935",
+        "lng": "2.168"
+    }
+}, {
+    "city": "Douai, France",
+    "coords": {
+        "lat": "50.384",
+        "lng": "3.075"
+    }
+}, {
+    "city": "Bassin, France",
+    "coords": {
+        "lat": "45.399",
+        "lng": "4.63"
+    }
+}, {
+    "city": "Gueret, France",
+    "coords": {
+        "lat": "46.171",
+        "lng": "1.866"
+    }
+}, {
+    "city": "Arles, France",
+    "coords": {
+        "lat": "43.699",
+        "lng": "4.631"
+    }
+}, {
+    "city": "Carlepont, France",
+    "coords": {
+        "lat": "49.516",
+        "lng": "3.017"
+    }
+}, {
+    "city": "Draguignan, Provence-Alpes-Côte d'Azur, France",
+    "coords": {
+        "lat": "43.539",
+        "lng": "6.465"
+    }
+}, {
+    "city": "Bagnères-de-Bigorre, France",
+    "coords": {
+        "lat": "43.064",
+        "lng": "0.146"
+    }
+}, {
+    "city": "Nogent-le-Rotrou, France",
+    "coords": {
+        "lat": "48.326",
+        "lng": "0.803"
+    }
+}, {
+    "city": "Pau, Aquitaine, France",
+    "coords": {
+        "lat": "43.311",
+        "lng": "-0.366"
+    }
+}, {
+    "city": "Carcassonne, France",
+    "coords": {
+        "lat": "43.209",
+        "lng": "2.374"
+    }
+}, {
+    "city": "Cannes, France",
+    "coords": {
+        "lat": "43.552",
+        "lng": "7.012"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Nantes, France",
+    "coords": {
+        "lat": "47.211",
+        "lng": "-1.547"
+    }
+}, {
+    "city": "Nice, France",
+    "coords": {
+        "lat": "43.701",
+        "lng": "7.272"
+    }
+}, {
+    "city": "Laval, France",
+    "coords": {
+        "lat": "48.071",
+        "lng": "-0.776"
+    }
+}, {
+    "city": "Val Pompadour, France",
+    "coords": {
+        "lat": "48.766",
+        "lng": "2.45"
+    }
+}, {
+    "city": "Vauvert, France",
+    "coords": {
+        "lat": "43.695",
+        "lng": "4.277"
+    }
+}, {
+    "city": "Saint-Brieuc, Bretagne, France",
+    "coords": {
+        "lat": "48.514",
+        "lng": "-2.744"
+    }
+}, {
+    "city": "Lyon, France",
+    "coords": {
+        "lat": "45.759",
+        "lng": "4.829"
+    }
+}, {
+    "city": "Tonnerre, Bourgogne, France",
+    "coords": {
+        "lat": "47.853",
+        "lng": "3.972"
+    }
+}, {
+    "city": "Amberieu-en-Bugey, France",
+    "coords": {
+        "lat": "45.964",
+        "lng": "5.343"
+    }
+}, {
+    "city": "Montbéliard, France",
+    "coords": {
+        "lat": "47.52",
+        "lng": "6.78"
+    }
+}, {
+    "city": "L'Argentiere, France",
+    "coords": {
+        "lat": "44.541",
+        "lng": "4.29"
+    }
+}, {
+    "city": "Albi, Midi-Pyrénées, France",
+    "coords": {
+        "lat": "43.935",
+        "lng": "2.168"
+    }
+}, {
+    "city": "Toulon, France",
+    "coords": {
+        "lat": "43.128",
+        "lng": "5.916"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Alès, France",
+    "coords": {
+        "lat": "44.121",
+        "lng": "4.091"
+    }
+}, {
+    "city": "Saint-Brieuc, France",
+    "coords": {
+        "lat": "48.514",
+        "lng": "-2.744"
+    }
+}, {
+    "city": "Chalon, France",
+    "coords": {
+        "lat": "46.785",
+        "lng": "4.851"
+    }
+}, {
+    "city": "Saint-Hippolyte-du-Fort, France",
+    "coords": {
+        "lat": "43.966",
+        "lng": "3.86"
+    }
+}, {
+    "city": "Chateau, France",
+    "coords": {
+        "lat": "46.427",
+        "lng": "4.601"
+    }
+}, {
+    "city": "Bellignat, France",
+    "coords": {
+        "lat": "46.238",
+        "lng": "5.632"
+    }
+}, {
+    "city": "Bellegarde, France",
+    "coords": {
+        "lat": "46.107",
+        "lng": "5.824"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Marseille, France",
+    "coords": {
+        "lat": "43.293",
+        "lng": "5.371"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Piquecos, France",
+    "coords": {
+        "lat": "44.099",
+        "lng": "1.321"
+    }
+}, {
+    "city": "Bordeaux, France",
+    "coords": {
+        "lat": "44.855",
+        "lng": "-0.574"
+    }
+}, {
+    "city": "Valence, France",
+    "coords": {
+        "lat": "44.113",
+        "lng": "0.887"
+    }
+}, {
+    "city": "Quimper, France",
+    "coords": {
+        "lat": "47.996",
+        "lng": "-4.079"
+    }
+}, {
+    "city": "Aubenas, France",
+    "coords": {
+        "lat": "44.615",
+        "lng": "4.4"
+    }
+}, {
+    "city": "Saint-Meen-le-Grand, France",
+    "coords": {
+        "lat": "48.186",
+        "lng": "-2.178"
+    }
+}, {
+    "city": "Guyancourt, France",
+    "coords": {
+        "lat": "48.762",
+        "lng": "2.068"
+    }
+}, {
+    "city": "Longwy, France",
+    "coords": {
+        "lat": "49.524",
+        "lng": "5.765"
+    }
+}, {
+    "city": "Grenoble, France",
+    "coords": {
+        "lat": "45.186",
+        "lng": "5.717"
+    }
+}, {
+    "city": "Vitré, France",
+    "coords": {
+        "lat": "48.109",
+        "lng": "-1.21"
+    }
+}, {
+    "city": "Alès, France",
+    "coords": {
+        "lat": "44.121",
+        "lng": "4.091"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Montmorillon, France",
+    "coords": {
+        "lat": "46.427",
+        "lng": "0.874"
+    }
+}, {
+    "city": "Toulouse, France",
+    "coords": {
+        "lat": "43.606",
+        "lng": "1.449"
+    }
+}, {
+    "city": "Le Cheylard, France",
+    "coords": {
+        "lat": "44.915",
+        "lng": "4.43"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Sens, France",
+    "coords": {
+        "lat": "48.195",
+        "lng": "3.321"
+    }
+}, {
+    "city": "Pons, France",
+    "coords": {
+        "lat": "45.574",
+        "lng": "-0.556"
+    }
+}, {
+    "city": "Bellegarde, France",
+    "coords": {
+        "lat": "46.107",
+        "lng": "5.824"
+    }
+}, {
+    "city": "Aubenas, France",
+    "coords": {
+        "lat": "44.615",
+        "lng": "4.4"
+    }
+}, {
+    "city": "Rennes, France",
+    "coords": {
+        "lat": "48.11",
+        "lng": "-1.676"
+    }
+}, {
+    "city": "Paris, France",
+    "coords": {
+        "lat": "48.857",
+        "lng": "2.341"
+    }
+}, {
+    "city": "Cernay, France",
+    "coords": {
+        "lat": "47.811",
+        "lng": "7.155"
+    }
+}, {
+    "city": "Menton, France",
+    "coords": {
+        "lat": "43.784",
+        "lng": "7.488"
+    }
+}, {
+    "city": "Montauban, France",
+    "coords": {
+        "lat": "44.017",
+        "lng": "1.352"
+    }
+}, {
+    "city": "Reims, France",
+    "coords": {
+        "lat": "49.292",
+        "lng": "4.024"
+    }
+}, {
+    "city": "Saint-Étienne, France",
+    "coords": {
+        "lat": "45.44",
+        "lng": "4.392"
+    }
+}, {
+    "city": "Montpellier, France",
+    "coords": {
+        "lat": "43.613",
+        "lng": "3.889"
+    }
+}, {
+    "city": "Saint Denis, France",
+    "coords": {
+        "lat": "48.943",
+        "lng": "2.383"
+    }
+}]
