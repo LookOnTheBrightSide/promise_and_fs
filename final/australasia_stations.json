@@ -1,0 +1,2828 @@
+[
+    {
+        "station": "93KHJ",
+        "city": "Pago Pago, AS",
+        "email-href": "sunrise@khjradio.com",
+        "country": "AS"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Auckland, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Matariki FM",
+        "city": "Matavera, Cook Islands",
+        "email-href": "onair@matarikifm.co.ck",
+        "country": "Cook Islands"
+    },
+    {
+        "station": "Access Radio Taranaki",
+        "city": "New Plymouth, New Zealand",
+        "email-href": "voice@accessradiotaranaki.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Whakatane, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Fleet FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@fleetfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Wairarapa",
+        "city": "Masterton, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Fiji GOLD",
+        "city": "Suva, Fiji",
+        "email-href": "rfgold@fbcl.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "2ST",
+        "city": "St George's Basin, NSW, Australia",
+        "email-href": "2st@2st.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "NBC Karai National Radio",
+        "city": "Port Moresby, Papua New Guinea",
+        "email-href": "info@nbc.com.pg",
+        "country": "Papua New Guinea"
+    },
+    {
+        "station": "Classic Hits Hawkes Bay",
+        "city": "Hastings, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "89.3 Gulf FM",
+        "city": "Kadina, SA, Australia",
+        "email-href": "gulffm@internode.on.net",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio 1",
+        "city": "Papeete, French Polynesia",
+        "email-href": "infos@radio1.pf",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "Roy FM",
+        "city": "Wanaka, New Zealand",
+        "email-href": "info@wanakalive.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Rock",
+        "city": "Deniliquin, NSW, Australia",
+        "email-href": "admin@classicrock.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Retro Hit Radio",
+        "city": "Auckland, New Zealand",
+        "email-href": "321contact@retrohitradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Paraparaumu, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Virsa NZ",
+        "city": "Papatoetoe, New Zealand",
+        "email-href": "radiovirsanz@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Whangarei, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Tahu FM",
+        "city": "Invercargill, New Zealand",
+        "email-href": "mail@tahu.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Opal FM",
+        "city": "Lightning Ridge, NSW, Australia",
+        "email-href": "opalfm1@bigpond.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Classic Hits Southland",
+        "city": "Invercargill, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "My Canberra Digital",
+        "city": "Canberra, ACT, Australia",
+        "email-href": "phelps@capitalradio.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Atiawa Toa FM",
+        "city": "Lower Hutt, New Zealand",
+        "email-href": "info@atiawa.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Boosh FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@boosh.fm",
+        "country": "New Zealand"
+    },
+    {
+        "station": "4SB",
+        "city": "Kingaroy, QLD, Australia",
+        "email-href": " traffic@smartradiogroup.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Bayrock FM",
+        "city": "Wanaka, New Zealand",
+        "email-href": "studio@bayrock.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Breeze FM",
+        "city": "Barrington, NSW, Australia",
+        "email-href": "admin@thebreeze.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Seymour FM 103.9",
+        "city": "Seymour, VIC, Australia",
+        "email-href": "admin@seymourfm1039.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Wairarapa",
+        "city": "Masterton, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Rotorua, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio K FM",
+        "city": "Kingaroy, QLD, Australia",
+        "email-href": "radiokfm@eftel.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Auckland, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Te Aroha, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FM 96.3",
+        "city": "Tumut, NSW, Australia",
+        "email-href": "fm96.3@bigpond.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Life FM",
+        "city": "Napier, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hit Radio 100",
+        "city": "Hagåtña, GU",
+        "email-href": "marketing@hitradio100.com",
+        "country": "GU"
+    },
+    {
+        "station": "ZM Marlborough",
+        "city": "Marlborough , New Zealand",
+        "email-href": "zm@zmonline.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Marlborough",
+        "city": "Blenheim, Marlborough, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Auckland, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Northland",
+        "city": "Whangarei, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Dunedin, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "One Eyed Fm",
+        "city": "Newlands, New Zealand",
+        "email-href": "sales@oneeyedfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Apna 990 AM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@apna990.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "ZM Christchurch",
+        "city": "Christchurch, New Zealand",
+        "email-href": "zm@zmonline.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Wanaka",
+        "city": "Wanaka, New Zealand",
+        "email-href": "info@wanakalive.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits South Waikato",
+        "city": "Tokoroa, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Mai FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "web@maifm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Waiheke Radio",
+        "city": "Oneroa, New Zealand",
+        "email-href": "admin@waihekeradio.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Dave FM",
+        "city": "Burwood, New Zealand",
+        "email-href": "studio@davefm.net",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The ShedFM",
+        "city": "Nelson, New Zealand",
+        "email-href": "mail@shedfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio EMFM",
+        "city": "Echuca, VIC, Australia",
+        "email-href": "info@radioemfm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Te Upoko O Te Ika",
+        "city": "Wellington, New Zealand",
+        "email-href": "info@teupoko.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2CUZ",
+        "city": "Bourke, NSW, Australia",
+        "email-href": "muda@muda.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Wairarapa",
+        "city": "Martinborough, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioActive.FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "agency@radioactive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2oceansFM",
+        "city": "Augusta, WA, Australia",
+        "email-href": "info@2oceansfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "UP FM",
+        "city": "Manukau City, New Zealand",
+        "email-href": "minfo@upfm.dj",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Sonshine Digital",
+        "city": "Perth, WA, Australia",
+        "email-href": "reception@98five.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Harvest Family Radio",
+        "city": "Barrigada, GU",
+        "email-href": "khmg@hbcguam.net",
+        "country": "GU"
+    },
+    {
+        "station": "1radio.fm",
+        "city": "Adelaide Lead, VIC, Australia",
+        "email-href": "submissions@1radio.fm",
+        "country": "Australia"
+    },
+    {
+        "station": "Kinglake Ranges Radio",
+        "city": "Kinglake, VIC, Australia",
+        "email-href": "mark@kinglakerangesradio.org",
+        "country": "Australia"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Joy 92",
+        "city": "Agat, GU",
+        "email-href": "request@joyfmguam.com",
+        "country": "GU"
+    },
+    {
+        "station": "Classic Hits Wanganui",
+        "city": "Wanganui, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Rotorua, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2MG",
+        "city": "Mudgee, NSW, Australia",
+        "email-href": "studio@2mg.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Marlborough",
+        "city": "Picton, Marlborough, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Hamilton, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RSN Carnival 2",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "rsn@rsn.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Wantok Light Radio",
+        "city": "Port Moresby, Papua New Guinea",
+        "email-href": "wantok@wantokradio.org",
+        "country": "Papua New Guinea"
+    },
+    {
+        "station": "Classic Hits Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Otago Access Radio",
+        "city": "Dunedin, New Zealand",
+        "email-href": "admin@oar.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Mix 98.2",
+        "city": "Auckland, New Zealand",
+        "email-href": "mel@mix982.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "918 Radio West",
+        "city": "Narrogin, WA, Australia",
+        "email-href": "narrogin@radiowest.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Hawke's Bay",
+        "city": "Hastings, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Nelson, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio TE VEVO",
+        "city": "Papeete, French Polynesia",
+        "email-href": "contacts@mail.pf",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "The Sound",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Gaia FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "gaiafm@stationplaylist.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Kahungunu",
+        "city": "Hastings, New Zealand",
+        "email-href": "tirohia@radio-kahungunu.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SBS Radio 3",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "radio@sbs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "COMPASS FM",
+        "city": "Rangiora, New Zealand",
+        "email-href": "manager@compassfm.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "George FM",
+        "city": "Tauranga, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Dunedin",
+        "city": "Dunedin, New Zealand",
+        "email-href": "radiodunedin@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Howick Village Radio",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@howickvillageradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rebel FM",
+        "city": "Tenterfield, NSW, Australia",
+        "email-href": "admin@rebelfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Port Fm",
+        "city": "Otematata, New Zealand",
+        "email-href": "portfmstudio@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Eyre Creek, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "TANK FM",
+        "city": "Kempsey, NSW, Australia",
+        "email-href": "info@tankfm.org",
+        "country": "Australia"
+    },
+    {
+        "station": "Raglan Radio",
+        "city": "Raglan, New Zealand",
+        "email-href": "genna@raglanradio.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Island 92",
+        "city": "Pago Pago, AS",
+        "email-href": "info@ksbsfm92.com",
+        "country": "AS"
+    },
+    {
+        "station": "TAUI FM",
+        "city": "Papeete, French Polynesia",
+        "email-href": "martineguichard.tauifm@gmail.com",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "Magic",
+        "city": "Rotorua, New Zealand",
+        "email-href": "studio@magic.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Blue Mountains",
+        "city": "Katoomba, NSW, Australia",
+        "email-href": "info@blufm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "GOVE FM",
+        "city": "Gove, NT, Australia",
+        "email-href": "admin@govefm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Mai FM",
+        "city": "Rotorua, New Zealand",
+        "email-href": "web@maifm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "World FM Tawa",
+        "city": "Wellington, New Zealand",
+        "email-href": "mail@worldfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hot FM Katanning",
+        "city": "Katanning, WA, Australia",
+        "email-href": "northam@hotfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Whangarei, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "UGFM",
+        "city": "Eildon, VIC, Australia",
+        "email-href": "info@ugfm.org",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Central Otago",
+        "city": "Alexandra, Central Otago, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Gisborne, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "One Christian Radio",
+        "city": "New Plymouth, New Zealand",
+        "email-href": " jcope@onechristianradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2GF",
+        "city": "Grafton, NSW, Australia",
+        "email-href": "office@2gf.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Community Radio Hamilton",
+        "city": "Hamilton, New Zealand",
+        "email-href": "admin@communityradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Edge",
+        "city": "Dunedin, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Timaru, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Grafton, NSW, Australia",
+        "email-href": "admin@1031lifefm.com",
+        "country": "Australia"
+    },
+    {
+        "station": "NZRRS",
+        "city": "Levin, New Zealand",
+        "email-href": "rrsinfo@radioreading.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Timaru, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Kix FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "request@kixfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Yak FM 107.1",
+        "city": "Hamilton, New Zealand",
+        "email-href": "blair.dowling@wintec.ac.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rush FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "rushfmstudio@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rebel FM",
+        "city": "Tara, QLD, Australia",
+        "email-href": "admin@rebelfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Edge",
+        "city": "Auckland, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SBS PopAsia",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "popasia@sbs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Edge",
+        "city": "Wellington, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Just FM",
+        "city": "Kaiapoi, New Zealand",
+        "email-href": "INFO@JUSTFM.CO.NZ",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Gisborne",
+        "city": "Gisborne, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rox FM",
+        "city": "Roxby Downs, SA, Australia",
+        "email-href": "MANAGER@ROXFM.COM.AU",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Dunedin",
+        "city": "Dunedin, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Apollo Bay Radio",
+        "city": "Apollo Bay, VIC, Australia",
+        "email-href": "onair@3abr.org",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Gisborne/Wairoa",
+        "city": "Gisborne, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Invercargill, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Viti FM",
+        "city": "Suva, Fiji",
+        "email-href": "info@fijivillage.com",
+        "country": "Fiji"
+    },
+    {
+        "station": "900 Radio West",
+        "city": "Bridgetown, WA, Australia",
+        "email-href": "wakeup@radiowest.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "7MID",
+        "city": "Oatlands, TAS, Australia",
+        "email-href": "joshua.agnew@myjnetwork.net",
+        "country": "Australia"
+    },
+    {
+        "station": "Meeka FM",
+        "city": "Meekatharra, WA, Australia",
+        "email-href": "meekafm@westnet.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "WAFM",
+        "city": "Bantam Village, Cocos (Keeling) Islands",
+        "email-href": "admin@wafm.com.au",
+        "country": "Cocos (Keeling) Islands"
+    },
+    {
+        "station": "2XL",
+        "city": "Cooma, NSW, Australia",
+        "email-href": "xl@capitalradio.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "4RFM",
+        "city": "Moranbah, QLD, Australia",
+        "email-href": "admin@4rfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Kinderling Kids Radio",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "hello@kinderling.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Kidnappers",
+        "city": "Hastings, New Zealand",
+        "email-href": "david@radiokidnappers.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hot Country Radio",
+        "city": "Roma, QLD, Australia",
+        "email-href": "giddyup@hotcountry.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Wanganui",
+        "city": "Wanganui, Taranaki, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2Max FM",
+        "city": "Narrabri, NSW, Australia",
+        "email-href": "maxfm@2maxfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Spice",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@radiospice.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Valley FM",
+        "city": "Bright, VIC, Australia",
+        "email-href": "info@valleyfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "KIJI",
+        "city": "Tumon, GU",
+        "email-href": "fm104admin@kijifm104.com",
+        "country": "GU"
+    },
+    {
+        "station": "Heads 106.4FM",
+        "city": "Mangawhai, New Zealand",
+        "email-href": "headsfm@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "West Coast Radio WCR 87.6Fm",
+        "city": "Auckland, New Zealand",
+        "email-href": "Info@wcrfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Kapiti",
+        "city": "Otaki, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hills Radio",
+        "city": "Dunedin, New Zealand",
+        "email-href": "hillsam@waethlight.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Coast Access Radio",
+        "city": "Waikanae, New Zealand",
+        "email-href": "accessradio.kapiti@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "andHow.FM",
+        "city": "Porirua, New Zealand",
+        "email-href": "studio@andhow.org",
+        "country": "New Zealand"
+    },
+    {
+        "station": "PHFM",
+        "city": "Peak Hill, NSW, Australia",
+        "email-href": "phfm88.00fm@phfm.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Sound",
+        "city": "Hamilton, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Edge",
+        "city": "Tauranga, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Wellington, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FM 90.6",
+        "city": "Nadi, Fiji",
+        "email-href": "fm964@connect.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "Tahu FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "mail@tahu.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FBi Click",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "info@fbiradio.com",
+        "country": "Australia"
+    },
+    {
+        "station": "George FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "WAFM",
+        "city": "Drumsite, Christmas Island",
+        "email-href": "admin@wafm.com.au",
+        "country": "Christmas Island"
+    },
+    {
+        "station": "3MBR FM",
+        "city": "Murrayville, VIC, Australia",
+        "email-href": "3mbr@riverland.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Breeze Christchurch",
+        "city": "Christchurch, New Zealand",
+        "email-href": "christchurch@thebreeze.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Yarra Valley FM 99.1",
+        "city": "Woori Yallock, VIC, Australia",
+        "email-href": "info@yarravalleyfm.com",
+        "country": "Australia"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Whakatane, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Maohi",
+        "city": "Pirae, French Polynesia",
+        "email-href": "courrier@radiomaohi.pf",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "Life FM",
+        "city": "Cardiff, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Guam Shark",
+        "city": "Mangilao, Guam",
+        "email-href": "kmandapat@spbguam.com",
+        "country": "Guam"
+    },
+    {
+        "station": "More FM Wellington",
+        "city": "Wellington, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Planet FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@planetaudio.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "ZM Wellington",
+        "city": "Wellington, New Zealand",
+        "email-href": "zm@zmonline.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Invercargill, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Coromandel FM",
+        "city": "Thames, New Zealand",
+        "email-href": "cfm@mediaworks.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Highlands FM",
+        "city": "Kyneton, VIC, Australia",
+        "email-href": "admin@highlandsfm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Magic Christchurch",
+        "city": "Christchurch, New Zealand",
+        "email-href": "studio@magic.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Fiji ONE",
+        "city": "Suva, Fiji",
+        "email-href": "rf1@fbcl.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "The Edge",
+        "city": "Nelson, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Mai FM",
+        "city": "Whangarei, New Zealand",
+        "email-href": "web@maifm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Nga Iwi FM",
+        "city": "Hauraki, New Zealand",
+        "email-href": "Admin@ngaiwifm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Cheese",
+        "city": "Wellington, New Zealand",
+        "email-href": "studio@thecheese.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Tainui",
+        "city": "Ngaruawahia, New Zealand",
+        "email-href": "manager@radiotainui.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "96.9 FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "programming@969.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio LVDL",
+        "city": "Papeete, French Polynesia",
+        "email-href": "lvdl@mail.pf",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "Goldfields FM",
+        "city": "Maryborough, VIC, Australia",
+        "email-href": "goldfieldsfm@bigpond.com",
+        "country": "Australia"
+    },
+    {
+        "station": "ZM Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "zm@zmonline.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2day FM",
+        "city": "Suva, Fiji",
+        "email-href": "2dayfm@fbcl.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "True Light FM",
+        "city": "Matamata, New Zealand",
+        "email-href": "info@truelightfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Akaroa Radio",
+        "city": "Wainui, New Zealand",
+        "email-href": "dave@teldave.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Moana",
+        "city": "Tauranga, New Zealand",
+        "email-href": "info@moanaradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "95bFM",
+        "city": "Auckland, New Zealand",
+        "email-href": "office@95bFM.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Marlborough",
+        "city": "Blenheim, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Access Manawatu",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "info@accessmanawatu.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Maniapoto FM",
+        "city": "Te Kuiti, New Zealand",
+        "email-href": "irirangi@wave.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Mix FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "mixfm@www.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Edge",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Millenium Radio 2000",
+        "city": "Nuku'alofa, Tonga",
+        "email-href": "a3v@pobox.alaska.net",
+        "country": "Tonga"
+    },
+    {
+        "station": "Spellbound Harbour Radio",
+        "city": "Gisborne, New Zealand",
+        "email-href": "studio@spellboundradio.net",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Kapiti/Horowhenua",
+        "city": "Otaki, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "X Digital",
+        "city": "Perth, WA, Australia",
+        "email-href": "info@xradio.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "LFM Radio",
+        "city": "Whitianga, New Zealand",
+        "email-href": "lfm@lfmonline.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Christchurch",
+        "city": "Christchurch, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Rotorua, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Sunshine Radio",
+        "city": "Nelson, New Zealand",
+        "email-href": "mail@sunshineradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Whangarei, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Contact FM",
+        "city": "Hamilton, New Zealand",
+        "email-href": "contact@contactfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Volcano Radio",
+        "city": "Lyttelton, New Zealand",
+        "email-href": "volcanoradionz@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Bay of Plenty",
+        "city": "Tauranga, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "KNWJ",
+        "city": "Leone, AS",
+        "email-href": "info@fm104.org",
+        "country": "AS"
+    },
+    {
+        "station": "The Sound",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Wellington, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2EC",
+        "city": "Eden, NSW, Australia",
+        "email-href": "admin@eastcoastradio.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "NovaNation",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "digitalradioteam@dmgradio.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Magic Wellington",
+        "city": "Wellington, New Zealand",
+        "email-href": "studio@magic.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Kool FM",
+        "city": "Whangamata, New Zealand",
+        "email-href": "studio@koolfm.biz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "ZOO Digital",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "admin@zoosuperdigi.com",
+        "country": "Australia"
+    },
+    {
+        "station": "MyMP",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "programming@sen.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Te Aroha, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Ngati Porou",
+        "city": "Gisborne, New Zealand",
+        "email-href": " manager@radiongatiporou.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Triple G",
+        "city": "Gunnedah, NSW, Australia",
+        "email-href": "studio@2ggg.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "George FM",
+        "city": "Dunedin, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Christchurch, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "LightChristmas",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "friends@lightfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "ifinity FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "Studio@lfinityfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Splash FM",
+        "city": "Onetangi, New Zealand",
+        "email-href": "studio@splashfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Northland",
+        "city": "Whangarei, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Newstalk ZB Wanganui",
+        "city": "Wanganui, New Zealand",
+        "email-href": "online@newstalkzb.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Magic Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@magic.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Alexandra, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Newstalk ZB Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "online@newstalkzb.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rokit 107.5",
+        "city": "Dunedin, New Zealand",
+        "email-href": "Dunedinfreeview@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Free FM",
+        "city": "Hamilton, New Zealand",
+        "email-href": "info@freefm.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Bucketts Radio",
+        "city": "Gloucester, NSW, Australia",
+        "email-href": "support@buckettsradio.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Sweet FM",
+        "city": "Ayr, QLD, Australia",
+        "email-href": "radio@sweetfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "HIT Radio",
+        "city": "Seymour, VIC, Australia",
+        "email-href": "hitradio@live.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Wanganui, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Manawatu",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Mulcher",
+        "city": "Hawera, New Zealand",
+        "email-href": "radio@themulcher.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "George FM",
+        "city": "Hamilton, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SEA FM Coromandel",
+        "city": "Coromandel, New Zealand",
+        "email-href": "contact@SeaFM.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Ten FM",
+        "city": "Tenterfield, NSW, Australia",
+        "email-href": "info@tenfm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Christchurch, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Dunedin, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Gisborne, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "CDI FM",
+        "city": "Samberigi, Papua New Guinea",
+        "email-href": "infor@cdi.org.pg",
+        "country": "Papua New Guinea"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Dunedin, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Te Aroha, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Breeze Nelson",
+        "city": "Nelson, New Zealand",
+        "email-href": "nelson@thebreeze.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2EAR",
+        "city": "Moruya, NSW, Australia",
+        "email-href": "earfm@earfm.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Human FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "studio@humanfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "PihaRadio 87.7 DropFM",
+        "city": "Piha, New Zealand",
+        "email-href": "piharadio@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Taranaki",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Most FM",
+        "city": "New Plymouth, New Zealand",
+        "email-href": "mostfm@mostfm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Outback Radio",
+        "city": "Bourke, NSW, Australia",
+        "email-href": "outback@outbackradio.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Mix 102.3+",
+        "city": "Adelaide, SA, Australia",
+        "email-href": "music@mix1023.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Wellington Access Radio",
+        "city": "Wellington, New Zealand",
+        "email-href": "info@accessradio.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Canterbury",
+        "city": "Christchurch, New Zealand",
+        "email-href": "canterbury@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Kaikohe, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Auckland, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Base FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@basefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio 1XX",
+        "city": "Whakatane, New Zealand",
+        "email-href": "reception@1xx.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hokonui",
+        "city": "Invercargill, New Zealand",
+        "email-href": "onair@hokonui.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Sea Breeze FM",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "seabreezefm@hotmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "CHALK 96.1",
+        "city": "Christchurch, New Zealand",
+        "email-href": "chalk@chalk961.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Double J",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "doublej@abc.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Hamilton, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2LT",
+        "city": "Lithgow, NSW, Australia",
+        "email-href": "mail@2lt.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Maranui FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "station@maranuifm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Humm FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "feedback@hummfm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Beach FM",
+        "city": "Paraparaumu, New Zealand",
+        "email-href": "beachfm@kapiti.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Groove 107.7 FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "hi@groovefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Crow FM",
+        "city": "Wondai, QLD, Australia",
+        "email-href": "info@crowfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Botany Radio",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@botanyradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Country Radio Dunedin",
+        "city": "Dunedin, New Zealand",
+        "email-href": "countryradio@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "George FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Brian FM Marlborough",
+        "city": "Picton, New Zealand",
+        "email-href": "brian@brianfm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hot FM Northam",
+        "city": "Northam, WA, Australia",
+        "email-href": "northam@hotfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Queenstown",
+        "city": "Queenstown, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Hot FM Merredin",
+        "city": "Merredin, WA, Australia",
+        "email-href": "northam@hotfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "2CBD FM",
+        "city": "Deepwater, NSW, Australia",
+        "email-href": "radio2cbd@gmail.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Soul FM",
+        "city": "Tauranga, New Zealand",
+        "email-href": "enquiries@stationplaylist.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2YYY",
+        "city": "Young, NSW, Australia",
+        "email-href": "yyyradio@westnet.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Valley FM 95.9",
+        "city": "Toogoolawah, QLD, Australia",
+        "email-href": "valleyfm@valleyfm.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Waikato",
+        "city": "Hamilton, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Newstalk ZB Wellington",
+        "city": "Wellington, New Zealand",
+        "email-href": "online@newstalkzb.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "New Plymouth, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "CFM",
+        "city": "Kingaroy, QLD, Australia",
+        "email-href": "breakfast@hotfmqld.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Breeze Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "promotions@thebreeze.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Kiss-FM",
+        "city": "Tauranga, New Zealand",
+        "email-href": "kissfm@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Sub FM Tauranga",
+        "city": "Tauranga, New Zealand",
+        "email-href": "subfmtauranga@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rebel FM",
+        "city": "Inglewood, QLD, Australia",
+        "email-href": "admin@rebelfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "5MU",
+        "city": "Murray Bridge, SA, Australia",
+        "email-href": "reception@5mu.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Tahu FM",
+        "city": "Dunedin, New Zealand",
+        "email-href": "mail@tahu.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Edge Digital",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "961Pd@arn.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Tarana",
+        "city": "Kingsland, New Zealand",
+        "email-href": "info@tarana.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Snow FM",
+        "city": "Cooma, NSW, Australia",
+        "email-href": "snow@capitalradio.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Christchurch, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Port Fm",
+        "city": "Queenstown, New Zealand",
+        "email-href": "portfmstudio@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "North Mount Egmont, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Red FM",
+        "city": "Kingston, Norfolk Island",
+        "email-href": "admin@redfm.com.au",
+        "country": "Norfolk Island"
+    },
+    {
+        "station": "Radio SUR",
+        "city": "Auckland, New Zealand",
+        "email-href": "vishal@radiosur.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Nelson, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "George FM",
+        "city": "Queenstown, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Taranaki",
+        "city": "Oakura, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Wallis et Futuna 1ere",
+        "city": "Mata'utu, Wallis and Futuna Islands",
+        "email-href": "rem@ftv-publicite.fr",
+        "country": "Wallis and Futuna Islands"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Napier, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SYN Nation",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "info@syn.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Arrow FM",
+        "city": "Masterton, New Zealand",
+        "email-href": "quiver@arrowfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Magic 100.3",
+        "city": "Garapan, MP",
+        "email-href": "kwaw100.3@magic100radio.com",
+        "country": "MP"
+    },
+    {
+        "station": "Flow FM",
+        "city": "Kapunda, SA, Australia",
+        "email-href": "mail@flowfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Awa FM",
+        "city": "Wanganui, New Zealand",
+        "email-href": "awafm@awafm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "96Five Family Radio Digital",
+        "city": "Milton, QLD, Australia",
+        "email-href": "socialmedia@96five.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Power FM",
+        "city": "Murray Bridge, SA, Australia",
+        "email-href": "contactus@powerfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Munt FM",
+        "city": "Wellington, New Zealand",
+        "email-href": "muntdjs@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Central FM New Zealand",
+        "city": "Dannevirke, New Zealand",
+        "email-href": "centralfm@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Te Aroha, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Manawatu",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Whakatane, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Country Radio",
+        "city": "Invercargill, New Zealand",
+        "email-href": "countryradio@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Peakhillfm 89:5",
+        "city": "Peak Hill, NSW, Australia",
+        "email-href": "info@peakhillfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Big River FM",
+        "city": "Dargaville, New Zealand",
+        "email-href": "office@bigriverfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Fine Music Digital",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "marketing@finemusicfm.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Gisborne, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Wellington",
+        "city": "Wellington, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio 80's",
+        "city": "Korumburra, VIC, Australia",
+        "email-href": "admin@radio80s.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Sound",
+        "city": "Christchurch, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Fiji Two",
+        "city": "Suva, Fiji",
+        "email-href": "rf2@fbcl.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Napier, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Chase FM Paeroa",
+        "city": "Paeroa, WA, New Zealand",
+        "email-href": "chasefm@hotmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Nelson, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Central FM New Zealand",
+        "city": "Flemington, New Zealand",
+        "email-href": "centralfm@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Hamilton, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Soundwave FM",
+        "city": "Napier, New Zealand",
+        "email-href": "info@soundwavefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Static FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "static.radio@aut.ac.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "2QN",
+        "city": "Deniliquin, NSW, Australia",
+        "email-href": "info@2qn.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Parliament",
+        "city": "Wellington, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Raukawa",
+        "city": "Tokoroa, New Zealand",
+        "email-href": "wendy@raukawafm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Nelson",
+        "city": "Nelson, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FM107 Mi Laekem",
+        "city": "Port Vila, Vanuatu",
+        "email-href": "newsdesk@fm107vanuatu.com",
+        "country": "Vanuatu"
+    },
+    {
+        "station": "Plains FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "info@plainsfm.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RSN Carnival",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "rsn@rsn.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Mansfield",
+        "city": "Mansfield, VIC, Australia",
+        "email-href": "enquiries@radiomansfield.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Southland",
+        "city": "Invercargill, Southland, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Océane",
+        "city": "Dumbea, New Caledonia",
+        "email-href": "contact@oceanefm.nc",
+        "country": "New Caledonia"
+    },
+    {
+        "station": "Lift Radio",
+        "city": "Adelaide, SA, Australia",
+        "email-href": "info@liftradio.net",
+        "country": "Australia"
+    },
+    {
+        "station": "bollybop",
+        "city": "Tauranga, New Zealand",
+        "email-href": "studio@bollybop.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Rotorua, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Dunedin",
+        "city": "Dunedin, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Cook Islands",
+        "city": "Avarua, Cook Islands",
+        "email-href": "tunein@radio.co.ck",
+        "country": "Cook Islands"
+    },
+    {
+        "station": "Kfm",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@kfmradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Cruize Taranaki 105.2 Fm",
+        "city": "New Plymouth, New Zealand",
+        "email-href": "matt@bigmedia.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Otaki, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Brian FM Whanganui",
+        "city": "Wanganui, New Zealand",
+        "email-href": "brian@brianfm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Nelson",
+        "city": "Nelson, New Zealand",
+        "email-href": "nelson@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Magic",
+        "city": "Tauranga, New Zealand",
+        "email-href": "studio@magic.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Fresh FM",
+        "city": "Nelson, New Zealand",
+        "email-href": "mike@freshfm.net",
+        "country": "New Zealand"
+    },
+    {
+        "station": "VBC",
+        "city": "Kelburn, New Zealand",
+        "email-href": "thevbc@vbc.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Timaru, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Dunedin, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Nelson, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Rotorua, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Kia Ora FM",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "studio@rangitaane.iwi.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SBS PopAraby",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "poparaby@sbs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Te Korimako o Taranaki",
+        "city": "New Plymouth, New Zealand",
+        "email-href": "info@tekorimako.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Invercargill, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Invercargill, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Fun Super Digi",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "mail@funsuperdigi.com",
+        "country": "Australia"
+    },
+    {
+        "station": "The Sound",
+        "city": "Wellington, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "PRK 98.1FM",
+        "city": "Halls Creek, WA, Australia",
+        "email-href": "prkradio@bigpond.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Redwood Good Music FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "radioredwood@hotmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Country Radio",
+        "city": "Rotorua, New Zealand",
+        "email-href": "radionet@wave.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Mix FM",
+        "city": "Lautoka, Fiji",
+        "email-href": "info@mix94.fm",
+        "country": "Fiji"
+    },
+    {
+        "station": "Radio Papaka",
+        "city": "Wellington, New Zealand",
+        "email-href": "sales@radiopapaka.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Control",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "manager@radiocontrol.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Sound",
+        "city": "Napier, New Zealand",
+        "email-href": "studio@thesound.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "WSFM+",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "programdirector@wsfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio Ngati Porou",
+        "city": "Ruatoria, New Zealand",
+        "email-href": " manager@radiongatiporou.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Maria (French Polynesia)",
+        "city": "Papeete, French Polynesia",
+        "email-href": "contact@radiomarianotehau.pf",
+        "country": "French Polynesia"
+    },
+    {
+        "station": "Rock It",
+        "city": "Spreydon, New Zealand",
+        "email-href": "rockit878@outlook.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "7XS",
+        "city": "Queenstown, TAS, Australia",
+        "email-href": "studio@7xs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Horowhenua",
+        "city": "Shannon, Horowhenua, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Napier, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Rotorua",
+        "city": "Rotorua, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Wireless",
+        "city": "Mangawhai, New Zealand",
+        "email-href": "thewirelessfm@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Christchurch, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Flea FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "john@theflea.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Hauraki",
+        "city": "Rotorua, New Zealand",
+        "email-href": "team@hauraki.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Bayrock FM",
+        "city": "Whakatane, New Zealand",
+        "email-href": "studio@bayrock.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "4kz Innisfail",
+        "city": "Innisfail, QLD, Australia",
+        "email-href": "sales@4kz.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio One",
+        "city": "Dunedin, New Zealand",
+        "email-href": "r1@r1.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Fleurieu FM",
+        "city": "Victor Harbor, SA, Australia",
+        "email-href": "info@fleurieufm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "RDU 98.5 FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "gemma@rdu.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "BackBeat FM",
+        "city": "Hamilton, New Zealand",
+        "email-href": "manager@backbeat.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Gold Central Victoria",
+        "city": "Maryborough, VIC, Australia",
+        "email-href": "info@goldcentralvictoria.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "The Drop FM",
+        "city": "Tauranga, New Zealand",
+        "email-href": "info@thedrop.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Local Radio Central",
+        "city": "Alexandra, New Zealand",
+        "email-href": "alexandra@localradiocentral.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Paeroas 88.3 community radio",
+        "city": "Paeroa, New Zealand",
+        "email-href": "883paeroastudio@gmail.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Wave",
+        "city": "Christchurch, New Zealand",
+        "email-href": "thewave@sumred.org.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Bula FM",
+        "city": "Suva, Fiji",
+        "email-href": "bulafm@fbcl.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "SBS PopDesi",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "comments@sbs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Auckland, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Gore, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "HOT FM 100.5",
+        "city": "Bridgetown, WA, Australia",
+        "email-href": "ashley.myatt@macs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Pure Gold 80s",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "info@mix80s.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Napier, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "More FM Tauranga",
+        "city": "Tauranga, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Bondi FM",
+        "city": "Bondi, NSW, Australia",
+        "email-href": "team@bondifm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Dunedin, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "My Perth Digital",
+        "city": "Perth, WA, Australia",
+        "email-href": "info@myperthdigital.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Life FM",
+        "city": "Timaru, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Timaru",
+        "city": "Timaru, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "V103",
+        "city": "Faga`itua, AS",
+        "email-href": "info@wvuv.com",
+        "country": "AS"
+    },
+    {
+        "station": "Pumanawa FM",
+        "city": "Rotorua, New Zealand",
+        "email-href": "admin@pumanawafm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Life FM",
+        "city": "Porirua, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "True Light FM",
+        "city": "Palmerston North, New Zealand",
+        "email-href": "info@truelightfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Wild Horse FM",
+        "city": "Yarraman, QLD, Australia",
+        "email-href": "admin@yarramanradio.com",
+        "country": "Australia"
+    },
+    {
+        "station": "4KQ+",
+        "city": "Brisbane, QLD, Australia",
+        "email-href": "info@4kq.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Hutt Radio",
+        "city": "Lower Hutt, New Zealand",
+        "email-href": "huttradio@huttradio.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SBS Chill",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "chill@sbs.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Rep FM",
+        "city": "Auckland, New Zealand",
+        "email-href": "jimmy@repfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Power Hit FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "studio@powerhitfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Dunedin, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Gorilla Radio",
+        "city": "Pyrmont, NSW, Australia",
+        "email-href": "admin@gorillasuperdigi.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Life FM",
+        "city": "Whangarei, New Zealand",
+        "email-href": "Studio@lifefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "4ZR",
+        "city": "Roma, QLD, Australia",
+        "email-href": "Geoff.speed@mrrqld.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Soul FM",
+        "city": "Mabel Bush, New Zealand",
+        "email-href": "enquiries@stationplaylist.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Mirchi",
+        "city": "Suva, Fiji",
+        "email-href": "mirchifm@fbc.com.fj",
+        "country": "Fiji"
+    },
+    {
+        "station": "Velvet Deluxe",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "info@radioaustralasia.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Times FM",
+        "city": "Woodcocks, New Zealand",
+        "email-href": "timesfm@mediaworks.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Newstalk ZB Christchurch",
+        "city": "Christchurch, New Zealand",
+        "email-href": "online@newstalkzb.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Ngati Hine FM",
+        "city": "Whangarei, New Zealand",
+        "email-href": "onair@ngatihinefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Brian FM Marlborough",
+        "city": "Blenheim, New Zealand",
+        "email-href": "brian@brianfm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand National",
+        "city": "Wellington, New Zealand",
+        "email-href": "rnz@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Red FM",
+        "city": "Leeman, WA, Australia",
+        "email-href": "admin@redfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Dance Super Digi",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "mail@dancesuperdigi.com",
+        "country": "Australia"
+    },
+    {
+        "station": "Niu FM",
+        "city": "Dunedin, New Zealand",
+        "email-href": "info@niufm.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Southland",
+        "city": "Invercargill, New Zealand",
+        "email-href": "southernmatt@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Turanga FM",
+        "city": "Gisborne, New Zealand",
+        "email-href": "turangafm@turangafm.maori.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Pulzar FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "info@pulzarfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Gisborne, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Waikato",
+        "city": "Hamilton, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Classic Hits Southern Lakes",
+        "city": "Alexandra, New Zealand",
+        "email-href": "info@classichits.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Breeze FM",
+        "city": "Goondiwindi, QLD, Australia",
+        "email-href": "contact@thebreeze.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "hit 92.9",
+        "city": "Settlement, Christmas Island",
+        "email-href": "reception@929.com.au",
+        "country": "Christmas Island"
+    },
+    {
+        "station": "The Edge",
+        "city": "Gisborne, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "ZM Nelson",
+        "city": "Nelson, New Zealand",
+        "email-href": "zm@zmonline.com",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Central FM New Zealand",
+        "city": "Waipukurau, New Zealand",
+        "email-href": "centralfm@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio New Zealand Concert",
+        "city": "Invercargill, New Zealand",
+        "email-href": "concert@radionz.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Rebel FM",
+        "city": "Richmond, QLD, Australia",
+        "email-href": "admin@rebelfm.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Auckland",
+        "city": "Auckland, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Port Fm",
+        "city": "Timaru, New Zealand",
+        "email-href": "portfmstudio@xtra.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "FLAVA",
+        "city": "Tauranga, New Zealand",
+        "email-href": "flava@flava.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Ponsonby",
+        "city": "Ponsonby, New Zealand",
+        "email-href": "studio@radioponsonby.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "George FM",
+        "city": "Christchurch, New Zealand",
+        "email-href": "studio@georgefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Radio Palau",
+        "city": "Koror, Palau",
+        "email-href": "wwfm@palaunet.com",
+        "country": "Palau"
+    },
+    {
+        "station": "OCR FM",
+        "city": "Colac, VIC, Australia",
+        "email-href": "admin@ocrfm.org.au",
+        "country": "Australia"
+    },
+    {
+        "station": "More FM Rotorua",
+        "city": "Matamau, New Zealand",
+        "email-href": "feedback@morefm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Alexandra, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "New Zealand Chinese Radio",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@fm906.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Flat",
+        "city": "Auckland, New Zealand",
+        "email-href": "info@flatfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "Bula Namaste FM",
+        "city": "Suva, Fiji",
+        "email-href": "info@bulanamastefm.com",
+        "country": "Fiji"
+    },
+    {
+        "station": "The Edge",
+        "city": "Invercargill, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "LightDigital",
+        "city": "Melbourne, VIC, Australia",
+        "email-href": "friends@lightdigital.com.au",
+        "country": "Australia"
+    },
+    {
+        "station": "Star FM",
+        "city": "Saint Helens, TAS, Australia",
+        "email-href": "starfm@intas.net.au",
+        "country": "Australia"
+    },
+    {
+        "station": "RadioLIVE",
+        "city": "Kaikohe, New Zealand",
+        "email-href": "rfullard@radiolive.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "The Edge",
+        "city": "Christchurch, New Zealand",
+        "email-href": "theedge@theedge.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "blurFM",
+        "city": "Auckland, New Zealand",
+        "email-href": "studio@blurfm.co.nz",
+        "country": "New Zealand"
+    },
+    {
+        "station": "SBS Radio 4",
+        "city": "Sydney, NSW, Australia",
+        "email-href": "comments@sbs.com.au",
+        "country": "Australia"
+    }
+]

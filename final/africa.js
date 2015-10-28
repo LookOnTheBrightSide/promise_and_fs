@@ -16,7 +16,8 @@ require('async').map(cities, function(city, coords) {
                 "city": infoz[0],
                 "coords": infoz[1]
             }
-            var destination = "tada.json";
+            //change the destination before running script!!
+            var destination = "australasia_coords.json";
             fs.appendFile(destination, JSON.stringify(data), function(err) {
                 if (err) {
                     return console.log(err);
