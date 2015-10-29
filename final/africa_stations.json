@@ -1,3435 +1,2863 @@
-[
-    {
+[{
         "station": "Radio Oran",
         "email": "info@radio-oran.com",
         "city": "Oran, Regionale de l'Ouest, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "MFM Tunisie",
         "email": "contact@radiomfm.tn",
         "city": "Mahdia, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Bonne Nouvelle Togo",
         "email": "vieabel@yahoo.fr",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Lotus FM",
         "email": "info@lotusfm.co.za",
         "city": "Port Elizabeth, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "90.8 Metro fm Uganda",
         "email": "metro90.8@gmail.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Lagos",
         "email": "INFO@RADIOLAGOSEKOFM.NET",
         "city": "Ikeja, Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Dinpa FM",
         "email": "info@dinpafmonline.com",
         "city": "Sunyani, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Sound Asia FM",
         "email": "info@soundasiafm.com",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "MBC Radio Maurice 1",
         "email": "customercare@mbc.intnet.mu",
         "city": "Malherbes, Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Kameme FM",
         "email": "info@kamemefm.com",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "MBC Kool FM",
         "email": "customercare@mbc.intnet.mu",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Mosaique FM",
         "email": "commercial.citycenter@topnet.tn",
         "city": "Boukrim, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Futurs Medias",
         "email": "info@futursmedias.net",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Ethiopia - National Service",
         "email": "radioethiopia@usa.net",
         "city": "Metu, Ethiopia",
         "country": "Ethiopia"
-    },
-    {
+    }, {
         "station": "Radio Vision Egypt",
         "email": "radiovisioneg@hotmail.com",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Radio Maria (Mozambique)",
         "email": "info.moz@radiomaria.org",
         "city": "Matola, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Sky FM 96.7MHz",
         "email": "info@skyfmonline.com",
         "city": "Sunyani, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Mix 93.8",
         "email": "onair@mixfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Wave",
         "email": "robin@radiowave.com.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Jacaranda FM",
         "email": "enquiries@jacarandafm.com",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Ghanatta Radio",
         "email": "info@ghanatta.com",
         "city": "Gaga, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Pamoja FM",
         "email": "pamojafm.marketing@yahoo.com",
         "city": "Kibera, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Radio Mayotte Web",
         "email": "radio@mayottewebradio.fr",
         "city": "Combani, Mayotte",
         "country": "Mayotte"
-    },
-    {
+    }, {
         "station": "Easy FM",
         "email": "info@easyfm.co.ke",
         "city": "Mombasa, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Kinshasa, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "RCM 13",
         "email": "info@rcm13.fr",
         "city": "Moroni, Comoros",
         "country": "Comoros"
-    },
-    {
+    }, {
         "station": "BBC World Service Saint-Leu",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Saint-Leu, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Umhlobo Wenene FM",
         "email": "magwan@sabc.co.za",
         "city": "East London, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "KFM",
         "email": "rkyomugisha@ug.nationmedia.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Tigabane",
         "email": "tigabane@mzuzu.org",
         "city": "Mzuzu, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "SolidFM 103.7",
         "email": "info@kfmghana.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Jijel",
         "email": "info@radio-jijel.dz",
         "city": "Jijel, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Rock Mauritius Radio",
         "email": "contact@rockmauritius.tk",
         "city": "Bel Ombre, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Nigeriainfo FM 95.1 Abuja",
         "email": "rcahilig@coollink.us",
         "city": "Abuja, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Okapi",
         "email": "info@hirondelle.org",
         "city": "Bukavu, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "Hellenic t/a New Pan-Hellenic Voice",
         "email": "info@hellenicradio.org.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio 2000",
         "email": "info@radio2000.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Rádio 95.8 FM Maputo",
         "email": "internet@iurd.co.mz",
         "city": "Maputo, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "ZNBC R1",
         "email": "hyde.haguta@znbc.co.zm",
         "city": "Lusaka, Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "CliffCentral",
         "email": "contact@cliffcentral.com",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Adom FM",
         "email": "teamwork@myjoyonline.com",
         "city": "Tema, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Isanganiro",
         "email": "isanganiro@yahoo.fr",
         "city": "Bujumbura, Burundi",
         "country": "Burundi"
-    },
-    {
+    }, {
         "station": "Connect Radio",
         "email": "studio@connectuganda.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "SAMS R1",
         "email": "news@shbc.sh",
         "city": "Jamestown, St. Helena",
         "country": "St. Helena"
-    },
-    {
+    }, {
         "station": "Radio Sonder Grense",
         "email": "rekenaar@rsg.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Capital FM",
         "email": "technical@capitalfm-ug.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Love FM",
         "email": "dunyaa@sentoo.sn",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "ERTU Shabab wal Riyadiyah",
         "email": "radioinfo@ertu.org",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Mama FM",
         "email": "umwa@africaonline.co.ug",
         "city": "Kisaasi, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Kanal FM",
         "email": "kanalfm@cafe.tg",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "BBC World Service Kigali",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Wazobia FM 95.1",
         "email": "info@wazobiafm.com",
         "city": "Kano, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "HITS",
         "email": "saydfx@gmail.com",
         "city": "Zanzibar, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Power",
         "email": "info@powerfm.co.za",
         "city": "Houghton, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Power FM",
         "email": "info@power997.com",
         "city": "Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Radio Silver 92.3FM",
         "email": "info@radiosilveronline.com",
         "city": "Takoradi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Raypower Abuja",
         "email": "info@raypowerabuja.com",
         "city": "Asokoro, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Unique FM",
         "email": "info@uniquefm.gm",
         "city": "Banjul, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "Star FM",
         "email": "info@starradiomw.com",
         "city": "Blantyre, Southern, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Radio 102 FM",
         "email": "info@cocadillaz.com",
         "city": "Saint-Pierre, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Voice Of Nigeria Service Arabic",
         "email": "info@voiceofnigeria.org",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Akaboozi FM",
         "email": "rs1elvis@gmail.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "BBC World Service",
         "email": "worldservice@bbc.co.uk",
         "city": "Saint-Andre, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "MBC Music FM",
         "email": "customercare@mbc.intnet.mu",
         "city": "Port Louis, Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Atlantis Radio",
         "email": "atlantis879@gamil.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Algoa FM",
         "email": "info@algoafm.co.za",
         "city": "Port Elizabeth, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Gold FM",
         "email": "radiogold@ucomgh.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Nationale",
         "email": "ard_at@yahoo.de",
         "city": "Zaghouan, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Midcities 107.4FM",
         "email": "info@midcities.co.za",
         "city": "Midrand, GA, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Rádio Pieia",
         "email": "info@radio.pieia.org",
         "city": "Beira, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Sama Radio Senegal",
         "email": "bestmoha1@gmail.com",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Clouds FM",
         "email": "info@cloudsfm.co",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Mosaique FM",
         "email": "commercial.citycenter@topnet.tn",
         "city": "Sidi Bou Said, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "ISANGO STAR",
         "email": "info@isangostar.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Motsweding FM",
         "email": "mmekoasc@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "NBC German",
         "email": "gssecretary@nbc.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Top FM",
         "email": "topfm@intnet.mu",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Smile 90.4 FM",
         "email": "studio@smile904.fm",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Dunyaa",
         "email": "dunyaa@sentoo.sn",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Tribute FM",
         "email": "info@tributefm.com",
         "city": "Banghazi, Libyan Arab Jamahiriya",
         "country": "Libyan Arab Jamahiriya"
-    },
-    {
+    }, {
         "station": "Chikuni Radio",
         "email": "chikuniradio@gmail.com",
         "city": "Monze, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "MBC Radio Mauritius 2",
         "email": "customercare@mbc.intnet.mu",
         "city": "Malherbes, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Radio Cosmos Namibia",
         "email": "info@kosmos.com.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Phalaphala FM",
         "email": "maumelair@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "NBC Ovambo",
         "email": "fzinner@nbc.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Radio Plus FM",
         "email": "venen@radioplus.mu",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "CCFM",
         "email": "mail@ccfm.org.za",
         "city": "Muizenberg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "East Africa Radio",
         "email": "info@eastafricaradio.com",
         "city": "Dar Es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Kiss 100",
         "email": "info@kissfm.co.ke",
         "city": "Nairobi, Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "ChaiFM",
         "email": "info@chaifm.com",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "MIGHT FM 90.5",
         "email": "info@mightfmonline.com",
         "city": "Tamale, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Breeze 99.6",
         "email": "info@breezefmchipata.com",
         "city": "Chipata, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "BBC World Service Mbale",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Mbale, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Blue Channel",
         "email": "ubc@ubconline.co.ug",
         "city": "Mityana, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Heart FM",
         "email": "info@1049.fm",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Inanda FM",
         "email": "stationmanager@inandafm.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "HITFM Reunion",
         "email": "hitfm@live.fr",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "102.3 KISS FM",
         "email": "info@kissfm.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Kalak FM",
         "email": "kalak@kalakfm.com",
         "city": "Yaoundé, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Radio 786",
         "email": "nazeer@radio786.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Hitradio Namibia",
         "email": "info@hitradio.com.na",
         "city": "Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "UCT Radio",
         "email": "info@uctradio.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio 2000",
         "email": "info@radio2000.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Alfayda",
         "email": "info@radioalfayda.net",
         "city": "Kaolack, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Pikan",
         "email": "secretariat@kanal-renionite.org",
         "city": "Le Port, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Radio 2M",
         "email": "srafie@2m.ma",
         "city": "Casablanca, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "Lotus FM",
         "email": "info@lotusfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Kaya FM",
         "email": "pr@kayafm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Santa Isabel, Equatorial Guinea",
         "country": "Equatorial Guinea"
-    },
-    {
+    }, {
         "station": "Radio SPORT FM",
         "email": "radiosportfm@yahoo.fr",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Bonheur FM Guinée",
         "email": "radiobonheurfmguinee@gmail.com",
         "city": "Conakry, Guinea",
         "country": "Guinea"
-    },
-    {
+    }, {
         "station": "Luv FM",
         "email": "franklinbrobby@yahoo.co.uk",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Bassam FM",
         "email": "charles@bassamfm.com",
         "city": "Yamoussoukro, Côte d'Ivoire",
         "country": "Côte d'Ivoire"
-    },
-    {
+    }, {
         "station": "947",
         "email": "webmaster947@highveld.co.za",
         "city": "Rivonia, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Chada FM",
         "email": "contact@chadafm.net",
         "city": "Casablanca, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "Time FM 105.3",
         "email": "timefm105.3@gmail.com",
         "city": "Akumadan, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "KASAPA FM",
         "email": "info@kasapafmonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Apac",
         "email": "info@radioapac.com",
         "city": "Apac, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Kragbron",
         "email": "info@radiokragbron.co.za",
         "city": "Mpumalanga, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Fine Music Radio",
         "email": "fmr@fmr.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "KBC - Kiswahili",
         "email": "md@kbc.co.ke",
         "city": "Ngong, Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Radio La Voix Du Nord",
         "email": "abdou.rvn@hotmail.fr",
         "city": "Dzoumogne, Mayotte",
         "country": "Mayotte"
-    },
-    {
+    }, {
         "station": "Radio Alansaar",
         "email": "info@alansaar.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "SBC Paradise FM",
         "email": "Paradise.FM@sbc.sc",
         "city": "Victoria, Seychelles",
         "country": "Seychelles"
-    },
-    {
+    }, {
         "station": "Radio Tataouine",
         "email": "info@radiotunis.com",
         "city": "Remada, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Pulsar",
         "email": "info@monpulsar.com",
         "city": "Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "RADIOKRIO",
         "email": "MAFERECAMARA@YAHOO.COM",
         "city": "Waterloo, Sierra Leone",
         "country": "Sierra Leone"
-    },
-    {
+    }, {
         "station": "Peace FM",
         "email": "daara90@gmail.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio El Bahdja",
         "email": "info@algerian-radio.dz",
         "city": "Bordj El Bahri, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "XFM Kenya",
         "email": "info@xfm.co.ke",
         "city": "Machakos, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Vibe 91.9 FM",
         "email": "info@vibefm.com.gh",
         "city": "Accra, Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Magic FM 92.9",
         "email": "elkindy24@hotmail.com",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Mbabule FM",
         "email": "tam978@gmail.com",
         "city": "Sembabule, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Capital FM Malawi",
         "email": "music@capitalradiomalawi.com",
         "city": "Blantyre, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Kanaal 7",
         "email": "kanaal7@k7.com.na",
         "city": "Katima Mulilo, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Vibes 97.3 FM Benin",
         "email": "radio@vibesfm.com.ng",
         "city": "Benin City, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Al Quran Al Kareem",
         "email": "qurannet@ertu.org",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "KBC Kitwek FM",
         "email": "md@kbc.co.ke",
         "city": "Eldoret, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Bangui, Central African Republic",
         "country": "Central African Republic"
-    },
-    {
+    }, {
         "station": "Nile FM",
         "email": "contactnrp@nileradioproductions.net",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Magic FM Aba",
         "email": "info@magicfmnigeria.com",
         "city": "Aba, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "RB2-Radio Botswana 2",
         "email": "asesinyi@gov.bw",
         "city": "Gaborone, Botswana",
         "country": "Botswana"
-    },
-    {
+    }, {
         "station": "Pride FM",
         "email": "info@878pridefm.com",
         "city": "Mtwara, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "VOT FM",
         "email": "votradio890@gmail.com",
         "city": "Tabora, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Houtstok",
         "email": "info@radiohoutstok.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio 2000",
         "email": "info@radio2000.co.za",
         "city": "Durban North, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Gagasi 99.5 FM",
         "email": "management@gagasi995.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Classic 105",
         "email": "info@classic105.com",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "BBC World Service Antananarivo",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "CRI Nairobi",
         "email": "crieng@cri.com.cn",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "CG FM Radio",
         "email": "info@cgfmradio.com",
         "city": "Tabora, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Kwizera",
         "email": "missangadam@aol.com",
         "city": "Ngara, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Luxe Radio",
         "email": "info@luxeradio.ma",
         "city": "Agadir, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "Bok Radio",
         "email": "info@bokradio.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "UNAM Radio",
         "email": "rtyson@unam.na",
         "city": "Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "TWR Africa",
         "email": "info@twrafrica.org",
         "city": "Mbabane, Swaziland",
         "country": "Swaziland"
-    },
-    {
+    }, {
         "station": "Radio Islam Malawi",
         "email": "info@radioislam.org.mw",
         "city": "Blantyre, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Radio Cairo",
         "email": "Webmaster@radiocairo.cjb.net",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "BOHYE 95.3 FM",
         "email": "info@bohyeonline.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Mocambique",
         "email": "webmaster@rm.co.mz",
         "city": "Maputo, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Paradise FM",
         "email": "psdrammtg.edu.gmeh@u",
         "city": "Kololi, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "Base FM",
         "email": "manager@basefm.com.na",
         "city": "Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Al-Aghani",
         "email": "ads@elaghany.com",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Kapital Radio 97.1",
         "email": "info@kapital971.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Dembe FM",
         "email": "Administration@ugamuziki.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Magic FM",
         "email": "skarere@rba.co.rw",
         "city": "Kigali, Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Zambezi FM Radio",
         "email": "swithinhaangala@yahoo.com",
         "city": "Livingstone, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Digida Fm 106.5",
         "email": "info@digidafm.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "TransAfricaRadio.net",
         "email": "info@transafricaradio.net",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Bush Radio",
         "email": "mother@bushradio.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Starr",
         "email": "webmaster@starrfmonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "BBC World Service Bangui",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Bangui, Central African Republic",
         "country": "Central African Republic"
-    },
-    {
+    }, {
         "station": "LIVE FM",
         "email": "info@livefmghana.com",
         "city": "Tesano, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "CLASSIC FM 97.3",
         "email": "info@classic97.net",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Capp FM",
         "email": "info@cappfm.com",
         "city": "Cotonou, Benin",
         "country": "Benin"
-    },
-    {
+    }, {
         "station": "SWAHIBA FM",
         "email": "info@swahibafm.com",
         "city": "Zanzibar, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Medan El-Tahrir",
         "email": "info@radioeltahrir.com",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Alliance 92",
         "email": "frequence92@live.fr",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "Sunlight FM",
         "email": "sunlightfm@wanadoo.fr",
         "city": "Saint-Philippe, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Radio Atlantis",
         "email": "rafm@mweb.co.za",
         "city": "Atlantis, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Today",
         "email": "info@1485.org.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "BBC World Service Victoria",
         "email": "worldservice@bbc.co.uk",
         "city": "Victoria, Seychelles",
         "country": "Seychelles"
-    },
-    {
+    }, {
         "station": "Homeboyz Radio",
         "email": "info@homeboyzradio.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "87.9 Planet FM",
         "email": "planetfmradio@gmail.com",
         "city": "Morogoro, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Vuma FM",
         "email": "info@vumafm.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Choice FM",
         "email": "production@choicefm.co",
         "city": "Dar Es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Yarona FM",
         "email": "info@yaronafm.co.bw",
         "city": "Gaborone, Botswana",
         "country": "Botswana"
-    },
-    {
+    }, {
         "station": "Omega FM",
         "email": "omegafm@omegafm.com",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Flava FM",
         "email": "admin@flavafm.co.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Radio Laghouat",
         "email": "info@radio-laghouat.dz",
         "city": "Aflou, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "BBC World Service Khartoum",
         "email": "worldservice@bbc.co.uk",
         "city": "Khartoum, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "L.A.C FM",
         "email": "lac@lacluanda.com",
         "city": "Luanda, Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "234Radio",
         "email": "info@234radio.com",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Gifts 105.5Fm",
         "email": "info@giftsfmonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Kantinka fm",
         "email": "info@kantinkafmonline.com",
         "city": "Agona Swedru , Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Nostalgie Cameroun",
         "email": "info@nostalgie.cm",
         "city": "Douala, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "E-FM Radio",
         "email": "info@efm.co.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Zik FM",
         "email": "info@zikfm.net",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "GBC Obonu FM",
         "email": "info@gbcghana.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Voix des Jeunes de Kita",
         "email": "radio@voixdesjeunes-kita.ml",
         "city": "Kita, Mali, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Radio Coran",
         "email": "contact@radio-coran.net",
         "city": "Algiers, Algiers, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "CRTV",
         "email": "fm94@crtv.cm",
         "city": "Yaoundé, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Radio 99",
         "email": "comercial@99fm.co.mz",
         "city": "Maputo, Em primeiro lugar em todo lugar, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Radio Don Bosco",
         "email": "rdb@radiodonbosco.org",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "Radio Maria (Malawi)",
         "email": " radiomaria@africa-online.net",
         "city": "Blantyre, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "104.9 Ssuubi FM Kampala",
         "email": "abmasembe.md@ssuubifmradio.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Hitz FM",
         "email": "info@myjoyonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Okapi",
         "email": "info@hirondelle.org",
         "city": "Kinshasa, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "GhRadio1",
         "email": "info@radio1ghana.com",
         "city": "Bunso, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "ZENJI FM",
         "email": "info@zenjfmradio.com",
         "city": "Zanzibar, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "YFM",
         "email": "eadu@gmaworld.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Top 103.1",
         "email": "info@topradioghana.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Moonlite FM",
         "email": "info@moonlitefm.com",
         "city": "Sunyani, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Top Congo FM",
         "email": "info@topcongo.info",
         "city": "Kinshasa, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "Groot FM",
         "email": "grootfm@xpbroadcasting.com",
         "city": "Pretoria, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Lotus FM",
         "email": "info@lotusfm.co.za",
         "city": "Tygerberg Hills, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio 99",
         "email": "99fm@99fm.com.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Cool FM 96.9 Kano",
         "email": "rcahilig@coollink.us",
         "city": "Kano, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Megamind",
         "email": "info@fm12.net",
         "city": "Khartoum, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "Icengelo Radio",
         "email": "radioice@zamtel.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "ZiFM Stereo",
         "email": "info@zifmstereo.co.zw",
         "city": "Harare, Zimbabwe",
         "country": "Zimbabwe"
-    },
-    {
+    }, {
         "station": "Radio Top FM",
         "email": "top-fm@wanadoo.fr",
         "city": "Manapany-les Hauts, Le Tampon, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "LM Radio",
         "email": "info@lmradio.net",
         "city": "Maputo, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Kyzz Fm",
         "email": "info@kyzzfmonline.com",
         "city": "Takoradi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "BakGat Radio",
         "email": "bakgatradio@gmail.com",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Phoenix",
         "email": "rphoenix@zamnet.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Radio Maria",
         "email": "info.tan@radiomaria.org",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "KFM",
         "email": "kfm@kfm.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Maria (Malawi)",
         "email": " radiomaria@africa-online.net",
         "city": "Mangochi, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Brila FM",
         "email": "info@brila.net",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Saida",
         "email": "info@saidafm.com",
         "city": "Saida, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "COUNTRY FM",
         "email": "countryfm5@yahoo.com",
         "city": "Iringa, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Ukhozi FM",
         "email": "nzimandew@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "PureFM (Seychelles)",
         "email": "90.7@purefm.sc",
         "city": "Victoria, Seychelles",
         "country": "Seychelles"
-    },
-    {
+    }, {
         "station": "Jacaranda Afrikaans",
         "email": "advertensieguru@ja.fm",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Rite 90.1 Fm",
         "email": "info@ritefmonline.com",
         "city": "Somanya, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Omega FM Ouaga",
         "email": "omegafm@omegabf.net",
         "city": "Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "Capital Radio",
         "email": "info@capitalradio.co.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Amplitude FM",
         "email": "contact@cameroon-info.net",
         "city": "Yaounde, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Radio Maranatha",
         "email": "fmradiomaranatha@gmail.com",
         "city": "Kabwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "SAFM",
         "email": "tshiradost@safm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "702",
         "email": "702webmaster@702.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio JVA",
         "email": "radiojva@yahoo.fr",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Radio10",
         "email": "contact@radio10.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "El Gouna Radio",
         "email": "romolo1@romolo.com",
         "city": "Hurghada, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Radio Maria",
         "email": "radiomariarwanda@gmail.com",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "BBC World Service Nairobi",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Nairobi, Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "KT Radio",
         "email": "info@ktradio.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Justice FM",
         "email": "info@radiojusticeonline.com",
         "city": "Tamale, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Gambia Radio GRTS",
         "email": "info@accessgambia.com",
         "city": "Bonto, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "Star FM 96.6 Banjul",
         "email": "starfmgambia@yahoo.com",
         "city": "Sere Kunda, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "O FM 107.7",
         "email": "ofmghanaonline@gmail.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Voice of Teso Radio",
         "email": "info@imbaraga.com",
         "city": "Teso, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Arua One FM",
         "email": "tam978@gmail.com",
         "city": "Arua, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "BBC World Service Accra",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Accra, Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Link FM",
         "email": "info@linkfm.co.za",
         "city": "East London, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Mango 96 FM",
         "email": "Contact@mango96.com",
         "city": "Omdurman, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "YONECO FM",
         "email": "panjiharawa@yoneco.org.mw",
         "city": "Zomba, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Lesedi FM",
         "email": "mothibipm@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio One R1",
         "email": "redaction@r1.mu",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Radio Islam",
         "email": "support@radioislam.org.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Porto-Novo, Benin",
         "country": "Benin"
-    },
-    {
+    }, {
         "station": "Seychelles Lounge Radio",
         "email": "contact@fmseychelles.com",
         "city": "Victoria, Seychelles",
         "country": "Seychelles"
-    },
-    {
+    }, {
         "station": "Alrabaa 94 FM",
         "email": "info@alrabaafm.com",
         "city": "Khartoum, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "Upendo FM",
         "email": "info@elctecd.org",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Maria (Zambia)",
         "email": "director.zam@radiomaria.org",
         "city": "Chipata, Northeast, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Qiblaten FM",
         "email": "info@dhinureyn.com",
         "city": "Iringa, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "KBC - English",
         "email": "md@kbc.co.ke",
         "city": "Nairobi, Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Radio Fahazavana",
         "email": "fahazavana@dts.mg",
         "city": "Faravohitra, Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "BBC World Service English Bay",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Edinburgh of the Seven Seas, St. Helena",
         "country": "St. Helena"
-    },
-    {
+    }, {
         "station": "NBC Lozi",
         "email": "fzinner@nbc.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "HOT 91.9fm",
         "email": "onair@hot919.co.za",
         "city": "Randburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Saint FM",
         "email": "fm@cwimail.sh",
         "city": "Jamestown, St. Helena",
         "country": "St. Helena"
-    },
-    {
+    }, {
         "station": "Radio One",
         "email": "info@radio1.co.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Relizane",
         "email": "contact@radiorelizane.net",
         "city": "Algiers, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Radio Maria (Tanzania)",
         "email": "info.tan@radiomaria.org",
         "city": "Arusha, Arusha Region, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Ultimate 106.9fm",
         "email": "info@ultimate1069.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Chaîne Nationale RTS",
         "email": "rts@rts.sn",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "SW Radio Africa",
         "email": "news@swradioafrica.com",
         "city": "Avoca, Zimbabwe",
         "country": "Zimbabwe"
-    },
-    {
+    }, {
         "station": "Lekker FM",
         "email": "info@lekkerfm.com",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "viva radio madagascar",
         "email": "viva.infog@blueline.mg",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "Upendofm Eldoret Kenya",
         "email": "info@upendofm.org",
         "city": "Eldoret, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "BBC World Service Mbarara",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Mbarara, Mbarara, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Anapua FM",
         "email": "info@anapuafm.com",
         "city": "Kenyasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Nationale",
         "email": "ard_at@yahoo.de",
         "city": "Boukrim, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Mines FM",
         "email": "info@minesfm.com",
         "city": "Gafsa, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Fish Fm",
         "email": "info@fishkenya.net",
         "city": "Eldoret, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "East Coast Radio",
         "email": "studio@ecr.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Ouagadougou, Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "Munghana Lonene FM",
         "email": "mlfm@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "BBC World Service Abidjan",
         "email": "worldservice@bbc.co.uk",
         "city": "Abidjan, Côte d'Ivoire",
         "country": "Côte d'Ivoire"
-    },
-    {
+    }, {
         "station": "Radio Maria (Uganda)",
         "email": "coordinator.uga@radiomaria.org",
         "city": "Kampala, Mbarara, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Kessben FM",
         "email": "info@kessbenfm.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Happy 98.9 FM",
         "email": "info@happyghana.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Touch FM",
         "email": "95.9@touch.fm",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Beat FM",
         "email": "technical@capitalfm-ug.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Kiss FM",
         "email": "kissmf@saharamedia.co.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Ma-FM",
         "email": "sidonie@matv.mg",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "ATL FM 100.5MHZ",
         "email": "webmaster@atlfmonline.com",
         "city": "Cape Coast, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Impact 103",
         "email": "radio@impactradio.co.za",
         "city": "Pretoria, Pretoria, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "PE FM",
         "email": "info@pefm.co.za",
         "city": "Port Elizabeth, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Setif",
         "email": "contact.radio.setif@gmail.com",
         "city": "Sétif, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Jeppe FM",
         "email": "info@jeppefm.tk",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Medeamaa",
         "email": "medeamaa929fm@gmail.com",
         "city": "Tarkwa, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Rockcity FM",
         "email": "info@rockcityfmradio.com",
         "city": "Abeokuta, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Algoa FM",
         "email": "info@algoafm.co.za",
         "city": "East London, Eastern Cape Prov., South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Christian Voice Zambia",
         "email": "voicefm@zamnet.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Douala, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Hot FM",
         "email": "pagegroupmedia@gmail.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Breeze 90.9FM",
         "email": "breezefmgh@gmail.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Umhlobo Wenene FM",
         "email": "magwan@sabc.co.za",
         "city": "Port Elizabeth, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Ecclesia",
         "email": "info@radioecclesia.org",
         "city": "Luanda, Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "Top Radio FM",
         "email": "info@topradio.co.tz",
         "city": "Morogoro, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Believers Broadcasting Network SL",
         "email": "admin@bbn-sl.org",
         "city": "Freetown, Sierra Leone",
         "country": "Sierra Leone"
-    },
-    {
+    }, {
         "station": "Ngola Radio",
         "email": "ngolaradio1@hotmail.com",
         "city": "Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "Afro FM",
         "email": "info@afro105fm.com",
         "city": "Addis Abeba, Ethiopia",
         "country": "Ethiopia"
-    },
-    {
+    }, {
         "station": "Velly Music",
         "email": "jimvelly@gmail.com",
         "city": "Saint-Paul, Le Port/Saint-Paul, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Shems FM",
         "email": "contact@shemsfm.net",
         "city": "Gafsa, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "90.6 FM Stereo",
         "email": "vcr906fm@gmail.com",
         "city": "Vereeniging, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Burkina",
         "email": "radio@rtb.bf",
         "city": "Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "Easy FM",
         "email": "info@easyfm.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Capital FM",
         "email": "digital@capitalfm.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "BBC World Service Bigara",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Ligwalagwala FM",
         "email": "ligwalagwalafm@sabc.co.za",
         "city": "Pretoria, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Energy 100 FM",
         "email": "studio@energy100fm.com",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "Liberty Radio English",
         "email": "libertyradiong@gmail.com",
         "city": "Kaduna, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Hits",
         "email": "contact@radiohits.co",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "NBC Rukavango",
         "email": "fzinner@nbc.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "BBC World Service Dar es Salaam",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Dar es Salaam, Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Zone 100.7",
         "email": "Info@RadioZone.ly",
         "city": "Tripoli, Libyan Arab Jamahiriya",
         "country": "Libyan Arab Jamahiriya"
-    },
-    {
+    }, {
         "station": "Capital FM",
         "email": "saulsounds@gmail.com",
         "city": "Banjul, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "Radio IFM",
         "email": "contact@ifm.tn",
         "city": "Tunis, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Nostalgie FM",
         "email": "commercial@nostalgie.sn",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Hero Radio",
         "email": "info@hero.co.ke",
         "city": "Nakuru, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Hindvani Radio",
         "email": "sales@hindvani.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Ghetto Radio",
         "email": "info@ghettoradio.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Nigeriainfo FM 92.3 PH",
         "email": "rcahilig@coollink.us",
         "city": "Port Harcourt, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Ukhozi FM",
         "email": "nzimandew@sabc.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Maria (Togo)",
         "email": "director.tog@radiomaria.org",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Bukedde FM 100.5",
         "email": "tam978@gmail.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Tunis Jeunes",
         "email": "radio.jeunes@radiotunisienne.tn",
         "city": "Tunis, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Lome",
         "email": "radiolome@radiolome.tg",
         "city": "Lomé, Togo",
         "country": "Togo"
-    },
-    {
+    }, {
         "station": "Omulunga Radio",
         "email": "omulunga @ omulunga.com.na",
         "city": "Klein Windhoek, Namibia",
         "country": "Namibia"
-    },
-    {
+    }, {
         "station": "GoodHope FM",
         "email": "amanda@goodhopefm.co.za",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "KBC R Taifa",
         "email": "md@kbc.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Winners FM",
         "email": "info@winnersfm.com",
         "city": "Techiman, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Sfax",
         "email": "info@radiotunis.com",
         "city": "Sfax, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "HighLife Radio",
         "email": "info@highliferadio.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Umhlobo Wenene FM",
         "email": "magwan@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Ouaga FM",
         "email": "radio.ouaga@yahoo.fr",
         "city": "Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "ZNBC Radio 4",
         "email": "hyde.haguta@znbc.co.zm",
         "city": "Lusaka, Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Voice Radio",
         "email": "Contact@voiceradio.co",
         "city": "Bangui, Central African Republic",
         "country": "Central African Republic"
-    },
-    {
+    }, {
         "station": "Free FM",
         "email": "info@freefm.org.nz",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Icengelo Radio",
         "email": "radioice@zamtel.zm",
         "city": "Kaloko, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "1 fm",
         "email": "ericit@1fm.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Contact FM",
         "email": "info@contactfm.co.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Metro 97.7 FM",
         "email": "info@metro977.fm",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Jozi FM",
         "email": "tshepojnr@jozifm.co.za",
         "city": "Soweto, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Flash FM Rwanda",
         "email": "info@flashfm.rw",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Trinity 96.7 fm",
         "email": "info@mytrinityfmonline.com",
         "city": "Bogoso, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Sky One Radio",
         "email": "contact@skyonecameroun.com",
         "city": "Yaounde, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Radio Tunis International",
         "email": "rtci@radiotunisienne.tn",
         "city": "Tunis, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Rail Bi FM 101.3",
         "email": "railbifm@gmail.com",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Continental",
         "email": "contactus@rc1023.fm",
         "city": "Ikosi, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Royal FM",
         "email": "info@theroyalfm.com",
         "city": "Yenagoa, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Jam",
         "email": "jamfm@aviso.ci",
         "city": "Abidjan, Côte d'Ivoire",
         "country": "Côte d'Ivoire"
-    },
-    {
+    }, {
         "station": "MBC Radio Rodrigues",
         "email": "customercare@mbc.intnet.mu",
         "city": "Citronelle, Rodrigues Island, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Radio Cocody FM",
         "email": "info@radiococodyfm.com",
         "city": "Abidjan, Côte d'Ivoire",
         "country": "Côte d'Ivoire"
-    },
-    {
+    }, {
         "station": "Radio Mauritanie",
         "email": "info@radiomauritanie.mr",
         "city": "Nouakchott, Mauritania",
         "country": "Mauritania"
-    },
-    {
+    }, {
         "station": "Radio Maranatha",
         "email": "maranatha.fm@serv.eit.bj",
         "city": "Cotonou, Benin",
         "country": "Benin"
-    },
-    {
+    }, {
         "station": "MFM 92.6",
         "email": "sm@mfm.sun.ac.za",
         "city": "Stellenbosch, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Gafsa",
         "email": "info@radiotunis.com",
         "city": "Gafsa, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Nigeriainfo FM 99.3 Lagos",
         "email": "info@nigeriainfo.fm",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Jambo",
         "email": "info@radiojambo.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Radio Mauritanie",
         "email": "info@radiomauritanie.mr",
         "city": "Nouakchott, Mauritania",
         "country": "Mauritania"
-    },
-    {
+    }, {
         "station": "Cool FM 96.9 Abuja",
         "email": "rcahilig@coollink.us",
         "city": "Abuja, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Times fm",
         "email": "info@timesfm.co.tz",
         "city": "Dar Es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "SRTC FM 100",
         "email": "fm100@sudanradio.info",
         "city": "Omdurman, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "Radio Tiemeni Siantou",
         "email": "info@cameroonvoice.com",
         "city": "Yaoundé, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Radiocity",
         "email": "info@radiocity.ug",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Annaba",
         "email": "annabafm@gmail.com",
         "city": "Annaba, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Sweet Melodies FM",
         "email": "sweetmelodiesfm@gmail.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "TUKS FM",
         "email": "info@tuksfm.co.za",
         "city": "Pretoria, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "ZNBC Radio 2",
         "email": "hyde.haguta@znbc.co.zm",
         "city": "Lusaka, Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Mostaganem FM",
         "email": "contact@radiomostaganem.net",
         "city": "Algiers , Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Al Nour FM",
         "email": "radio@radio-mali.ml",
         "city": "Koulikoro, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Lutheran Radio Centre",
         "email": "redio@elct.org",
         "city": "Moshi, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Voice of Wits",
         "email": "info@vowfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "RTS Radio 1",
         "email": "rts@rts.n",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "TWR Voice of the Church",
         "email": "info@twrafrica.org",
         "city": "Lavumisa, Swaziland",
         "country": "Swaziland"
-    },
-    {
+    }, {
         "station": "Wazobia FM 95.1 Lagos",
         "email": "rcahilig@coollink.us",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Citi FM",
         "email": "info@citifmonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Power fm",
         "email": "info@powerfm.co.ug",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Urban Hit",
         "email": "contact@urbanhit.fm",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Space FM",
         "email": "info@spacefmghana.com",
         "city": "Sunyani, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Nogoum FM",
         "email": "contactnrp@nileradioproductions.net",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "Rahma Radio 97.3",
         "email": "rahmaradio@yahoo.com",
         "city": "Kano, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Mlimani FM",
         "email": "sjmc@udsm.ac.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Atlantic Radio",
         "email": "info@atlanticradio.ma",
         "city": "Casablanca, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "EXO FM",
         "email": "gtmoi974@yahoo.fr",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Kass FM",
         "email": "info@kassfm.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "BBC World Service Wad Madani",
         "email": "worldservice@bbc.co.uk",
         "city": "Wad Madani, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "Paragon 99.9",
         "email": "info@paragon999.com",
         "city": "Takoradi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Sankofa Radio",
         "email": "info@sankofaradio.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "RB1-Radio Botswana",
         "email": "asesinyi@gov.bw",
         "city": "Gaborone, Botswana",
         "country": "Botswana"
-    },
-    {
+    }, {
         "station": "AGOO EAST",
         "email": "info@agooeast.com",
         "city": "NkawKaw, KW, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Alpha Fm",
         "email": "damasese@operamail.com",
         "city": "Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Eko FM",
         "email": "INFO@RADIOLAGOSEKOFM.NET,",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Atinka 104.7 FM",
         "email": "info@atinkaonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Agoro na eye de",
         "email": " info@agorofmonline.com",
         "city": "Berekum, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "TWR Africa",
         "email": "info@twrafrica.org",
         "city": "Blantyre, Malawi",
         "country": "Malawi"
-    },
-    {
+    }, {
         "station": "Bryt Fm",
         "email": "info@brytfmonline.com",
         "city": "Koforidua, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Madagascar > RNA Antalaha",
         "email": "contact@rna-madagascar.com",
         "city": "Antalaha, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "Fox FM",
         "email": "info@fox979.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Maria (Rwanda)",
         "email": " radiomariarwanda@gmail.com",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "KBC - Kiswahili",
         "email": "md@kbc.co.ke",
         "city": "Limuru, Nairobi, Kenya",
         "country": "Nairobi"
-    },
-    {
+    }, {
         "station": "Gabz FM",
         "email": "mail@gabzfm.com",
         "city": "Gaborone, Botswana",
         "country": "Botswana"
-    },
-    {
+    }, {
         "station": "Radio Des Jeunes FM",
         "email": "contact@rdeejay.net",
         "city": "Antananarivo, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "88.1 Ssuubi FM Masaka",
         "email": "abmasembe.md@ssuubifmradio.com",
         "city": "Masaka, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Morning Star Radio",
         "email": "info@morningstaradio.or.tz",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio N'Gola Yetu RNA",
         "email": "rna@rna.ao",
         "city": "Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "BBC World Service Dakar",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Waumini",
         "email": "it@radiowaumini.org",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Savane FM",
         "email": "contact@savanefm.net",
         "city": "Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "BBC World Service Mombasa",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Mombasa, Mombasa, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "KBC Mayienga FM",
         "email": "kisumu.staions@kbc.co.ke",
         "city": "Kisumu, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Boss FM",
         "email": "bossfmonline@yahoo.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Capital Radio",
         "email": "info@capitalradiosudan.com",
         "city": "Khartoum, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "Wild Coast FM",
         "email": "studio@wildcoastfm.co.za",
         "city": "East London, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "KOI FM",
         "email": "direct@koifm.re",
         "city": "LE PORT, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Radio Ngoma",
         "email": "admin@rnafizi.net",
         "city": "Fizi, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "Joy FM",
         "email": "info@myjoyonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Lamp Fall FM",
         "email": "fallamptv@gmail.com",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Phoenix",
         "email": "rphoenix@zamnet.zm",
         "city": "Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "ORTM Chaine 2",
         "email": "ortm@ortm.ml",
         "city": "Bamako, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Pravda Radio",
         "email": "info@pravdaradioonline.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Imani Radio",
         "email": "Info@imaniradio.org",
         "city": "Kitale, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Fun Radio Reunion",
         "email": "radio@funradio.re",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Paradise FM",
         "email": "psdrammtg.edu.gmeh@u",
         "city": "Farafenni, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "Radio Unitas",
         "email": "unitasdbg@voil%C3%A0.fr",
         "city": "Diebougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "Rainbow FM",
         "email": "info@rainbowfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Ogun Radio",
         "email": "info@ogunradio.com",
         "city": "Abeokuta, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Alpha Radio",
         "email": "alpharadio1049@yahoo.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Impact Fm Kampala Uganda",
         "email": "info@victoryuganda.org",
         "city": "Kampala, Kampala, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "AYV Radio",
         "email": "info@ayvradio.com",
         "city": "Freetown, Sierra Leone",
         "country": "Sierra Leone"
-    },
-    {
+    }, {
         "station": "Thobela FM",
         "email": "Thobelafm@sabc.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "RADIO KHERI",
         "email": "ramapride@878pridefm.com",
         "city": "Dar es Salaam, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "BBC World Service Maputo",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Maputo, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Kapital FM",
         "email": "info@radionigeria.net",
         "city": "Abuja, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "City 105.1 FM",
         "email": "obioma@city1051fm.com",
         "city": "Ikeja, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Express FM",
         "email": "contact@expressfm.tn",
         "city": "Tunis, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Maxx 105.1 FM",
         "email": "info@radiomaxxonline.com",
         "city": "Sekondi-Takoradi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Huruma",
         "email": "radiohuruma@gmail.com",
         "city": "Tanga, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Mama FM",
         "email": "umwa@africaonline.co.ug",
         "city": "Mamba, FM, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Studio Ijambo",
         "email": "mdiego@sfcg.org.bi",
         "city": "Bujumbura, Burundi",
         "country": "Burundi"
-    },
-    {
+    }, {
         "station": "Radio 5",
         "email": "rna@rna.ao",
         "city": "Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Niamey, Niger",
         "country": "Niger"
-    },
-    {
+    }, {
         "station": "LibyanaHITS FM",
         "email": "info@libyanahits.fm",
         "city": "Benghazi, Libyan Arab Jamahiriya",
         "country": "Libyan Arab Jamahiriya"
-    },
-    {
+    }, {
         "station": "nananom fm",
         "email": "nananom92.5fm@gmail.com",
         "city": "Goaso, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "BBC World Service Bujumbura",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Bujumbura, Burundi",
         "country": "Burundi"
-    },
-    {
+    }, {
         "station": "Radio Regionale",
         "email": "mail@aintemouchentfm.com",
         "city": "'Ain Temouchent, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Arusha Mambo FM",
         "email": "emtowe@arushamambo.com",
         "city": "Arusha, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Hot FM",
         "email": "info@hot877.com",
         "city": "Lusaka, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "The Beat",
         "email": "enquiries@thebeat99.com",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Angel FM",
         "email": "info@angelfmonline.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio 9090",
         "email": "info@mobtada.com",
         "city": "Cairo, Egypt",
         "country": "Egypt"
-    },
-    {
+    }, {
         "station": "SaharaMedia FM",
         "email": "saharamedias@gmail.com",
         "city": "Nouakchott, Mauritania",
         "country": "Mauritania"
-    },
-    {
+    }, {
         "station": "MBC Taal FM",
         "email": "customercare@mbc.intnet.mu",
         "city": "Port Louis, Mauritius",
         "country": "Mauritius"
-    },
-    {
+    }, {
         "station": "Radio Luanda RNA",
         "email": "rluanda@rna.ao",
         "city": "Luanda, Angola",
         "country": "Angola"
-    },
-    {
+    }, {
         "station": "102.7 NAIJA FM",
         "email": "info@naija102.com",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Jesus is Lord Radio",
         "email": "jesusislord.fmradio@gmail.com",
         "city": "Nakuru, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Chaîne Inter RTS",
         "email": "rts@rts.sn",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Ark FM 107.1 MHz",
         "email": "info@myarkfmonline.com",
         "city": "Sunyani, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Dala FM",
         "email": "info@dalafmkano.com",
         "city": "Dala, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "HHC Alive FM Radio",
         "email": "info@hhcalivefm.org",
         "city": "Mwanza, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Metro 94.1 FM",
         "email": "samson.deen@metro941.fm",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Tripoli FM",
         "email": "info@tripolifm.ly",
         "city": "Tripoli, Libyan Arab Jamahiriya",
         "country": "Libyan Arab Jamahiriya"
-    },
-    {
+    }, {
         "station": "BBC World Service Freetown",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Freetown, Sierra Leone",
         "country": "Sierra Leone"
-    },
-    {
+    }, {
         "station": "BBC World Service Bamako",
         "email": "worldservice@bbc.co.uk",
         "city": "Bamako, Bamako, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "SFM - SOICO FM",
         "email": "sfm@soico.co.mz",
         "city": "Maputo, Mozambique",
         "country": "Mozambique"
-    },
-    {
+    }, {
         "station": "Skyy Power FM",
         "email": "info@skyypowerfmonline.com",
         "city": "Takoradi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Shabab Libya FM",
         "email": "info@101LY.com",
         "city": "Benghazi, Libyan Arab Jamahiriya",
         "country": "Libyan Arab Jamahiriya"
-    },
-    {
+    }, {
         "station": "Wazobia FM 94.1 PH",
         "email": "info@wazobiafm.com",
         "city": "Port Harcourt, Rivers, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Biskra",
         "email": "radio.biskra@gmail.com",
         "city": "Biskra, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "GHRadio1",
         "email": "contact@ghradio1.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "KBC - Western",
         "email": "md@kbc.co.ke",
         "city": "Kisumu, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Eldos FM",
         "email": "missb@eldosfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "N'Djamena, Chad",
         "country": "Chad"
-    },
-    {
+    }, {
         "station": "Radio Tygerberg FM",
         "email": "willem@104fm.org.za",
         "city": "Bellville, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Tunis Culture",
         "email": "radio.culturelle@radiotunisienne.tn",
         "city": "Remada, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "The Voice of the Cape",
         "email": "info@vocfm.co.za",
         "city": "Tygerberg Hills, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Maria (Rwanda)",
         "email": "radiomariarwanda@gmail.com",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Radio Madjoura Touba",
         "email": " madjourafm@gmail.com",
         "city": "Touba, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Radio 2000",
         "email": "info@radio2000.co.za",
         "city": "Parsons Hill, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Abidjan, Côte d'Ivoire",
         "country": "Côte d'Ivoire"
-    },
-    {
+    }, {
         "station": "Buddu Fm",
         "email": "info@imbaraga.com",
         "city": "Masaka, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Hope FM",
         "email": "info@hopefm.org",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Espace FM",
         "email": "services@espacefmguinee.info",
         "city": "Conakry, Guinea",
         "country": "Guinea"
-    },
-    {
+    }, {
         "station": "Radio Comores",
         "email": "naynour@hotmail.com",
         "city": "Moroni, Comoros",
         "country": "Comoros"
-    },
-    {
+    }, {
         "station": "Sheger 102.1 FM",
         "email": "info@shegerfm.com",
         "city": "Addis Abeba, Ethiopia",
         "country": "Ethiopia"
-    },
-    {
+    }, {
         "station": "Radio Canal 2000",
         "email": "canal2000@spider.toolnet.org",
         "city": "Bamako, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Radio Vie Reunion",
         "email": "radiovie@orange.fr",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Classic FM",
         "email": "info@classicfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Rwanda",
         "email": "skarere@rba.co.rw",
         "city": "Kigali, Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Radio Skikda",
         "email": "info@radio-skikda.dz",
         "city": "Skikda, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Liberty Radio Hausa",
         "email": "libertyradiong@gmail.com",
         "city": "Kaduna, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Yaoundé, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "Freedom Radio",
         "email": "info@freedomradionig.com",
         "city": "Kano, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "SeneRadio FM",
         "email": "senegalmusique@gmail.com",
         "city": "Dakar, Senegal",
         "country": "Senegal"
-    },
-    {
+    }, {
         "station": "Radio Freedom FM",
         "email": "freedom@guetali.fr",
         "city": "Saint-Denis, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "Réveil FM",
         "email": "contactez webmaster@disnet.8k.com",
         "city": "Kinshasa, DR Congo",
         "country": "DR Congo"
-    },
-    {
+    }, {
         "station": "Shalom FM",
         "email": "info@berekumcity.com",
         "city": "Berekum, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "VIRGIN CITY RADIO",
         "email": "virgincityfm@yahoo.com",
         "city": "KONONGO, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Rainbow 94.1 FM",
         "email": "balogun.olakunle@rainbow941.fm",
         "city": "Isheri-Olofin, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Pacis",
         "email": "tonino.p.arua@radiopacis.org",
         "city": "Arua, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Radio Mars",
         "email": "contact@radiomars.ma        \"",
         "city": "Casablanca, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "Radio Sonder Grense",
         "email": "rekenaar@rsg.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Kass FM",
         "email": "info@kassfm.co.ke",
         "city": "Mombasa, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "ZNBC Radio 2",
         "email": "hyde.haguta@znbc.co.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Sunsum FM",
         "email": "info@sunsumfmonline.com",
         "city": "Kumasi, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Akasanoma Radio Ghana",
         "email": "ANTHONYVELSCO@GMAIL.COM",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Radio Democracy",
         "email": " info@radiodemocracy.sl",
         "city": "Freetown, Sierra Leone",
         "country": "ierra Leone"
-    },
-    {
+    }, {
         "station": "91.2 Crooze FM",
         "email": "info@croozefm.com",
         "city": "Mbarara, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "R Tunis Nationale",
         "email": "info@radiotunis.com",
         "city": "Tunis, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "KBC Coro FM",
         "email": "corofm@kbc.co.ke",
         "city": "Nairobi, Kenya",
         "country": "Kenya"
-    },
-    {
+    }, {
         "station": "Radio Ndeke Luka",
         "email": "princegboute@hotmail.fr",
         "city": "Bangui, Central African Republic",
         "country": "Central African Republic"
-    },
-    {
+    }, {
         "station": "Radio Voanio",
         "email": "radio@voanio.com",
         "city": "Toamasina, Madagascar",
         "country": "Madagascar"
-    },
-    {
+    }, {
         "station": "GBC Uniiq FM",
         "email": "info@gbcghana.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Anidaso 101.5 FM",
         "email": "info@anidasofm.com",
         "city": "Japekrom, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Calvary Radio",
         "email": "Comments@Calvary105.com",
         "city": "Soroti, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Royal FM 95.1 Ilorin",
         "email": "radio951@royalfm.net",
         "city": "Ilorin, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Radio Balafon",
         "email": "contact@radiobalafon.com",
         "city": "Douala, Cameroon",
         "country": "Cameroon"
-    },
-    {
+    }, {
         "station": "UJFM",
         "email": "enquiries@ujfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "BBC World Service Maseru",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Maseru, Lesotho",
         "country": "Lesotho"
-    },
-    {
+    }, {
         "station": "Lotus FM",
         "email": "info@lotusfm.co.za",
         "city": "Durban, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "BBC World Service Ouagadougou",
         "email": "worldservice@bbc.co.uk",
         "city": "Ouagadougou, Ouagadougou, Burkina Faso",
         "country": "Burkina Faso"
-    },
-    {
+    }, {
         "station": "RSL Radio",
         "email": "contact@rslradio.fm",
         "city": "La Riviere, Reunion",
         "country": "Reunion"
-    },
-    {
+    }, {
         "station": "FoP Radio",
         "email": "fopnetwork@gmail",
         "city": "Moyamba, Sierra Leone",
         "country": "Sierra Leone"
-    },
-    {
+    }, {
         "station": "Zami 90.7 FM",
         "email": "contact@zamiradio.com",
         "city": "Addis Ababa, Ethiopia",
         "country": "Ethiopia"
-    },
-    {
+    }, {
         "station": "Y FM",
         "email": "yfm@yfm.co.za",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio C-Flat",
         "email": "radcflat@iafrica.com",
         "city": "Cape Town, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Smooth 98.1",
         "email": "info@smooth981.fm",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "ZNBC Radio 4",
         "email": "hyde.haguta@znbc.co.zm",
         "city": "Kitwe, Zambia",
         "country": "Zambia"
-    },
-    {
+    }, {
         "station": "Radio Helderberg",
         "email": "contact@radiohelderberg.co.za",
         "city": "Helderberg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Ghana Today Radio",
         "email": "info@ghanatoday.com",
         "city": "Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Libreville, Gabon",
         "country": "Gabon"
-    },
-    {
+    }, {
         "station": "Cool FM 96.9 Lagos",
         "email": "rcahilig@coollink.us",
         "city": "Lagos, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Wazobia FM 99.5 Abuja",
         "email": "rcahilig@coollink.us",
         "city": "Abuja, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "A1 Radio 101.1MHz",
         "email": "info@a1radioonline.com",
         "city": "Bolgatanga, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "Khartoum FM",
         "email": "admin@kfm89.net",
         "city": "Khartoum, Sudan",
         "country": "Sudan"
-    },
-    {
+    }, {
         "station": "BBC World Service Kinshasa",
         "email": "bbcwsafrica@bbc.co.uk",
         "city": "Kinshassa, Congo",
         "country": "Congo"
-    },
-    {
+    }, {
         "station": "Cool FM 95.9 PH",
         "email": "rcahilig@coollink.us",
         "city": "Port Harcourt, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Africa N°1",
         "email": "africa@africa1.com",
         "city": "Bamako, Mali",
         "country": "Mali"
-    },
-    {
+    }, {
         "station": "Radio 2M",
         "email": "srafie@2m.ma",
         "city": "Rabat, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "Etop FM 99.4",
         "email": "info@sayituganda.com",
         "city": "Soroti, Uganda",
         "country": "Uganda"
-    },
-    {
+    }, {
         "station": "Medi 1",
         "email": "medi1@medi1.com",
         "city": "Tangier, Morocco",
         "country": "Morocco"
-    },
-    {
+    }, {
         "station": "EBONY FM",
         "email": "info@ebonyfm.com",
         "city": "Iringa, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Coal City FM",
         "email": "info@radionigeria.net",
         "city": "Enugu, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "Taranga FM",
         "email": "alagie72@yahoo.com",
         "city": "Banjul, Gambia",
         "country": "Gambia"
-    },
-    {
+    }, {
         "station": "SplashFM",
         "email": "info@splashfm1055.com",
         "city": "Ibadan, Nigeria",
         "country": "Nigeria"
-    },
-    {
+    }, {
         "station": "House Frequency",
         "email": "info@housefrequency.net",
         "city": "Johannesburg, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Kef",
         "email": "info@radiotunis.com",
         "city": "El Kef, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Safina",
         "email": "dchristlife@yahoo.com",
         "city": "Arusha, Tanzania",
         "country": "Tanzania"
-    },
-    {
+    }, {
         "station": "Radio Jawhara",
         "email": "ridhabnj@gmail.com",
         "city": "Sousse, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Xlive Africa",
         "email": "info@xliveafrica.com",
         "city": "Accra, Greater Accra, Ghana",
         "country": "Ghana"
-    },
-    {
+    }, {
         "station": "729AM Cape Pulpit",
         "email": "gospel@capepulpit.co.za",
         "city": "Bellville, South Africa",
         "country": "South Africa"
-    },
-    {
+    }, {
         "station": "Radio Algerienne Culture",
         "email": "info@algerian-radio.dz",
         "city": "Algiers, Algeria",
         "country": "Algeria"
-    },
-    {
+    }, {
         "station": "Radio Maria (Rwanda)",
         "email": "radiomariarwanda@gmail.com",
         "city": "Kigali, Rwanda",
         "country": "Rwanda"
-    },
-    {
+    }, {
         "station": "Radio Oasis Fm",
         "email": "contact@oasisfm.tn",
         "city": "Gabès, Tunisia",
         "country": "Tunisia"
-    },
-    {
+    }, {
         "station": "Radio Tabalé",
         "email": "radiotable@yahoo.fr",
         "city": "Bamako, Mali",
         "country": "Mali"
     }
-  
+
 ]

@@ -1,5 +1,3 @@
-{
-    "startUrl": [
 "http://tunein.com/radio/Belgrade-r102217/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-53:7]",
 "http://tunein.com/radio/Kosovo-and-Metohija-r102219/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-53:7]",
 "http://tunein.com/radio/Southern-and-Eastern-Serbia--r102221/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-53:7]",
@@ -231,56 +229,3 @@
 "http://tunein.com/radio/Sud-Vest-r102185/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-66:7]",
 "http://tunein.com/radio/Vest-r102180/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-66:7]",
 "http://tunein.com/radio/Spain-r100416/?other=true&page=true&filter=!p%3a!e&other=true&offset=[0-820:7]"
-]
-
-
-,
-    "selectors": [{
-        "parentSelectors": ["_root"],
-        "type": "SelectorLink",
-        "multiple": true,
-        "id": "top_link",
-        "selector": "a._tooltip",
-        "delay": ""
-    }, {
-        "parentSelectors": ["top_link"],
-        "type": "SelectorText",
-        "multiple": false,
-        "id": "station",
-        "selector": "div.info h1",
-        "regex": "",
-        "delay": ""
-    }, {
-        "parentSelectors": ["top_link"],
-        "type": "SelectorText",
-        "multiple": false,
-        "id": "city",
-        "selector": "div.info-panel li:nth-of-type(1) span",
-        "regex": "",
-        "delay": ""
-    }, {
-        "parentSelectors": ["top_link"],
-        "type": "SelectorLink",
-        "multiple": false,
-        "id": "email",
-        "selector": "li.link-list a:nth-of-type(2)",
-        "delay": ""
-    }],
-    "_id": "europe_v3"
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
